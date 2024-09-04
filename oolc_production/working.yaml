@@ -1,0 +1,6 @@
+project_id: oomlout_oomp_current_version_messy
+project_name: Oomlout Oomp Current Version Messy
+project_repo: https://github.com/oomlout/oomlout_oomp_current_version_messy
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
