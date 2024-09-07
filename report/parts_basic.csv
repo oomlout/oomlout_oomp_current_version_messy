@@ -1,0 +1,101 @@
+id,short_code,name,classification,type,size,color,description_main,description_extra,manufacturer,part_number
+camera_cctv_dome_140_mm,,Camera Cctv Dome 140 mm,camera,cctv_dome,140_mm,,,,,
+company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1,,Company Oomlout Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Oomlout Ptcs3Bhv1,company_oomlout,product,prototyping_tin,,hardware_screw_countersunk_m3_black_hex_head_version_1,,oomlout,ptcs3bhv1
+computer_docking_station_microsoft_surface_microsoft_1661,,Computer Docking Station Microsoft Surface Microsoft 1661,computer,docking_station,microsoft_surface,,,,microsoft,1661
+computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt,,Computer Monitor 508 mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt,computer,monitor,508_mm_screen_diagonal,,1680_pixel_width_1050_pixel_height,,dell,e2009wt
+computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb,,Computer Monitor 558 8 mm Screen Diagonal 1920 Pixel Width 1080 Pixel Height Dell E2211Hb,computer,monitor,558_8_mm_screen_diagonal,,1920_pixel_width_1080_pixel_height,,dell,e2211hb
+computer_monitor_mount_vesa_100_mm_width_100_mm_height,,Computer Monitor Mount Vesa 100 mm Width 100 mm Height,computer,monitor_mount,vesa,,100_mm_width_100_mm_height,,,
+computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749,,Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749,computer,power_supply,microsoft_surface,,docking_station,,microsoft,model_1749
+computer_power_supply_microsoft_surface_standalone_microsoft_model_1625,,Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625,computer,power_supply,microsoft_surface,,standalone,,microsoft,model_1625
+computer_tablet_amazon_fire_max_11_amazon_kfsnwi,,Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi,computer,tablet,amazon_fire,,max_11,,amazon,kfsnwi
+computer_tablet_microsoft_surface_pro_3_microsoft_1631,,Computer Tablet Microsoft Surface Pro 3 Microsoft 1631,computer,tablet,microsoft_surface,,pro_3,,microsoft,1631
+computer_tablet_microsoft_surface_pro_3_microsoft_model_1631,,Computer Tablet Microsoft Surface Pro 3 Microsoft Model 1631,computer,tablet,microsoft_surface,,pro_3,,microsoft,model_1631
+computer_tablet_microsoft_surface_pro_4_microsoft_model_1724,,Computer Tablet Microsoft Surface Pro 4 Microsoft Model 1724,computer,tablet,microsoft_surface,,pro_4,,microsoft,model_1724
+computer_tablet_microsoft_surface_pro_5_microsoft_model_1796,,Computer Tablet Microsoft Surface Pro 5 Microsoft Model 1796,computer,tablet,microsoft_surface,,pro_5,,microsoft,model_1796
+computer_tablet_microsoft_surface_pro_7_microsoft_model_1866,,Computer Tablet Microsoft Surface Pro 7 Microsoft Model 1866,computer,tablet,microsoft_surface,,pro_7,,microsoft,model_1866
+computer_webcam_external_microsoft_hd_3000_model_1492,,Computer Webcam External Microsoft Hd 3000 Model 1492,computer,webcam,external,,,,microsoft,hd_3000_model_1492
+electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w,,Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W,electrical,light_panel,600_mm_x_600_mm,,,,baumatic,bx_lc6060_36w
+electronic_battery_box_aa_battery_4_cell,,Electronic Battery Box Aa Battery 4 Cell,electronic,battery_box,aa_battery,,4_cell,,,
+electronic_breakout_board_mcu_devkitc_espressif_esp32,dce32,Electronic Breakout Board MCU Devkitc Espressif Esp32,electronic,breakout_board_mcu,devkitc,,espressif_esp32,,,
+electronic_breakout_board_mcu_pico_raspberry_pi_2040,pcrp2040,Electronic Breakout Board MCU Pico Raspberry Pi 2040,electronic,breakout_board_mcu,pico,,raspberry_pi_2040,,,
+electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible,pm328ac,Electronic Breakout Board MCU Pro Mini Atmega328P Arduino Compatible,electronic,breakout_board_mcu,pro_mini,,atmega328p,arduino_compatible,,
+electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible,sh328ac,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible,electronic,breakout_board_mcu,shennie,,atmega328p,arduino_compatible,,
+electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c,sm,Electronic Breakout Board Motor Driver Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C,electronic,breakout_board_motor_driver,nema_17_39_mm_width_39_mm_height,,stepper_motor,closed_loop,makerbase,mks_servo42c
+electronic_breakout_board_motor_driver_step_stick_stepper_motor,sssm,Electronic Breakout Board Motor Driver Step Stick Stepper Motor,electronic,breakout_board_motor_driver,step_stick,,stepper_motor,,,
+electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141,,Electronic Breakout Board Servo Tester 32 mm Width 28 mm Height Hw 141,electronic,breakout_board_servo_tester,32_mm_width_28_mm_height,,,,,hw_141
+electronic_button_11_mm_panel_mount,b11p,Electronic Button 11 mm Panel Mount,electronic,button,11_mm,panel_mount,,,,
+electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount,b3560s,Electronic Button 3 5 mm X 6 mm X 2 5 mm Surface Mount,electronic,button,3_5_mm_x_6_mm_x_2_5_mm,surface_mount,,,,
+electronic_capacitor_0402_100_nano_farad,c4nf100,Electronic Capacitor 0402 100 Nano Farad,electronic,capacitor,0402,,100_nano_farad,,,
+electronic_capacitor_0402_10_nano_farad,c4nf10,Electronic Capacitor 0402 10 Nano Farad,electronic,capacitor,0402,,10_nano_farad,,,
+electronic_capacitor_0402_1_micro_farad,c4uf1,Electronic Capacitor 0402 1 Micro Farad,electronic,capacitor,0402,,1_micro_farad,,,
+electronic_capacitor_0402_22_nano_farad,c4nf22,Electronic Capacitor 0402 22 Nano Farad,electronic,capacitor,0402,,22_nano_farad,,,
+electronic_capacitor_0402_22_pico_farad,c4pf22,Electronic Capacitor 0402 22 Pico Farad,electronic,capacitor,0402,,22_pico_farad,,,
+electronic_capacitor_0603_100_nano_farad,c6nf100,Electronic Capacitor 0603 100 Nano Farad,electronic,capacitor,0603,,100_nano_farad,,,
+electronic_capacitor_0603_10_micro_farad,c6uf10,Electronic Capacitor 0603 10 Micro Farad,electronic,capacitor,0603,,10_micro_farad,,,
+electronic_capacitor_0603_10_nano_farad,c6nf10,Electronic Capacitor 0603 10 Nano Farad,electronic,capacitor,0603,,10_nano_farad,,,
+electronic_capacitor_0603_1_micro_farad,c6uf1,Electronic Capacitor 0603 1 Micro Farad,electronic,capacitor,0603,,1_micro_farad,,,
+electronic_capacitor_0603_22_pico_farad,c6pf22,Electronic Capacitor 0603 22 Pico Farad,electronic,capacitor,0603,,22_pico_farad,,,
+electronic_capacitor_0603_4_7_micro_farad,c6uf4d7,Electronic Capacitor 0603 4 7 Micro Farad,electronic,capacitor,0603,,4_7_micro_farad,,,
+electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt,catuf4d7v16,Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt,electronic,capacitor,3216_avx_a,tantalum,4_7_micro_farad,16_volt,,
+electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt,c63d54tuf220v10,Electronic Capacitor 6 3 mm Diameter 5 4 mm Tall Electrolytic 220 Micro Farad 10 Volt,electronic,capacitor,6_3_mm_diameter_5_4_mm_tall,electrolytic,220_micro_farad,10_volt,,
+electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt,c63d77tuf220v10,Electronic Capacitor 6 3 mm Diameter 7 7 mm Tall Electrolytic 220 Micro Farad 10 Volt,electronic,capacitor,6_3_mm_diameter_7_7_mm_tall,electrolytic,220_micro_farad,10_volt,,
+electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt,c8d65tuf220v10,Electronic Capacitor 8 mm Diameter 6 5 mm Tall Electrolytic 220 Micro Farad 10 Volt,electronic,capacitor,8_mm_diameter_6_5_mm_tall,electrolytic,220_micro_farad,10_volt,,
+electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz,xcr3213mhz12,Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz,electronic,ceramic_resonator,3213,3_pin_ground_pin_2,12_mega_hertz,,,
+electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz,xcr3213mhz16,Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz,electronic,ceramic_resonator,3213,3_pin_ground_pin_2,16_mega_hertz,,,
+electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz,xcr3213mhz8,Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz,electronic,ceramic_resonator,3213,3_pin_ground_pin_2,8_mega_hertz,,,
+electronic_connector_wago_221_2_pole_inline,conw2212poi,Electronic Connector Wago 221 2 Pole Inline,electronic,connector,wago_221,,2_pole_inline,,,
+electronic_connector_wago_221_3_pole,conw2213po,Electronic Connector Wago 221 3 Pole,electronic,connector,wago_221,,3_pole,,,
+electronic_connector_wago_221_5_pole,conw2215po,Electronic Connector Wago 221 5 Pole,electronic,connector,wago_221,,5_pole,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_black_8_mm_length,b8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Black 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,black,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_blue_8_mm_length,l8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Blue 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,blue,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_brown_8_mm_length,br8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Brown 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,brown,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_gray_8_mm_length,gr8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Gray 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,gray,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_green_8_mm_length,g8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Green 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,green,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length,o8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Orange 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,orange,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_red_8_mm_length,r8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Red 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,red,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_white_8_mm_length,w8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire White 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,white,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_yellow_8_mm_length,y8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Yellow 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,yellow,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_black_8_mm_length,b8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Black 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,black,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_blue_8_mm_length,l8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Blue 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,blue,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_brown_8_mm_length,br8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Brown 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,brown,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_gray_8_mm_length,gr8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Gray 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,gray,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length,g8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Green 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,green,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_orange_8_mm_length,o8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Orange 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,orange,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length,r8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Red 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,red,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_white_8_mm_length,w8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire White 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,white,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length,y8,Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Yellow 8 mm Length,electronic,crimp_bootlace_ferrule,0_8_mm_diameter_wire,yellow,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_black_8_mm_length,b8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Black 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,black,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_blue_8_mm_length,l8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Blue 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,blue,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_brown_8_mm_length,br8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Brown 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,brown,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_gray_8_mm_length,gr8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Gray 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,gray,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_green_8_mm_length,g8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Green 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,green,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_orange_8_mm_length,o8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Orange 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,orange,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length,r8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Red 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,red,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length,w8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire White 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,white,8_mm_length,,,
+electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_yellow_8_mm_length,y8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Yellow 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,yellow,8_mm_length,,,
+electronic_crimp_housing_2_54_mm_black_10_pin_dupont,chi1b10pd,Electronic Crimp Housing 2 54 mm Black 10 Pin Dupont,electronic,crimp_housing,2_54_mm,black,10_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_11_pin_dupont,chi1b11pd,Electronic Crimp Housing 2 54 mm Black 11 Pin Dupont,electronic,crimp_housing,2_54_mm,black,11_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_12_pin_dupont,chi1b12pd,Electronic Crimp Housing 2 54 mm Black 12 Pin Dupont,electronic,crimp_housing,2_54_mm,black,12_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_13_pin_dupont,chi1b13pd,Electronic Crimp Housing 2 54 mm Black 13 Pin Dupont,electronic,crimp_housing,2_54_mm,black,13_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_14_pin_dupont,chi1b14pd,Electronic Crimp Housing 2 54 mm Black 14 Pin Dupont,electronic,crimp_housing,2_54_mm,black,14_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_15_pin_dupont,chi1b15pd,Electronic Crimp Housing 2 54 mm Black 15 Pin Dupont,electronic,crimp_housing,2_54_mm,black,15_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_16_pin_dupont,chi1b16pd,Electronic Crimp Housing 2 54 mm Black 16 Pin Dupont,electronic,crimp_housing,2_54_mm,black,16_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_17_pin_dupont,chi1b17pd,Electronic Crimp Housing 2 54 mm Black 17 Pin Dupont,electronic,crimp_housing,2_54_mm,black,17_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_18_pin_dupont,chi1b18pd,Electronic Crimp Housing 2 54 mm Black 18 Pin Dupont,electronic,crimp_housing,2_54_mm,black,18_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_19_pin_dupont,chi1b19pd,Electronic Crimp Housing 2 54 mm Black 19 Pin Dupont,electronic,crimp_housing,2_54_mm,black,19_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_1_pin_dupont,chi1b1pd,Electronic Crimp Housing 2 54 mm Black 1 Pin Dupont,electronic,crimp_housing,2_54_mm,black,1_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_20_pin_dupont,chi1b20pd,Electronic Crimp Housing 2 54 mm Black 20 Pin Dupont,electronic,crimp_housing,2_54_mm,black,20_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_2_pin_dupont,chi1b2pd,Electronic Crimp Housing 2 54 mm Black 2 Pin Dupont,electronic,crimp_housing,2_54_mm,black,2_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_3_pin_dupont,chi1b3pd,Electronic Crimp Housing 2 54 mm Black 3 Pin Dupont,electronic,crimp_housing,2_54_mm,black,3_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_4_pin_dupont,chi1b4pd,Electronic Crimp Housing 2 54 mm Black 4 Pin Dupont,electronic,crimp_housing,2_54_mm,black,4_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_5_pin_dupont,chi1b5pd,Electronic Crimp Housing 2 54 mm Black 5 Pin Dupont,electronic,crimp_housing,2_54_mm,black,5_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_6_pin_dupont,chi1b6pd,Electronic Crimp Housing 2 54 mm Black 6 Pin Dupont,electronic,crimp_housing,2_54_mm,black,6_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_7_pin_dupont,chi1b7pd,Electronic Crimp Housing 2 54 mm Black 7 Pin Dupont,electronic,crimp_housing,2_54_mm,black,7_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_8_pin_dupont,chi1b8pd,Electronic Crimp Housing 2 54 mm Black 8 Pin Dupont,electronic,crimp_housing,2_54_mm,black,8_pin,dupont,,
+electronic_crimp_housing_2_54_mm_black_9_pin_dupont,chi1b9pd,Electronic Crimp Housing 2 54 mm Black 9 Pin Dupont,electronic,crimp_housing,2_54_mm,black,9_pin,dupont,,
+electronic_diode_schottky_sod_123_package_marking_b2_mbr0520,dssod123pmb2mbr0520,Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520,electronic,diode_schottky,sod_123,,,package_marking_b2,,mbr0520
+electronic_diode_sod_123_package_marking_t4_1n4148w,dsod123pmt44148,Electronic Diode Sod 123 Package Marking T4 1N4148W,electronic,diode,sod_123,,,package_marking_t4,,1n4148w
+electronic_header_1_mm_jst_sh_10_pin_surface_mount,hjsh10psm,Electronic Header 1 mm Jst Sh 10 Pin Surface Mount,electronic,header,1_mm_jst_sh,,10_pin,surface_mount,,
+electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle,hjsh10psmra,Electronic Header 1 mm Jst Sh 10 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,10_pin,surface_mount_right_angle,,
+electronic_header_1_mm_jst_sh_2_pin_surface_mount,hjsh2psm,Electronic Header 1 mm Jst Sh 2 Pin Surface Mount,electronic,header,1_mm_jst_sh,,2_pin,surface_mount,,
+electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle,hjsh2psmra,Electronic Header 1 mm Jst Sh 2 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,2_pin,surface_mount_right_angle,,

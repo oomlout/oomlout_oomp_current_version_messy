@@ -1,0 +1,240 @@
+# Tool Vibratory Bowl Tabletop Mettler Toledo Lv11  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+  * classification: tool
+  * type: vibratory_bowl
+  * size: tabletop
+  * color: 
+  * description_main: 
+  * description_extra: 
+  * manufacturer: mettler_toledo
+  * part_number: lv11
+
+### other_codes
+* short_code: 
+* oomp_word: ramen six seven
+* oomp_word_emoji :ramen: :six: :seven:
+* md5_6_alpha: 7g8vs
+* md5_6: bef7f8
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | tool |  
+| classification_capital | Tool |  
+| classification_first_letter | t |  
+| classification_first_letter_upper | T |  
+| classification_length_1 | t |  
+| classification_length_2 | to |  
+| classification_length_3 | too |  
+| classification_length_4 | tool |  
+| classification_length_5 | tool |  
+| classification_length_6 | tool |  
+| classification_name | Tool |  
+| classification_no_space_length_1 | t |  
+| classification_no_space_length_2 | to |  
+| classification_no_space_length_3 | too |  
+| classification_no_space_length_4 | tool |  
+| classification_no_space_length_5 | tool |  
+| classification_no_space_length_6 | tool |  
+| classification_no_space_upper_length_1 | T |  
+| classification_no_space_upper_length_2 | TO |  
+| classification_no_space_upper_length_3 | TOO |  
+| classification_no_space_upper_length_4 | TOOL |  
+| classification_no_space_upper_length_5 | TOOL |  
+| classification_no_space_upper_length_6 | TOOL |  
+| classification_upper | TOOL |  
+| classification_upper_length_1 | T |  
+| classification_upper_length_2 | TO |  
+| classification_upper_length_3 | TOO |  
+| classification_upper_length_4 | TOOL |  
+| classification_upper_length_5 | TOOL |  
+| classification_upper_length_6 | TOOL |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_name |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_name |  |  
+| description_extra_upper |  |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color |   |  
+| description_or_color_upper |   |  
+| directory | parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| id | tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| id_no_class | vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| id_no_color | mettlertoledolv11 |  
+| id_no_size | mettler_toledo_lv11 |  
+| id_no_type | tabletop_mettler_toledo_lv11 |  
+| manufacturer | mettler_toledo |  
+| manufacturer_capital | Mettler Toledo |  
+| manufacturer_first_letter | m |  
+| manufacturer_first_letter_upper | M |  
+| manufacturer_length_1 | m |  
+| manufacturer_length_2 | me |  
+| manufacturer_length_3 | met |  
+| manufacturer_length_4 | mett |  
+| manufacturer_length_5 | mettl |  
+| manufacturer_length_6 | mettle |  
+| manufacturer_name | Mettler Toledo |  
+| manufacturer_no_space_length_1 | m |  
+| manufacturer_no_space_length_2 | me |  
+| manufacturer_no_space_length_3 | met |  
+| manufacturer_no_space_length_4 | mett |  
+| manufacturer_no_space_length_5 | mettl |  
+| manufacturer_no_space_length_6 | mettle |  
+| manufacturer_no_space_upper_length_1 | M |  
+| manufacturer_no_space_upper_length_2 | ME |  
+| manufacturer_no_space_upper_length_3 | MET |  
+| manufacturer_no_space_upper_length_4 | METT |  
+| manufacturer_no_space_upper_length_5 | METTL |  
+| manufacturer_no_space_upper_length_6 | METTLE |  
+| manufacturer_upper | METTLER_TOLEDO |  
+| manufacturer_upper_length_1 | M |  
+| manufacturer_upper_length_2 | ME |  
+| manufacturer_upper_length_3 | MET |  
+| manufacturer_upper_length_4 | METT |  
+| manufacturer_upper_length_5 | METTL |  
+| manufacturer_upper_length_6 | METTLE |  
+| manufacturers | [] |  
+| markdown_full | [tool_vibratory_bowl_tabletop_mettler_toledo_lv11](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11/working)<br>[Tool Vibratory Bowl Tabletop Mettler Toledo Lv11](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11/working)<br><br> |  
+| markdown_short | [tool_vibratory_bowl_tabletop_mettler_toledo_lv11](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11/working)<br><br> |  
+| md5 | bef7f8ae33977d69d0a9efc57ebe399c |  
+| md5_10 | bef7f8ae33 |  
+| md5_10_upper | BEF7F8AE33 |  
+| md5_5 | bef7f |  
+| md5_5_upper | BEF7F |  
+| md5_6 | bef7f8 |  
+| md5_6_alpha | 7g8vs |  
+| md5_6_alpha_upper | 7G8VS |  
+| md5_6_upper | BEF7F8 |  
+| name | Tool Vibratory Bowl Tabletop Mettler Toledo Lv11 |  
+| name_no_class | Vibratory Bowl Tabletop Mettler Toledo Lv11 |  
+| name_no_color | Mettlertoledolv11 |  
+| name_no_size | Mettler Toledo Lv11 |  
+| name_no_size_short | Mettler Toledo Lv11 |  
+| name_no_type | Tabletop Mettler Toledo Lv11 |  
+| oomp_key | oomp_tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| oomp_word | ramen six seven |  
+| oomp_word_emoji | :ramen: :six: :seven: |  
+| oomp_word_emoji_list | [':ramen:', ':six:', ':seven:'] |  
+| oomp_word_list | ['ramen', 'six', 'seven'] |  
+| part_number | lv11 |  
+| part_number_capital | Lv11 |  
+| part_number_first_letter | l |  
+| part_number_first_letter_upper | L |  
+| part_number_length_1 | l |  
+| part_number_length_2 | lv |  
+| part_number_length_3 | lv1 |  
+| part_number_length_4 | lv11 |  
+| part_number_length_5 | lv11 |  
+| part_number_length_6 | lv11 |  
+| part_number_name | Lv11 |  
+| part_number_no_space_length_1 | l |  
+| part_number_no_space_length_2 | lv |  
+| part_number_no_space_length_3 | lv1 |  
+| part_number_no_space_length_4 | lv11 |  
+| part_number_no_space_length_5 | lv11 |  
+| part_number_no_space_length_6 | lv11 |  
+| part_number_no_space_upper_length_1 | L |  
+| part_number_no_space_upper_length_2 | LV |  
+| part_number_no_space_upper_length_3 | LV1 |  
+| part_number_no_space_upper_length_4 | LV11 |  
+| part_number_no_space_upper_length_5 | LV11 |  
+| part_number_no_space_upper_length_6 | LV11 |  
+| part_number_upper | LV11 |  
+| part_number_upper_length_1 | L |  
+| part_number_upper_length_2 | LV |  
+| part_number_upper_length_3 | LV1 |  
+| part_number_upper_length_4 | LV11 |  
+| part_number_upper_length_5 | LV11 |  
+| part_number_upper_length_6 | LV11 |  
+| short_code |  |  
+| short_code_upper |  |  
+| size | tabletop |  
+| size_capital | Tabletop |  
+| size_first_letter | t |  
+| size_first_letter_upper | T |  
+| size_length_1 | t |  
+| size_length_2 | ta |  
+| size_length_3 | tab |  
+| size_length_4 | tabl |  
+| size_length_5 | table |  
+| size_length_6 | tablet |  
+| size_name | Tabletop |  
+| size_no_space_length_1 | t |  
+| size_no_space_length_2 | ta |  
+| size_no_space_length_3 | tab |  
+| size_no_space_length_4 | tabl |  
+| size_no_space_length_5 | table |  
+| size_no_space_length_6 | tablet |  
+| size_no_space_upper_length_1 | T |  
+| size_no_space_upper_length_2 | TA |  
+| size_no_space_upper_length_3 | TAB |  
+| size_no_space_upper_length_4 | TABL |  
+| size_no_space_upper_length_5 | TABLE |  
+| size_no_space_upper_length_6 | TABLET |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | TABLETOP |  
+| size_upper_length_1 | T |  
+| size_upper_length_2 | TA |  
+| size_upper_length_3 | TAB |  
+| size_upper_length_4 | TABL |  
+| size_upper_length_5 | TABLE |  
+| size_upper_length_6 | TABLET |  
+| type | vibratory_bowl |  
+| type_capital | Vibratory Bowl |  
+| type_first_letter | v |  
+| type_first_letter_upper | V |  
+| type_length_1 | v |  
+| type_length_2 | vi |  
+| type_length_3 | vib |  
+| type_length_4 | vibr |  
+| type_length_5 | vibra |  
+| type_length_6 | vibrat |  
+| type_name | Vibratory Bowl |  
+| type_no_space_length_1 | v |  
+| type_no_space_length_2 | vi |  
+| type_no_space_length_3 | vib |  
+| type_no_space_length_4 | vibr |  
+| type_no_space_length_5 | vibra |  
+| type_no_space_length_6 | vibrat |  
+| type_no_space_upper_length_1 | V |  
+| type_no_space_upper_length_2 | VI |  
+| type_no_space_upper_length_3 | VIB |  
+| type_no_space_upper_length_4 | VIBR |  
+| type_no_space_upper_length_5 | VIBRA |  
+| type_no_space_upper_length_6 | VIBRAT |  
+| type_upper | VIBRATORY_BOWL |  
+| type_upper_length_1 | V |  
+| type_upper_length_2 | VI |  
+| type_upper_length_3 | VIB |  
+| type_upper_length_4 | VIBR |  
+| type_upper_length_5 | VIBRA |  
+| type_upper_length_6 | VIBRAT |  

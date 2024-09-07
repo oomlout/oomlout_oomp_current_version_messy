@@ -1,0 +1,239 @@
+# Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Yellow 8 mm Length  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length
+  * classification: electronic
+  * type: crimp_bootlace_ferrule
+  * size: 0_8_mm_diameter_wire
+  * color: yellow
+  * description_main: 8_mm_length
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: 
+* oomp_word: bus hospital lips
+* oomp_word_emoji :bus: :hospital: :lips:
+* md5_6_alpha: 9a3aa
+* md5_6: edd822
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper | ELECTRONIC |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
+| color | yellow |  
+| color_capital | Yellow |  
+| color_first_letter | y |  
+| color_first_letter_upper | Y |  
+| color_length_1 | y |  
+| color_length_2 | ye |  
+| color_length_3 | yel |  
+| color_length_4 | yell |  
+| color_length_5 | yello |  
+| color_length_6 | yellow |  
+| color_name | Yellow |  
+| color_no_space_length_1 | y |  
+| color_no_space_length_2 | ye |  
+| color_no_space_length_3 | yel |  
+| color_no_space_length_4 | yell |  
+| color_no_space_length_5 | yello |  
+| color_no_space_length_6 | yellow |  
+| color_no_space_upper_length_1 | Y |  
+| color_no_space_upper_length_2 | YE |  
+| color_no_space_upper_length_3 | YEL |  
+| color_no_space_upper_length_4 | YELL |  
+| color_no_space_upper_length_5 | YELLO |  
+| color_no_space_upper_length_6 | YELLOW |  
+| color_upper | YELLOW |  
+| color_upper_length_1 | Y |  
+| color_upper_length_2 | YE |  
+| color_upper_length_3 | YEL |  
+| color_upper_length_4 | YELL |  
+| color_upper_length_5 | YELLO |  
+| color_upper_length_6 | YELLOW |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_name |  |  
+| description_extra_upper |  |  
+| description_main | 8_mm_length |  
+| description_main_capital | 8 mm Length |  
+| description_main_first_letter | 8 |  
+| description_main_first_letter_upper | 8 |  
+| description_main_length_1 | 8 |  
+| description_main_length_2 | 8_ |  
+| description_main_length_3 | 8_m |  
+| description_main_length_4 | 8_mm |  
+| description_main_length_5 | 8_mm_ |  
+| description_main_length_6 | 8_mm_l |  
+| description_main_name | 8 mm Length |  
+| description_main_no_space_length_1 | 8 |  
+| description_main_no_space_length_2 | 8m |  
+| description_main_no_space_length_3 | 8mm |  
+| description_main_no_space_length_4 | 8mml |  
+| description_main_no_space_length_5 | 8mmle |  
+| description_main_no_space_length_6 | 8mmlen |  
+| description_main_no_space_upper_length_1 | 8 |  
+| description_main_no_space_upper_length_2 | 8M |  
+| description_main_no_space_upper_length_3 | 8MM |  
+| description_main_no_space_upper_length_4 | 8MML |  
+| description_main_no_space_upper_length_5 | 8MMLE |  
+| description_main_no_space_upper_length_6 | 8MMLEN |  
+| description_main_upper | 8_MM_LENGTH |  
+| description_main_upper_length_1 | 8 |  
+| description_main_upper_length_2 | 8_ |  
+| description_main_upper_length_3 | 8_M |  
+| description_main_upper_length_4 | 8_MM |  
+| description_main_upper_length_5 | 8_MM_ |  
+| description_main_upper_length_6 | 8_MM_L |  
+| description_only_numbers | 8 |  
+| description_only_numbers_short | 8 |  
+| description_or_color | Y8 |  
+| description_or_color_upper | Y8 |  
+| directory | parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length |  
+| distributors | [] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length |  
+| id | electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length |  
+| id_no_class | crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length |  
+| id_no_color | 8_mm_length |  
+| id_no_size | yellow_8_mm_length |  
+| id_no_type | 0_8_mm_diameter_wire_yellow_8_mm_length |  
+| kicad_reference |  |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length/working)<br>[y8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length/working)<br>[Electronic Crimp Bootlace Ferrule 0 8 Mm Diameter Wire Yellow 8 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length/working)<br><br> |  
+| markdown_short | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length/working)<br><br> |  
+| md5 | edd822aa5cb2ca1d29306ec2ec3ce6ed |  
+| md5_10 | edd822aa5c |  
+| md5_10_upper | EDD822AA5C |  
+| md5_5 | edd82 |  
+| md5_5_upper | EDD82 |  
+| md5_6 | edd822 |  
+| md5_6_alpha | 9a3aa |  
+| md5_6_alpha_upper | 9A3AA |  
+| md5_6_upper | EDD822 |  
+| name | Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Yellow 8 mm Length |  
+| name_no_class | Crimp Bootlace Ferrule 0 8 mm Diameter Wire Yellow 8 mm Length |  
+| name_no_color | 8 mm Length |  
+| name_no_size | Yellow 8 mm Length |  
+| name_no_size_short | Yellow 8 Mm Length |  
+| name_no_type | 0 8 mm Diameter Wire Yellow 8 mm Length |  
+| oomp_key | oomp_electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_yellow_8_mm_length |  
+| oomp_word | bus hospital lips |  
+| oomp_word_emoji | :bus: :hospital: :lips: |  
+| oomp_word_emoji_list | [':bus:', ':hospital:', ':lips:'] |  
+| oomp_word_list | ['bus', 'hospital', 'lips'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_name |  |  
+| part_number_upper |  |  
+| short_code | y8 |  
+| short_code_upper | Y8 |  
+| size | 0_8_mm_diameter_wire |  
+| size_capital | 0 8 mm Diameter Wire |  
+| size_first_letter | 0 |  
+| size_first_letter_upper | 0 |  
+| size_length_1 | 0 |  
+| size_length_2 | 0_ |  
+| size_length_3 | 0_8 |  
+| size_length_4 | 0_8_ |  
+| size_length_5 | 0_8_m |  
+| size_length_6 | 0_8_mm |  
+| size_name | 0 8 mm Diameter Wire |  
+| size_no_space_length_1 | 0 |  
+| size_no_space_length_2 | 08 |  
+| size_no_space_length_3 | 08m |  
+| size_no_space_length_4 | 08mm |  
+| size_no_space_length_5 | 08mmd |  
+| size_no_space_length_6 | 08mmdi |  
+| size_no_space_upper_length_1 | 0 |  
+| size_no_space_upper_length_2 | 08 |  
+| size_no_space_upper_length_3 | 08M |  
+| size_no_space_upper_length_4 | 08MM |  
+| size_no_space_upper_length_5 | 08MMD |  
+| size_no_space_upper_length_6 | 08MMDI |  
+| size_only_numbers | 08 |  
+| size_only_numbers_no_zeros | 8 |  
+| size_upper | 0_8_MM_DIAMETER_WIRE |  
+| size_upper_length_1 | 0 |  
+| size_upper_length_2 | 0_ |  
+| size_upper_length_3 | 0_8 |  
+| size_upper_length_4 | 0_8_ |  
+| size_upper_length_5 | 0_8_M |  
+| size_upper_length_6 | 0_8_MM |  
+| type | crimp_bootlace_ferrule |  
+| type_capital | Crimp Bootlace Ferrule |  
+| type_first_letter | c |  
+| type_first_letter_upper | C |  
+| type_length_1 | c |  
+| type_length_2 | cr |  
+| type_length_3 | cri |  
+| type_length_4 | crim |  
+| type_length_5 | crimp |  
+| type_length_6 | crimp_ |  
+| type_name | Crimp Bootlace Ferrule |  
+| type_no_space_length_1 | c |  
+| type_no_space_length_2 | cr |  
+| type_no_space_length_3 | cri |  
+| type_no_space_length_4 | crim |  
+| type_no_space_length_5 | crimp |  
+| type_no_space_length_6 | crimpb |  
+| type_no_space_upper_length_1 | C |  
+| type_no_space_upper_length_2 | CR |  
+| type_no_space_upper_length_3 | CRI |  
+| type_no_space_upper_length_4 | CRIM |  
+| type_no_space_upper_length_5 | CRIMP |  
+| type_no_space_upper_length_6 | CRIMPB |  
+| type_upper | CRIMP_BOOTLACE_FERRULE |  
+| type_upper_length_1 | C |  
+| type_upper_length_2 | CR |  
+| type_upper_length_3 | CRI |  
+| type_upper_length_4 | CRIM |  
+| type_upper_length_5 | CRIMP |  
+| type_upper_length_6 | CRIMP_ |  

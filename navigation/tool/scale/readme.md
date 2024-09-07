@@ -1,0 +1,7 @@
+* [76_mm_width_114_mm_height_20_mm_depth](76_mm_width_114_mm_height_20_mm_depth)
+  * [1000_gram_capacity](76_mm_width_114_mm_height_20_mm_depth/1000_gram_capacity)
+    * [aliexpress](76_mm_width_114_mm_height_20_mm_depth/1000_gram_capacity/aliexpress)
+      * [jewelry_scale](76_mm_width_114_mm_height_20_mm_depth/1000_gram_capacity/aliexpress/jewelry_scale)
+  * [200_gram_capacity](76_mm_width_114_mm_height_20_mm_depth/200_gram_capacity)
+    * [aliexpress](76_mm_width_114_mm_height_20_mm_depth/200_gram_capacity/aliexpress)
+      * [jewelry_scale](76_mm_width_114_mm_height_20_mm_depth/200_gram_capacity/aliexpress/jewelry_scale)

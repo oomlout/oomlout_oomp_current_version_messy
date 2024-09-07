@@ -1,0 +1,240 @@
+# Computer Webcam External Microsoft Hd 3000 Model 1492  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: computer_webcam_external_microsoft_hd_3000_model_1492
+  * classification: computer
+  * type: webcam
+  * size: external
+  * color: 
+  * description_main: 
+  * description_extra: 
+  * manufacturer: microsoft
+  * part_number: hd_3000_model_1492
+
+### other_codes
+* short_code: 
+* oomp_word: flags mouse headphones
+* oomp_word_emoji :flags: :mouse: :headphones:
+* md5_6_alpha: 4htph
+* md5_6: 7334a5
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | computer |  
+| classification_capital | Computer |  
+| classification_first_letter | c |  
+| classification_first_letter_upper | C |  
+| classification_length_1 | c |  
+| classification_length_2 | co |  
+| classification_length_3 | com |  
+| classification_length_4 | comp |  
+| classification_length_5 | compu |  
+| classification_length_6 | comput |  
+| classification_name | Computer |  
+| classification_no_space_length_1 | c |  
+| classification_no_space_length_2 | co |  
+| classification_no_space_length_3 | com |  
+| classification_no_space_length_4 | comp |  
+| classification_no_space_length_5 | compu |  
+| classification_no_space_length_6 | comput |  
+| classification_no_space_upper_length_1 | C |  
+| classification_no_space_upper_length_2 | CO |  
+| classification_no_space_upper_length_3 | COM |  
+| classification_no_space_upper_length_4 | COMP |  
+| classification_no_space_upper_length_5 | COMPU |  
+| classification_no_space_upper_length_6 | COMPUT |  
+| classification_upper | COMPUTER |  
+| classification_upper_length_1 | C |  
+| classification_upper_length_2 | CO |  
+| classification_upper_length_3 | COM |  
+| classification_upper_length_4 | COMP |  
+| classification_upper_length_5 | COMPU |  
+| classification_upper_length_6 | COMPUT |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_name |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_name |  |  
+| description_extra_upper |  |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color |   |  
+| description_or_color_upper |   |  
+| directory | parts/computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| id | computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| id_no_class | webcam_external_microsoft_hd_3000_model_1492 |  
+| id_no_color | microsofthd3000model1492 |  
+| id_no_size | microsoft_hd_3000_model_1492 |  
+| id_no_type | external_microsoft_hd_3000_model_1492 |  
+| manufacturer | microsoft |  
+| manufacturer_capital | Microsoft |  
+| manufacturer_first_letter | m |  
+| manufacturer_first_letter_upper | M |  
+| manufacturer_length_1 | m |  
+| manufacturer_length_2 | mi |  
+| manufacturer_length_3 | mic |  
+| manufacturer_length_4 | micr |  
+| manufacturer_length_5 | micro |  
+| manufacturer_length_6 | micros |  
+| manufacturer_name | Microsoft |  
+| manufacturer_no_space_length_1 | m |  
+| manufacturer_no_space_length_2 | mi |  
+| manufacturer_no_space_length_3 | mic |  
+| manufacturer_no_space_length_4 | micr |  
+| manufacturer_no_space_length_5 | micro |  
+| manufacturer_no_space_length_6 | micros |  
+| manufacturer_no_space_upper_length_1 | M |  
+| manufacturer_no_space_upper_length_2 | MI |  
+| manufacturer_no_space_upper_length_3 | MIC |  
+| manufacturer_no_space_upper_length_4 | MICR |  
+| manufacturer_no_space_upper_length_5 | MICRO |  
+| manufacturer_no_space_upper_length_6 | MICROS |  
+| manufacturer_upper | MICROSOFT |  
+| manufacturer_upper_length_1 | M |  
+| manufacturer_upper_length_2 | MI |  
+| manufacturer_upper_length_3 | MIC |  
+| manufacturer_upper_length_4 | MICR |  
+| manufacturer_upper_length_5 | MICRO |  
+| manufacturer_upper_length_6 | MICROS |  
+| manufacturers | [] |  
+| markdown_full | [computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br>[Computer Webcam External Microsoft Hd 3000 Model 1492](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br><br> |  
+| markdown_short | [computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br><br> |  
+| md5 | 7334a5f24922415cca18757a5421df25 |  
+| md5_10 | 7334a5f249 |  
+| md5_10_upper | 7334A5F249 |  
+| md5_5 | 7334a |  
+| md5_5_upper | 7334A |  
+| md5_6 | 7334a5 |  
+| md5_6_alpha | 4htph |  
+| md5_6_alpha_upper | 4HTPH |  
+| md5_6_upper | 7334A5 |  
+| name | Computer Webcam External Microsoft Hd 3000 Model 1492 |  
+| name_no_class | Webcam External Microsoft Hd 3000 Model 1492 |  
+| name_no_color | Microsofthd3000Model1492 |  
+| name_no_size | Microsoft Hd 3000 Model 1492 |  
+| name_no_size_short | Microsoft Hd 3000 Model 1492 |  
+| name_no_type | External Microsoft Hd 3000 Model 1492 |  
+| oomp_key | oomp_computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| oomp_word | flags mouse headphones |  
+| oomp_word_emoji | :flags: :mouse: :headphones: |  
+| oomp_word_emoji_list | [':flags:', ':mouse:', ':headphones:'] |  
+| oomp_word_list | ['flags', 'mouse', 'headphones'] |  
+| part_number | hd_3000_model_1492 |  
+| part_number_capital | Hd 3000 Model 1492 |  
+| part_number_first_letter | h |  
+| part_number_first_letter_upper | H |  
+| part_number_length_1 | h |  
+| part_number_length_2 | hd |  
+| part_number_length_3 | hd_ |  
+| part_number_length_4 | hd_3 |  
+| part_number_length_5 | hd_30 |  
+| part_number_length_6 | hd_300 |  
+| part_number_name | Hd 3000 Model 1492 |  
+| part_number_no_space_length_1 | h |  
+| part_number_no_space_length_2 | hd |  
+| part_number_no_space_length_3 | hd3 |  
+| part_number_no_space_length_4 | hd30 |  
+| part_number_no_space_length_5 | hd300 |  
+| part_number_no_space_length_6 | hd3000 |  
+| part_number_no_space_upper_length_1 | H |  
+| part_number_no_space_upper_length_2 | HD |  
+| part_number_no_space_upper_length_3 | HD3 |  
+| part_number_no_space_upper_length_4 | HD30 |  
+| part_number_no_space_upper_length_5 | HD300 |  
+| part_number_no_space_upper_length_6 | HD3000 |  
+| part_number_upper | HD_3000_MODEL_1492 |  
+| part_number_upper_length_1 | H |  
+| part_number_upper_length_2 | HD |  
+| part_number_upper_length_3 | HD_ |  
+| part_number_upper_length_4 | HD_3 |  
+| part_number_upper_length_5 | HD_30 |  
+| part_number_upper_length_6 | HD_300 |  
+| short_code |  |  
+| short_code_upper |  |  
+| size | external |  
+| size_capital | External |  
+| size_first_letter | e |  
+| size_first_letter_upper | E |  
+| size_length_1 | e |  
+| size_length_2 | ex |  
+| size_length_3 | ext |  
+| size_length_4 | exte |  
+| size_length_5 | exter |  
+| size_length_6 | extern |  
+| size_name | External |  
+| size_no_space_length_1 | e |  
+| size_no_space_length_2 | ex |  
+| size_no_space_length_3 | ext |  
+| size_no_space_length_4 | exte |  
+| size_no_space_length_5 | exter |  
+| size_no_space_length_6 | extern |  
+| size_no_space_upper_length_1 | E |  
+| size_no_space_upper_length_2 | EX |  
+| size_no_space_upper_length_3 | EXT |  
+| size_no_space_upper_length_4 | EXTE |  
+| size_no_space_upper_length_5 | EXTER |  
+| size_no_space_upper_length_6 | EXTERN |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | EXTERNAL |  
+| size_upper_length_1 | E |  
+| size_upper_length_2 | EX |  
+| size_upper_length_3 | EXT |  
+| size_upper_length_4 | EXTE |  
+| size_upper_length_5 | EXTER |  
+| size_upper_length_6 | EXTERN |  
+| type | webcam |  
+| type_capital | Webcam |  
+| type_first_letter | w |  
+| type_first_letter_upper | W |  
+| type_length_1 | w |  
+| type_length_2 | we |  
+| type_length_3 | web |  
+| type_length_4 | webc |  
+| type_length_5 | webca |  
+| type_length_6 | webcam |  
+| type_name | Webcam |  
+| type_no_space_length_1 | w |  
+| type_no_space_length_2 | we |  
+| type_no_space_length_3 | web |  
+| type_no_space_length_4 | webc |  
+| type_no_space_length_5 | webca |  
+| type_no_space_length_6 | webcam |  
+| type_no_space_upper_length_1 | W |  
+| type_no_space_upper_length_2 | WE |  
+| type_no_space_upper_length_3 | WEB |  
+| type_no_space_upper_length_4 | WEBC |  
+| type_no_space_upper_length_5 | WEBCA |  
+| type_no_space_upper_length_6 | WEBCAM |  
+| type_upper | WEBCAM |  
+| type_upper_length_1 | W |  
+| type_upper_length_2 | WE |  
+| type_upper_length_3 | WEB |  
+| type_upper_length_4 | WEBC |  
+| type_upper_length_5 | WEBCA |  
+| type_upper_length_6 | WEBCAM |  
