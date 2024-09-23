@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6704 |  
 | id_no_size | hardware_6704 |  
 | id_no_type | bearing_hardware_bearing_6704 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6704 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6704](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6704/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6704/working)<br>[Oobb Part Bearing Hardware Bearing 6704](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6704/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6704](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6704/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6704](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6704)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6704)<br>[Oobb Part Bearing Hardware Bearing 6704](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6704)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6704](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6704)<br><br> |  
 | md5 | 98ae01f2584d22a68ebe08c279bea4eb |  
 | md5_10 | 98ae01f258 |  
 | md5_10_upper | 98AE01F258 |  

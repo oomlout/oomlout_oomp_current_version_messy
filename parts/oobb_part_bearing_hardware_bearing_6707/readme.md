@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6707 |  
 | id_no_size | hardware_6707 |  
 | id_no_type | bearing_hardware_bearing_6707 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6707 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6707](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6707/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6707/working)<br>[Oobb Part Bearing Hardware Bearing 6707](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6707/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6707](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6707/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6707](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6707)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6707)<br>[Oobb Part Bearing Hardware Bearing 6707](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6707)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6707](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6707)<br><br> |  
 | md5 | 12ed70ee40025867d449db7965184fb4 |  
 | md5_10 | 12ed70ee40 |  
 | md5_10_upper | 12ED70EE40 |  

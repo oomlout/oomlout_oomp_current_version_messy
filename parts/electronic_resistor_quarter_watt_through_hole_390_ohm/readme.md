@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 390_ohm |  
 | id_no_type | quarter_watt_through_hole_390_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_quarter_watt_through_hole_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm/working)<br>[ro391](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 390 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_quarter_watt_through_hole_390_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_quarter_watt_through_hole_390_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm)<br>[ro391](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm)<br>[Electronic Resistor Quarter Watt Through Hole 390 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_quarter_watt_through_hole_390_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390_ohm)<br><br> |  
 | md5 | e30b56ec694e8b65a60e4046ca856c62 |  
 | md5_10 | e30b56ec69 |  
 | md5_10_upper | E30B56EC69 |  

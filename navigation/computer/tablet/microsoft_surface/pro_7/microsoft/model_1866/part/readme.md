@@ -115,6 +115,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | pro7microsoftmodel1866 |  
 | id_no_size | pro_7_microsoft_model_1866 |  
 | id_no_type | microsoft_surface_pro_7_microsoft_model_1866 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866 |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | MICRO |  
 | manufacturer_upper_length_6 | MICROS |  
 | manufacturers | [] |  
-| markdown_full | [computer_tablet_microsoft_surface_pro_7_microsoft_model_1866](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866/working)<br>[Computer Tablet Microsoft Surface Pro 7 Microsoft Model 1866](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866/working)<br><br> |  
-| markdown_short | [computer_tablet_microsoft_surface_pro_7_microsoft_model_1866](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866/working)<br><br> |  
+| markdown_full | [computer_tablet_microsoft_surface_pro_7_microsoft_model_1866](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br>[Computer Tablet Microsoft Surface Pro 7 Microsoft Model 1866](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br><br> |  
+| markdown_short | [computer_tablet_microsoft_surface_pro_7_microsoft_model_1866](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br><br> |  
 | md5 | 5291cb4ba75dd59748ec687e190c006c |  
 | md5_10 | 5291cb4ba7 |  
 | md5_10_upper | 5291CB4BA7 |  

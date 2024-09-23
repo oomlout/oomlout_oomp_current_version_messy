@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | flanged |  
 | id_no_type | m2_5_flanged |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_flanged |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m2_5_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_5_flanged/working)<br>[nu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_5_flanged/working)<br>[Hardware Nut M2 5 Flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_5_flanged/working)<br><br> |  
-| markdown_short | [hardware_nut_m2_5_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_5_flanged/working)<br><br> |  
+| markdown_full | [hardware_nut_m2_5_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_flanged)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_flanged)<br>[Hardware Nut M2 5 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_flanged)<br><br> |  
+| markdown_short | [hardware_nut_m2_5_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_flanged)<br><br> |  
 | md5 | 68c058bbf896c5af774caff84d4a251c |  
 | md5_10 | 68c058bbf8 |  
 | md5_10_upper | 68C058BBF8 |  

@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | motortt01shaft |  
 | id_no_size | motor_tt_01_shaft |  
 | id_no_type | test_motor_tt_01_shaft |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_test_motor_tt_01_shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01_shaft/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01_shaft/working)<br>[Oobb Part Test Motor Tt 01 Shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01_shaft/working)<br><br> |  
-| markdown_short | [oobb_part_test_motor_tt_01_shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01_shaft/working)<br><br> |  
+| markdown_full | [oobb_part_test_motor_tt_01_shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft)<br>[Oobb Part Test Motor Tt 01 Shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft)<br><br> |  
+| markdown_short | [oobb_part_test_motor_tt_01_shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft)<br><br> |  
 | md5 | b656c12410a01daaa4588a09cbf1d1c9 |  
 | md5_10 | b656c12410 |  
 | md5_10_upper | B656C12410 |  

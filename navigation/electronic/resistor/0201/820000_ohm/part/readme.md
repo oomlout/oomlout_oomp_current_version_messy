@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 820000_ohm |  
 | id_no_type | 0201_820000_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820000_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_0201_820000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820000_ohm/working)<br>[ro824](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820000_ohm/working)<br>[Electronic Resistor 0201 820000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820000_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_0201_820000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_820000_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_0201_820000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820000_ohm)<br>[ro824](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820000_ohm)<br>[Electronic Resistor 0201 820000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820000_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_0201_820000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820000_ohm)<br><br> |  
 | md5 | 0ecb341dbb324c1ff87909a99f7ce603 |  
 | md5_10 | 0ecb341dbb |  
 | md5_10_upper | 0ECB341DBB |  

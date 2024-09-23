@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030206spaceruextramm |  
 | id_no_size | 03_02_06__spacer_u_extra_mm |  
 | id_no_type | wire_03_02_06__spacer_u_extra_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_02_06__spacer_u_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm/working)<br>[Oobb Part Wire 03 02 06  Spacer U Extra Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_02_06__spacer_u_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_02_06__spacer_u_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm)<br>[Oobb Part Wire 03 02 06  Spacer U Extra Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm)<br><br> |  
+| markdown_short | [oobb_part_wire_03_02_06__spacer_u_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_u_extra_mm)<br><br> |  
 | md5 | 57d6276ceea6de1ddb37735283ea0e06 |  
 | md5_10 | 57d6276cee |  
 | md5_10_upper | 57D6276CEE |  

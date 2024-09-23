@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 050513toolwirestrippersgeneric120red |  
 | id_no_size | 05_05_13__tool_wire_strippers_generic_120_red |  
 | id_no_type | tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red/working)<br>[Oobb Part Tool Holder Vertical 05 05 13  Tool Wire Strippers Generic 120 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red/working)<br><br> |  
-| markdown_short | [oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red/working)<br><br> |  
+| markdown_full | [oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red)<br>[Oobb Part Tool Holder Vertical 05 05 13  Tool Wire Strippers Generic 120 Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red)<br><br> |  
+| markdown_short | [oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red)<br><br> |  
 | md5 | 38395aa1543a516833ef89bb68316be6 |  
 | md5_10 | 38395aa154 |  
 | md5_10_upper | 38395AA154 |  

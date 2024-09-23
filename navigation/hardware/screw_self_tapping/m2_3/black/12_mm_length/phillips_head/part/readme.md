@@ -164,6 +164,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | black_12_mm_length_phillips_head |  
 | id_no_type | m2_3_black_12_mm_length_phillips_head |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -171,8 +172,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br>[stb12ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br><br> |  
-| markdown_short | [hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br>[stb12ph](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br>[Hardware Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br><br> |  
+| markdown_short | [hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br><br> |  
 | md5 | a4cc1c6799e1d8bd4f299ea8dba02460 |  
 | md5_10 | a4cc1c6799 |  
 | md5_10_upper | A4CC1C6799 |  

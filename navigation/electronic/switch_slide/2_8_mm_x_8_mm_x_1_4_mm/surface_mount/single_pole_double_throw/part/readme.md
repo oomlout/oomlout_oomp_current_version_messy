@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | single_pole_double_throw |  
 | id_no_size | surface_mount_single_pole_double_throw |  
 | id_no_type | 2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[sws2880s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> |  
-| markdown_short | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> |  
+| markdown_full | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw)<br>[sws2880s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw)<br>[Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> |  
+| markdown_short | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> |  
 | md5 | 4c18b3b1e7fc9152eea1c1d675c0327e |  
 | md5_10 | 4c18b3b1e7 |  
 | md5_10_upper | 4C18B3B1E7 |  

@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 2200000_ohm |  
 | id_no_type | 0603_2200000_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_2200000_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_0603_2200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200000_ohm/working)<br>[r6o225](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200000_ohm/working)<br>[Electronic Resistor 0603 2200000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200000_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_0603_2200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200000_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_0603_2200000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_2200000_ohm)<br>[r6o225](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_2200000_ohm)<br>[Electronic Resistor 0603 2200000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_2200000_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_0603_2200000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_2200000_ohm)<br><br> |  
 | md5 | ffca14462ad9020672354cf8d89964a5 |  
 | md5_10 | ffca14462a |  
 | md5_10_upper | FFCA14462A |  

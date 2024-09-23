@@ -92,6 +92,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | a774mmwidth105mmheight |  
 | id_no_size | a774mmwidth105mmheight |  
 | id_no_type | a7_74_mm_width_105_mm_height |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -99,8 +100,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [paper_sheet_a7_74_mm_width_105_mm_height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height/working)<br>[Paper Sheet A7 74 Mm Width 105 Mm Height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height/working)<br><br> |  
-| markdown_short | [paper_sheet_a7_74_mm_width_105_mm_height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height/working)<br><br> |  
+| markdown_full | [paper_sheet_a7_74_mm_width_105_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height)<br>[Paper Sheet A7 74 Mm Width 105 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height)<br><br> |  
+| markdown_short | [paper_sheet_a7_74_mm_width_105_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height)<br><br> |  
 | md5 | fd27e1c5c154b2ba4e46f2d43772c4ba |  
 | md5_10 | fd27e1c5c1 |  
 | md5_10_upper | FD27E1C5C1 |  

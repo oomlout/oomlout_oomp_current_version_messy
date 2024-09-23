@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0303096705missingmiddle3mm |  
 | id_no_size | 03_03_09_6705__missing_middle_3_mm |  
 | id_no_type | bearing_plate_03_03_09_6705__missing_middle_3_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm/working)<br>[Oobb Part Bearing Plate 03 03 09 6705  Missing Middle 3 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm)<br>[Oobb Part Bearing Plate 03 03 09 6705  Missing Middle 3 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm)<br><br> |  
+| markdown_short | [oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__missing_middle_3_mm)<br><br> |  
 | md5 | 191fd2845a8cc7303ca40da9ffc44083 |  
 | md5_10 | 191fd2845a |  
 | md5_10_upper | 191FD2845A |  

@@ -89,6 +89,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | baumaticbxlc606036w |  
 | id_no_size | baumatic_bx_lc6060_36w |  
 | id_no_type | 600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
 | manufacturer | baumatic |  
 | manufacturer_capital | Baumatic |  
 | manufacturer_first_letter | b |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | BAUMA |  
 | manufacturer_upper_length_6 | BAUMAT |  
 | manufacturers | [] |  
-| markdown_full | [electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w/working)<br>[Electrical Light Panel 600 Mm X 600 Mm Baumatic Bx Lc6060 36W](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w/working)<br><br> |  
-| markdown_short | [electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w/working)<br><br> |  
+| markdown_full | [electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br>[Electrical Light Panel 600 Mm X 600 Mm Baumatic Bx Lc6060 36W](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br><br> |  
+| markdown_short | [electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br><br> |  
 | md5 | 0fb75dcfd3a7a407f0eceec35217343c |  
 | md5_10 | 0fb75dcfd3 |  
 | md5_10_upper | 0FB75DCFD3 |  

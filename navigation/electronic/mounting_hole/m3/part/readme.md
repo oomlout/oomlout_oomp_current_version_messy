@@ -91,6 +91,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | m3 |  
 | id_no_type | m3 |  
 | kicad_reference | H |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -98,8 +99,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[mh3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[Electronic Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br> |  
-| markdown_short | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br> |  
+| markdown_full | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br>[mh3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br>[Electronic Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br><br> |  
+| markdown_short | [electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br><br> |  
 | md5 | 872f01e756948c570b070f1966ea2f26 |  
 | md5_10 | 872f01e756 |  
 | md5_10_upper | 872F01E756 |  

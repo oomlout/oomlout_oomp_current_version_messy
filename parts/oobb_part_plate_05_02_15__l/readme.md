@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 050215l |  
 | id_no_size | 05_02_15__l |  
 | id_no_type | plate_05_02_15__l |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_15__l |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_plate_05_02_15__l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_15__l/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_15__l/working)<br>[Oobb Part Plate 05 02 15  L](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_15__l/working)<br><br> |  
-| markdown_short | [oobb_part_plate_05_02_15__l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_15__l/working)<br><br> |  
+| markdown_full | [oobb_part_plate_05_02_15__l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_15__l)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_15__l)<br>[Oobb Part Plate 05 02 15  L](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_15__l)<br><br> |  
+| markdown_short | [oobb_part_plate_05_02_15__l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_15__l)<br><br> |  
 | md5 | d27b2c3ca48021a76511c386669b8304 |  
 | md5_10 | d27b2c3ca4 |  
 | md5_10_upper | D27B2C3CA4 |  

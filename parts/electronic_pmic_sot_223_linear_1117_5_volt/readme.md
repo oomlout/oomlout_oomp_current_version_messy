@@ -162,6 +162,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1117_5_volt |  
 | id_no_size | linear_1117_5_volt |  
 | id_no_type | sot_223_linear_1117_5_volt |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [{'id': 'manufacturer_umw_youtai_semiconductor_co_ltd', 'link': '', 'name': 'UMW(Youtai Semiconductor Co., Ltd.)', 'part_number': 'AMS1117-5.0'}] |  
-| markdown_full | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms2231117v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br> |  
-| markdown_short | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]() |  
+| markdown_full | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt)<br>[pms2231117v5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt)<br>[Electronic Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt)<br>[LCSC - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br> |  
+| markdown_short | [electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt)<br>[LCSC - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor Co., Ltd.) - AMS1117-5.0]() |  
 | md5 | f26ce0b91db98ace92559b334d2cc5a6 |  
 | md5_10 | f26ce0b91d |  
 | md5_10_upper | F26CE0B91D |  

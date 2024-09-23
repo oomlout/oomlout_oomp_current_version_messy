@@ -164,6 +164,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | bright_zinc_plated_10_mm_length_pozidrive_head |  
 | id_no_type | m3_bright_zinc_plated_10_mm_length_pozidrive_head |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -171,8 +172,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head/working)<br>[cs310pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head/working)<br>[Hardware Screw Countersunk M3 Bright Zinc Plated 10 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head/working)<br><br> |  
-| markdown_short | [hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head)<br>[cs310pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head)<br>[Hardware Screw Countersunk M3 Bright Zinc Plated 10 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head)<br><br> |  
+| markdown_short | [hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_bright_zinc_plated_10_mm_length_pozidrive_head)<br><br> |  
 | md5 | 54b0cfc5d4b864c3f2a3f0dd0c920ec4 |  
 | md5_10 | 54b0cfc5d4 |  
 | md5_10_upper | 54B0CFC5D4 |  

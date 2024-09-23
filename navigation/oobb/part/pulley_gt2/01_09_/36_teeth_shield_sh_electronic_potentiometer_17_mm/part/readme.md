@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 010936teethshieldshelectronicpotentiometer17mm |  
 | id_no_size | 01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm |  
 | id_no_type | pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm/working)<br>[Oobb Part Pulley Gt2 01 09  36 Teeth Shield Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm)<br>[Oobb Part Pulley Gt2 01 09  36 Teeth Shield Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm)<br><br> |  
 | md5 | 2e1cee2a2497299fde4d43738699320d |  
 | md5_10 | 2e1cee2a24 |  
 | md5_10_upper | 2E1CEE2A24 |  

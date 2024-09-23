@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 35_mm_id_44_mm_od_5_mm_depth |  
 | id_no_size | 6707_size_35_mm_id_44_mm_od_5_mm_depth |  
 | id_no_type | 6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth/working)<br>[Hardware Bearing 6700 Series 6707 Size 35 Mm Id 44 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth)<br>[Hardware Bearing 6700 Series 6707 Size 35 Mm Id 44 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth)<br><br> |  
 | md5 | 7401eea60b8a76c019007d7da3a3a595 |  
 | md5_10 | 7401eea60b |  
 | md5_10_upper | 7401EEA60B |  

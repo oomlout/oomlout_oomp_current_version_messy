@@ -114,6 +114,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | surface_mount |  
 | id_no_size | surface_mount |  
 | id_no_type | 3_5_mm_x_6_mm_x_2_5_mm_surface_mount |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -121,8 +122,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[b3560s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> |  
-| markdown_short | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount/working)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> |  
+| markdown_full | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount)<br>[b3560s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount)<br>[Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> |  
+| markdown_short | [electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount)<br>[LCSC - C2845294<br>](https://lcsc.com/product-detail/C2845294.html)<br> |  
 | md5 | daac5353b33e60c79876e2262b80147e |  
 | md5_10 | daac5353b3 |  
 | md5_10_upper | DAAC5353B3 |  

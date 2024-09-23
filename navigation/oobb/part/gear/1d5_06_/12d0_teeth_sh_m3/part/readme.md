@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1d50612d0teethshm3 |  
 | id_no_size | 1d5_06__12d0_teeth_sh_m3 |  
 | id_no_type | gear_1d5_06__12d0_teeth_sh_m3 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_1d5_06__12d0_teeth_sh_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3/working)<br>[Oobb Part Gear 1D5 06  12D0 Teeth Sh M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3/working)<br><br> |  
-| markdown_short | [oobb_part_gear_1d5_06__12d0_teeth_sh_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3/working)<br><br> |  
+| markdown_full | [oobb_part_gear_1d5_06__12d0_teeth_sh_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3)<br>[Oobb Part Gear 1D5 06  12D0 Teeth Sh M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3)<br><br> |  
+| markdown_short | [oobb_part_gear_1d5_06__12d0_teeth_sh_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3)<br><br> |  
 | md5 | cf9b3b8e64df1c47e830ad84e46c8cf2 |  
 | md5_10 | cf9b3b8e64 |  
 | md5_10_upper | CF9B3B8E64 |  

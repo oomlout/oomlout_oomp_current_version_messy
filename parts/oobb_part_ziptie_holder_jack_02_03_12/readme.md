@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 020312 |  
 | id_no_size | 02_03_12 |  
 | id_no_type | ziptie_holder_jack_02_03_12 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_ziptie_holder_jack_02_03_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12/working)<br>[Oobb Part Ziptie Holder Jack 02 03 12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12/working)<br><br> |  
-| markdown_short | [oobb_part_ziptie_holder_jack_02_03_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12/working)<br><br> |  
+| markdown_full | [oobb_part_ziptie_holder_jack_02_03_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12)<br>[Oobb Part Ziptie Holder Jack 02 03 12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12)<br><br> |  
+| markdown_short | [oobb_part_ziptie_holder_jack_02_03_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_ziptie_holder_jack_02_03_12)<br><br> |  
 | md5 | d95e9e81ea0b0d35a89c0681b689f14e |  
 | md5_10 | d95e9e81ea |  
 | md5_10_upper | D95E9E81EA |  

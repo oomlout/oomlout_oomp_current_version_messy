@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | converter_usb_to_serial_converter_wch_ch340k |  
 | id_no_type | essop_10_converter_usb_to_serial_converter_wch_ch340k |  
 | kicad_reference | U |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | WCH |  
 | manufacturer_upper_length_6 | WCH |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br> |  
-| markdown_short | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k/working)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br> |  
+| markdown_full | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[i](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br> |  
+| markdown_short | [electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br> |  
 | md5 | c2a455d7f4d3be956b8a5b8101644d3d |  
 | md5_10 | c2a455d7f4 |  
 | md5_10_upper | C2A455D7F4 |  

@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030344ninetydegree |  
 | id_no_size | 03_03_44__ninety_degree |  
 | id_no_type | plate_03_03_44__ninety_degree |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_plate_03_03_44__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree/working)<br>[Oobb Part Plate 03 03 44  Ninety Degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree/working)<br><br> |  
-| markdown_short | [oobb_part_plate_03_03_44__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree/working)<br><br> |  
+| markdown_full | [oobb_part_plate_03_03_44__ninety_degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree)<br>[Oobb Part Plate 03 03 44  Ninety Degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree)<br><br> |  
+| markdown_short | [oobb_part_plate_03_03_44__ninety_degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_44__ninety_degree)<br><br> |  
 | md5 | 6f8a2d316cb59d914132c5a0d853de8b |  
 | md5_10 | 6f8a2d316c |  
 | md5_10_upper | 6F8A2D316C |  

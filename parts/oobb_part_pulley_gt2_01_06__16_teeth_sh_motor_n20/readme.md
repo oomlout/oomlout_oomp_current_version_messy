@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 010616teethshmotorn20 |  
 | id_no_size | 01_06__16_teeth_sh_motor_n20 |  
 | id_no_type | pulley_gt2_01_06__16_teeth_sh_motor_n20 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20/working)<br>[Oobb Part Pulley Gt2 01 06  16 Teeth Sh Motor N20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20)<br>[Oobb Part Pulley Gt2 01 06  16 Teeth Sh Motor N20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_motor_n20)<br><br> |  
 | md5 | e7c2890e428f125cc2d463de1dde47d3 |  
 | md5_10 | e7c2890e42 |  
 | md5_10_upper | E7C2890E42 |  

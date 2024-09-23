@@ -93,6 +93,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 0603 |  
 | id_no_type | 0603 |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -100,8 +101,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br>[l6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br>[Electronic Led 0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br><br> |  
-| markdown_short | [electronic_led_0603](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603/working)<br><br> |  
+| markdown_full | [electronic_led_0603](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603)<br>[l6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603)<br>[Electronic Led 0603](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603)<br><br> |  
+| markdown_short | [electronic_led_0603](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603)<br><br> |  
 | md5 | 410f696910ba2a47e5f550535c378f01 |  
 | md5_10 | 410f696910 |  
 | md5_10_upper | 410F696910 |  

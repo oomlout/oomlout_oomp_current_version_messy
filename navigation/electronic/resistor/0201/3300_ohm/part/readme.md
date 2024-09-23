@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 3300_ohm |  
 | id_no_type | 0201_3300_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0332TEE'}] |  
-| markdown_full | [electronic_resistor_0201_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3300_ohm/working)<br>[ro332](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3300_ohm/working)<br>[Electronic Resistor 0201 3300 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3300_ohm/working)<br><br>[Uniroyal - NQ01WMJ0332TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0332TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0332TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0332TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0332TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0332TEE)<br> |  
-| markdown_short | [electronic_resistor_0201_3300_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3300_ohm/working)<br><br>[Uniroyal - NQ01WMJ0332TEE- not in jlc basic parts]() |  
+| markdown_full | [electronic_resistor_0201_3300_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300_ohm)<br>[ro332](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300_ohm)<br>[Electronic Resistor 0201 3300 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300_ohm)<br><br>[Uniroyal - NQ01WMJ0332TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0332TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0332TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0332TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0332TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0332TEE)<br> |  
+| markdown_short | [electronic_resistor_0201_3300_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300_ohm)<br><br>[Uniroyal - NQ01WMJ0332TEE- not in jlc basic parts]() |  
 | md5 | 7d82195986cd8e7a04b75a7d8365bf46 |  
 | md5_10 | 7d82195986 |  
 | md5_10_upper | 7D82195986 |  

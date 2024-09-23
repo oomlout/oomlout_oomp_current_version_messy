@@ -115,6 +115,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | dockingstationmicrosoftmodel1749 |  
 | id_no_size | docking_station_microsoft_model_1749 |  
 | id_no_type | microsoft_surface_docking_station_microsoft_model_1749 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749 |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | MICRO |  
 | manufacturer_upper_length_6 | MICROS |  
 | manufacturers | [] |  
-| markdown_full | [computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749/working)<br>[Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749/working)<br><br> |  
-| markdown_short | [computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749/working)<br><br> |  
+| markdown_full | [computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br>[Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br><br> |  
+| markdown_short | [computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br><br> |  
 | md5 | 8faa50745e603bcd26777cb995246133 |  
 | md5_10 | 8faa50745e |  
 | md5_10_upper | 8FAA50745E |  

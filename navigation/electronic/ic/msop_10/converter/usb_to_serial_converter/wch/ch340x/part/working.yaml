@@ -122,6 +122,7 @@ id_no_color: usb_to_serial_wch_ch340x
 id_no_size: converter_usb_to_serial_converter_wch_ch340x
 id_no_type: msop_10_converter_usb_to_serial_converter_wch_ch340x
 kicad_reference: U
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 manufacturer: wch
 manufacturer_capital: Wch
 manufacturer_first_letter: w
@@ -153,10 +154,10 @@ manufacturer_upper_length_4: WCH
 manufacturer_upper_length_5: WCH
 manufacturer_upper_length_6: WCH
 manufacturers: []
-markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[Electronic
-  Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC
+markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[Electronic
+  Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[LCSC
   - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
-markdown_short: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x/working)<br>[LCSC
+markdown_short: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[LCSC
   - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
 md5: 0f210323ca1152360fceeb82b02d755c
 md5_10: 0f210323ca

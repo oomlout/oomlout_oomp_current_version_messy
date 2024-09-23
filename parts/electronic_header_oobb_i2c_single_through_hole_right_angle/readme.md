@@ -162,6 +162,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | single_through_hole_right_angle |  
 | id_no_size | i2c_single_through_hole_right_angle |  
 | id_no_type | oobb_i2c_single_through_hole_right_angle |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br>[Electronic Header Oobb I2C Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br><br> |  
-| markdown_short | [electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle/working)<br><br> |  
+| markdown_full | [electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle)<br>[hob1thra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle)<br>[Electronic Header Oobb I2C Single Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle)<br><br> |  
+| markdown_short | [electronic_header_oobb_i2c_single_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle)<br><br> |  
 | md5 | 4456779cced84238da6c1f33679c44f2 |  
 | md5_10 | 4456779cce |  
 | md5_10_upper | 4456779CCE |  

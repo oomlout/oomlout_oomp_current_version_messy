@@ -96,6 +96,7 @@ id_no_color: 5600ohm
 id_no_size: 5600_ohm
 id_no_type: quarter_watt_through_hole_5600_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -103,9 +104,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_5600_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm/working)<br>[ro562](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm/working)<br>[Electronic
-  Resistor Quarter Watt Through Hole 5600 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_5600_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_5600_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm)<br>[ro562](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm)<br>[Electronic
+  Resistor Quarter Watt Through Hole 5600 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_5600_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm)<br><br>'
 md5: 1e6a71ac6c141fd7e8a8ff72a8db6aee
 md5_10: 1e6a71ac6c
 md5_10_upper: 1E6A71AC6C

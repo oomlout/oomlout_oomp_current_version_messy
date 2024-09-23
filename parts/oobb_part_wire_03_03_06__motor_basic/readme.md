@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030306motorbasic |  
 | id_no_size | 03_03_06__motor_basic |  
 | id_no_type | wire_03_03_06__motor_basic |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_03_06__motor_basic](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__motor_basic/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__motor_basic/working)<br>[Oobb Part Wire 03 03 06  Motor Basic](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__motor_basic/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_03_06__motor_basic](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__motor_basic/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_03_06__motor_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic)<br>[Oobb Part Wire 03 03 06  Motor Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic)<br><br> |  
+| markdown_short | [oobb_part_wire_03_03_06__motor_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic)<br><br> |  
 | md5 | d95ca271f65fb316b80825f220aa9d06 |  
 | md5_10 | d95ca271f6 |  
 | md5_10_upper | D95CA271F6 |  

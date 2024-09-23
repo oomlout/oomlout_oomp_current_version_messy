@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0606144teethshield |  
 | id_no_size | 06_06__144_teeth_shield |  
 | id_no_type | pulley_gt2_06_06__144_teeth_shield |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_06_06__144_teeth_shield](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield/working)<br>[Oobb Part Pulley Gt2 06 06  144 Teeth Shield](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_06_06__144_teeth_shield](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_06_06__144_teeth_shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield)<br>[Oobb Part Pulley Gt2 06 06  144 Teeth Shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_06_06__144_teeth_shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield)<br><br> |  
 | md5 | 8bfd29f1cdc28e6279e5611b1bf6b326 |  
 | md5_10 | 8bfd29f1cd |  
 | md5_10_upper | 8BFD29F1CD |  

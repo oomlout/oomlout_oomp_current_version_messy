@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 19_pin_through_hole_long |  
 | id_no_type | 2_54_mm_19_pin_through_hole_long |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_2_54_mm_19_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long/working)<br>[sci119pthl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long/working)<br>[Electronic Socket 2 54 Mm 19 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long/working)<br><br> |  
-| markdown_short | [electronic_socket_2_54_mm_19_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long/working)<br><br> |  
+| markdown_full | [electronic_socket_2_54_mm_19_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br>[sci119pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br>[Electronic Socket 2 54 Mm 19 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br><br> |  
+| markdown_short | [electronic_socket_2_54_mm_19_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br><br> |  
 | md5 | 85cae0ca5dc3ca7640298b6d91c08137 |  
 | md5_10 | 85cae0ca5d |  
 | md5_10_upper | 85CAE0CA5D |  

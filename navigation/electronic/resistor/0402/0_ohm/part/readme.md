@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 0_ohm |  
 | id_no_type | 0402_0_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_0_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br>[r4o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br>[Electronic Resistor 0402 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_0_ohm)<br>[r4o0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_0_ohm)<br>[Electronic Resistor 0402 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_0_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_0402_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_0_ohm)<br><br> |  
 | md5 | f61b961aa55fd900194a6e1e19ed5e67 |  
 | md5_10 | f61b961aa5 |  
 | md5_10_upper | F61B961AA5 |  

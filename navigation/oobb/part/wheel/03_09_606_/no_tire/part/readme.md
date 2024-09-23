@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0309606notire |  
 | id_no_size | 03_09_606__no_tire |  
 | id_no_type | wheel_03_09_606__no_tire |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br>[Oobb Part Wheel 03 09 606  No Tire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br><br> |  
-| markdown_short | [oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br><br> |  
+| markdown_full | [oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire)<br>[Oobb Part Wheel 03 09 606  No Tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire)<br><br> |  
+| markdown_short | [oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire)<br><br> |  
 | md5 | ec182fc46d34066dc562388a4babb6f9 |  
 | md5_10 | ec182fc46d |  
 | md5_10_upper | EC182FC46D |  

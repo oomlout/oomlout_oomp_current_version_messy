@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 1_micro_farad |  
 | id_no_type | 0402_1_micro_farad |  
 | kicad_reference | C |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_1_micro_farad |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_capacitor_0402_1_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br>[c4uf1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br>[Electronic Capacitor 0402 1 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br><br> |  
-| markdown_short | [electronic_capacitor_0402_1_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br><br> |  
+| markdown_full | [electronic_capacitor_0402_1_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_1_micro_farad)<br>[c4uf1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_1_micro_farad)<br>[Electronic Capacitor 0402 1 Micro Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_1_micro_farad)<br><br> |  
+| markdown_short | [electronic_capacitor_0402_1_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_1_micro_farad)<br><br> |  
 | md5 | 161ca70ef0437b6bc72debadd501c34f |  
 | md5_10 | 161ca70ef0 |  
 | md5_10_upper | 161CA70EF0 |  

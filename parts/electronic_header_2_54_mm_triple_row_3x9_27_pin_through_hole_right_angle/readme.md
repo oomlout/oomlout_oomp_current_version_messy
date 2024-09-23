@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 3x9_27_pin_through_hole_right_angle |  
 | id_no_type | 2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle/working)<br>[hthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm Triple Row 3X9 27 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle/working)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle/working)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle)<br>[hthra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle)<br>[Electronic Header 2 54 Mm Triple Row 3X9 27 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
 | md5 | 67f3fb7ea0e1b6e00e3fb999e5d10075 |  
 | md5_10 | 67f3fb7ea0 |  
 | md5_10_upper | 67F3FB7EA0 |  

@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030342motorbuildingblocklarge01bottom |  
 | id_no_size | 03_03_42__motor_building_block_large_01_bottom |  
 | id_no_type | holder_03_03_42__motor_building_block_large_01_bottom |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_holder_03_03_42__motor_building_block_large_01_bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom/working)<br>[Oobb Part Holder 03 03 42  Motor Building Block Large 01 Bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom/working)<br><br> |  
-| markdown_short | [oobb_part_holder_03_03_42__motor_building_block_large_01_bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom/working)<br><br> |  
+| markdown_full | [oobb_part_holder_03_03_42__motor_building_block_large_01_bottom](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom)<br>[Oobb Part Holder 03 03 42  Motor Building Block Large 01 Bottom](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom)<br><br> |  
+| markdown_short | [oobb_part_holder_03_03_42__motor_building_block_large_01_bottom](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_42__motor_building_block_large_01_bottom)<br><br> |  
 | md5 | 2e65d8847d4ab8543151c1650a34bb2b |  
 | md5_10 | 2e65d8847d |  
 | md5_10_upper | 2E65D8847D |  

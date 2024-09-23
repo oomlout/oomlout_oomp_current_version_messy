@@ -91,6 +91,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | dewaltdc988 |  
 | id_no_size | dewalt_dc988 |  
 | id_no_type | 18_volt_dewalt_tower_dewalt_dc988 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988 |  
 | manufacturer | dewalt |  
 | manufacturer_capital | Dewalt |  
 | manufacturer_first_letter | d |  
@@ -122,8 +123,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | DEWAL |  
 | manufacturer_upper_length_6 | DEWALT |  
 | manufacturers | [] |  
-| markdown_full | [tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988/working)<br>[Tool Drill Hammer 18 Volt Dewalt Tower Dewalt Dc988](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988/working)<br><br> |  
-| markdown_short | [tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988/working)<br><br> |  
+| markdown_full | [tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988)<br>[Tool Drill Hammer 18 Volt Dewalt Tower Dewalt Dc988](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988)<br><br> |  
+| markdown_short | [tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988)<br><br> |  
 | md5 | b5e33a7e7292eb93c7d24cce8fc6b0a0 |  
 | md5_10 | b5e33a7e72 |  
 | md5_10_upper | B5E33A7E72 |  

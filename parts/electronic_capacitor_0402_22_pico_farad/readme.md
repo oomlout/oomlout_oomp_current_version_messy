@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 22_pico_farad |  
 | id_no_type | 0402_22_pico_farad |  
 | kicad_reference | C |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[c4pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[Electronic Capacitor 0402 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br> |  
-| markdown_short | [electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br> |  
+| markdown_full | [electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br>[c4pf22](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br>[Electronic Capacitor 0402 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br><br> |  
+| markdown_short | [electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br><br> |  
 | md5 | 8008269b2a82f75ac1033a8691959122 |  
 | md5_10 | 8008269b2a |  
 | md5_10_upper | 8008269B2A |  

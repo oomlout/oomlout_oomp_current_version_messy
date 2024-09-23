@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 050640teeth |  
 | id_no_size | 05_06__40_teeth |  
 | id_no_type | gear_05_06__40_teeth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_06__40_teeth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_05_06__40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06__40_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06__40_teeth/working)<br>[Oobb Part Gear 05 06  40 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06__40_teeth/working)<br><br> |  
-| markdown_short | [oobb_part_gear_05_06__40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06__40_teeth/working)<br><br> |  
+| markdown_full | [oobb_part_gear_05_06__40_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_06__40_teeth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_06__40_teeth)<br>[Oobb Part Gear 05 06  40 Teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_06__40_teeth)<br><br> |  
+| markdown_short | [oobb_part_gear_05_06__40_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_06__40_teeth)<br><br> |  
 | md5 | dd7446d97f409aa78c403c93e1008a65 |  
 | md5_10 | dd7446d97f |  
 | md5_10_upper | DD7446D97F |  

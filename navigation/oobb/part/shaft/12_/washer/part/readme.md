@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 12washer |  
 | id_no_size | 12__washer |  
 | id_no_type | shaft_12__washer |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_shaft_12__washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__washer/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__washer/working)<br>[Oobb Part Shaft 12  Washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__washer/working)<br><br> |  
-| markdown_short | [oobb_part_shaft_12__washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__washer/working)<br><br> |  
+| markdown_full | [oobb_part_shaft_12__washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer)<br>[Oobb Part Shaft 12  Washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer)<br><br> |  
+| markdown_short | [oobb_part_shaft_12__washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer)<br><br> |  
 | md5 | d422b4c1a5cbbf81e94883d79ea98c50 |  
 | md5_10 | d422b4c1a5 |  
 | md5_10_upper | D422B4C1A5 |  

@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 120_mm_id_260_mm_od_55_mm_depth |  
 | id_no_size | 6324_size_120_mm_id_260_mm_od_55_mm_depth |  
 | id_no_type | 6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth/working)<br>[Hardware Bearing 6300 Series 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth)<br>[Hardware Bearing 6300 Series 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth)<br><br> |  
 | md5 | 27a6ac9591e04b969289ef6d0acd19a8 |  
 | md5_10 | 27a6ac9591 |  
 | md5_10_upper | 27A6AC9591 |  

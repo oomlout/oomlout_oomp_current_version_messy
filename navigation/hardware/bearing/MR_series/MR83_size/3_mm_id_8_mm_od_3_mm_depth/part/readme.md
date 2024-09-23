@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 3_mm_id_8_mm_od_3_mm_depth |  
 | id_no_size | MR83_size_3_mm_id_8_mm_od_3_mm_depth |  
 | id_no_type | MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth/working)<br>[Hardware Bearing Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br>[Hardware Bearing Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br><br> |  
 | md5 | 1218c1d1451d68f7b7516fb195043e05 |  
 | md5_10 | 1218c1d145 |  
 | md5_10_upper | 1218C1D145 |  

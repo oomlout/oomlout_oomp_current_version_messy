@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 110_mm_id_140_mm_od_16_mm_depth |  
 | id_no_size | 6822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | id_no_type | 6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br>[Hardware Bearing 6800 Series 6822 Size 110 Mm Id 140 Mm Od 16 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth)<br>[Hardware Bearing 6800 Series 6822 Size 110 Mm Id 140 Mm Od 16 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth)<br><br> |  
 | md5 | 877e57212f7a740a388cac2e5a82c31a |  
 | md5_10 | 877e57212f |  
 | md5_10_upper | 877E57212F |  

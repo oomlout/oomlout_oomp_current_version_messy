@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | max11amazonkfsnwi |  
 | id_no_size | max_11_amazon_kfsnwi |  
 | id_no_type | amazon_fire_max_11_amazon_kfsnwi |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
 | manufacturer | amazon |  
 | manufacturer_capital | Amazon |  
 | manufacturer_first_letter | a |  
@@ -148,8 +149,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | AMAZO |  
 | manufacturer_upper_length_6 | AMAZON |  
 | manufacturers | [] |  
-| markdown_full | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi/working)<br>[Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi/working)<br><br> |  
-| markdown_short | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi/working)<br><br> |  
+| markdown_full | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br>[Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br><br> |  
+| markdown_short | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br><br> |  
 | md5 | 40594279ee97386edde9fec925127755 |  
 | md5_10 | 40594279ee |  
 | md5_10_upper | 40594279EE |  

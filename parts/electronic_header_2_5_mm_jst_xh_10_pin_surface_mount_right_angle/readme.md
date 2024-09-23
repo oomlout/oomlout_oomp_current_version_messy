@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 10_pin_surface_mount_right_angle |  
 | id_no_type | 2_5_mm_jst_xh_10_pin_surface_mount_right_angle |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle/working)<br>[hjxh10psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 5 Mm Jst Xh 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle/working)<br><br> |  
-| markdown_short | [electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle/working)<br><br> |  
+| markdown_full | [electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle)<br>[hjxh10psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle)<br>[Electronic Header 2 5 Mm Jst Xh 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle)<br><br> |  
+| markdown_short | [electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle)<br><br> |  
 | md5 | 1e928c6250e097adb7a9ddc9e0e16350 |  
 | md5_10 | 1e928c6250 |  
 | md5_10_upper | 1E928C6250 |  

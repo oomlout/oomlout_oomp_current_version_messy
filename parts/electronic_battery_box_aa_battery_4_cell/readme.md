@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 4cell |  
 | id_no_size | 4_cell |  
 | id_no_type | aa_battery_4_cell |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[Electronic Battery Box Aa Battery 4 Cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[LCSC - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br> |  
-| markdown_short | [electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[LCSC - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br> |  
+| markdown_full | [electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[Electronic Battery Box Aa Battery 4 Cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[LCSC - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br> |  
+| markdown_short | [electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[LCSC - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br> |  
 | md5 | 19e5242d3e7933b364c61c2e3685fe77 |  
 | md5_10 | 19e5242d3e |  
 | md5_10_upper | 19E5242D3E |  

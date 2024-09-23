@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 03countersunk |  
 | id_no_size | 03__countersunk |  
 | id_no_type | shaft_03__countersunk |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__countersunk |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_shaft_03__countersunk](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03__countersunk/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03__countersunk/working)<br>[Oobb Part Shaft 03  Countersunk](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03__countersunk/working)<br><br> |  
-| markdown_short | [oobb_part_shaft_03__countersunk](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03__countersunk/working)<br><br> |  
+| markdown_full | [oobb_part_shaft_03__countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__countersunk)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__countersunk)<br>[Oobb Part Shaft 03  Countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__countersunk)<br><br> |  
+| markdown_short | [oobb_part_shaft_03__countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__countersunk)<br><br> |  
 | md5 | faf6a14e9c23ecf68efe29be35d49cb4 |  
 | md5_10 | faf6a14e9c |  
 | md5_10_upper | FAF6A14E9C |  

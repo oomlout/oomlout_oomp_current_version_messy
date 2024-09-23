@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0609144teethshmotortt01 |  
 | id_no_size | 06_09__144_teeth_sh_motor_tt_01 |  
 | id_no_type | pulley_gt2_06_09__144_teeth_sh_motor_tt_01 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01/working)<br>[Oobb Part Pulley Gt2 06 09  144 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01)<br>[Oobb Part Pulley Gt2 06 09  144 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01)<br><br> |  
 | md5 | 05c1be127f7f93475a3101d5b3f6bd3f |  
 | md5_10 | 05c1be127f |  
 | md5_10_upper | 05C1BE127F |  

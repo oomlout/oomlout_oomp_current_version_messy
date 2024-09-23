@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1680pixelwidth1050pixelheightdelle2009wt |  
 | id_no_size | 1680_pixel_width_1050_pixel_height_dell_e2009wt |  
 | id_no_type | 508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt |  
 | manufacturer | dell |  
 | manufacturer_capital | Dell |  
 | manufacturer_first_letter | d |  
@@ -148,8 +149,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | DELL |  
 | manufacturer_upper_length_6 | DELL |  
 | manufacturers | [] |  
-| markdown_full | [computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt/working)<br>[Computer Monitor 508 Mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt/working)<br><br> |  
-| markdown_short | [computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt/working)<br><br> |  
+| markdown_full | [computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br>[Computer Monitor 508 Mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br><br> |  
+| markdown_short | [computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br><br> |  
 | md5 | fd476d1a03596b2bc18dc1a0202a1620 |  
 | md5_10 | fd476d1a03 |  
 | md5_10_upper | FD476D1A03 |  

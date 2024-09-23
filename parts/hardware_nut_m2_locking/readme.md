@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | locking |  
 | id_no_type | m2_locking |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_locking |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m2_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_locking/working)<br>[nu2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_locking/working)<br>[Hardware Nut M2 Locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_locking/working)<br><br> |  
-| markdown_short | [hardware_nut_m2_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_locking/working)<br><br> |  
+| markdown_full | [hardware_nut_m2_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_locking)<br>[nu2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_locking)<br>[Hardware Nut M2 Locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_locking)<br><br> |  
+| markdown_short | [hardware_nut_m2_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_locking)<br><br> |  
 | md5 | c9a0feb65d11a33b90fa4b5e347f7e06 |  
 | md5_10 | c9a0feb65d |  
 | md5_10_upper | C9A0FEB65D |  

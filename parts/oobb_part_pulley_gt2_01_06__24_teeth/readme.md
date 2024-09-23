@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 010624teeth |  
 | id_no_size | 01_06__24_teeth |  
 | id_no_type | pulley_gt2_01_06__24_teeth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_01_06__24_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth/working)<br>[Oobb Part Pulley Gt2 01 06  24 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_01_06__24_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_01_06__24_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth)<br>[Oobb Part Pulley Gt2 01 06  24 Teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_01_06__24_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth)<br><br> |  
 | md5 | 285454042295fecbb6c68d0c3568c557 |  
 | md5_10 | 2854540422 |  
 | md5_10_upper | 2854540422 |  

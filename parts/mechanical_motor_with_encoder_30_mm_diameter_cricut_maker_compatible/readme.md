@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | cricutmakercompatible |  
 | id_no_size | cricut_maker_compatible |  
 | id_no_type | 30_mm_diameter_cricut_maker_compatible |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible/working)<br>[Mechanical Motor With Encoder 30 Mm Diameter Cricut Maker Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible/working)<br><br> |  
-| markdown_short | [mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible/working)<br><br> |  
+| markdown_full | [mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible)<br>[Mechanical Motor With Encoder 30 Mm Diameter Cricut Maker Compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible)<br><br> |  
+| markdown_short | [mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible)<br><br> |  
 | md5 | d41e39f3741bcb6b68e0c64bd64bfd88 |  
 | md5_10 | d41e39f374 |  
 | md5_10_upper | D41E39F374 |  

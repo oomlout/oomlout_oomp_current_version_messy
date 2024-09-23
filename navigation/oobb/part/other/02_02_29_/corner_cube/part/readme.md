@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 020229cornercube |  
 | id_no_size | 02_02_29__corner_cube |  
 | id_no_type | other_02_02_29__corner_cube |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[Oobb Part Other 02 02 29  Corner Cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br> |  
-| markdown_short | [oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br> |  
+| markdown_full | [oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube)<br>[Oobb Part Other 02 02 29  Corner Cube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube)<br><br> |  
+| markdown_short | [oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube)<br><br> |  
 | md5 | 894bbfc57d6036c9781741ccafa754a6 |  
 | md5_10 | 894bbfc57d |  
 | md5_10_upper | 894BBFC57D |  

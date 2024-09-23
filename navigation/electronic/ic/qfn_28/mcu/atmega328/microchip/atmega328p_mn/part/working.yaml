@@ -106,6 +106,7 @@ id_no_class: ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 id_no_color: atmega328_microchip_atmega328p_mn
 id_no_size: mcu_atmega328_microchip_atmega328p_mn
 id_no_type: qfn_28_mcu_atmega328_microchip_atmega328p_mn
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 manufacturer: microchip
 manufacturer_capital: Microchip
 manufacturer_first_letter: m
@@ -137,9 +138,9 @@ manufacturer_upper_length_4: MICR
 manufacturer_upper_length_5: MICRO
 manufacturer_upper_length_6: MICROC
 manufacturers: []
-markdown_full: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[iq28mcuat328](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br>[Electronic
-  Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br>'
-markdown_short: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn/working)<br><br>'
+markdown_full: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br>[iq28mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br>[Electronic
+  Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br><br>'
+markdown_short: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br><br>'
 md5: 4e3cebccf7cb76a5984fa97b7a893de9
 md5_10: 4e3cebccf7
 md5_10_upper: 4E3CEBCCF7

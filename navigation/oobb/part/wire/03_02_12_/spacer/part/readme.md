@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030212spacer |  
 | id_no_size | 03_02_12__spacer |  
 | id_no_type | wire_03_02_12__spacer |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br>[Oobb Part Wire 03 02 12  Spacer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer)<br>[Oobb Part Wire 03 02 12  Spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer)<br><br> |  
+| markdown_short | [oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer)<br><br> |  
 | md5 | 16cf881f068acbb2cd4bd718299947fa |  
 | md5_10 | 16cf881f06 |  
 | md5_10_upper | 16CF881F06 |  

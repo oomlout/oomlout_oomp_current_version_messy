@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030304highervoltage |  
 | id_no_size | 03_03_04__higher_voltage |  
 | id_no_type | wire_03_03_04__higher_voltage |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_03_04__higher_voltage](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage/working)<br>[Oobb Part Wire 03 03 04  Higher Voltage](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_03_04__higher_voltage](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_03_04__higher_voltage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage)<br>[Oobb Part Wire 03 03 04  Higher Voltage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage)<br><br> |  
+| markdown_short | [oobb_part_wire_03_03_04__higher_voltage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__higher_voltage)<br><br> |  
 | md5 | ab0275bc103f3195dc0b02a46951fd51 |  
 | md5_10 | ab0275bc10 |  
 | md5_10_upper | AB0275BC10 |  

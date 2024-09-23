@@ -162,6 +162,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | black_20_pin_dupont |  
 | id_no_type | 2_54_mm_black_20_pin_dupont |  
 | kicad_reference | CRHO |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_crimp_housing_2_54_mm_black_20_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont/working)<br>[chi1b20pd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont/working)<br>[Electronic Crimp Housing 2 54 Mm Black 20 Pin Dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont/working)<br><br> |  
-| markdown_short | [electronic_crimp_housing_2_54_mm_black_20_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont/working)<br><br> |  
+| markdown_full | [electronic_crimp_housing_2_54_mm_black_20_pin_dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont)<br>[chi1b20pd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont)<br>[Electronic Crimp Housing 2 54 Mm Black 20 Pin Dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont)<br><br> |  
+| markdown_short | [electronic_crimp_housing_2_54_mm_black_20_pin_dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont)<br><br> |  
 | md5 | 481f8a40f32d485f782f9529d459a9f4 |  
 | md5_10 | 481f8a40f3 |  
 | md5_10_upper | 481F8A40F3 |  

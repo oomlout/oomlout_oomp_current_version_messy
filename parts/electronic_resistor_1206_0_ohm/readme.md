@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 0_ohm |  
 | id_no_type | 1206_0_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[Electronic Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br> |  
-| markdown_short | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_0_ohm/working)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br> |  
+| markdown_full | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[Electronic Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br> |  
+| markdown_short | [electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br> |  
 | md5 | cb80fe6900902f133acee0cef16afa46 |  
 | md5_10 | cb80fe6900 |  
 | md5_10_upper | CB80FE6900 |  

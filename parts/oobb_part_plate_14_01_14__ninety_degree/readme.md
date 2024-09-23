@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 140114ninetydegree |  
 | id_no_size | 14_01_14__ninety_degree |  
 | id_no_type | plate_14_01_14__ninety_degree |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_plate_14_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree/working)<br>[Oobb Part Plate 14 01 14  Ninety Degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree/working)<br><br> |  
-| markdown_short | [oobb_part_plate_14_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree/working)<br><br> |  
+| markdown_full | [oobb_part_plate_14_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree)<br>[Oobb Part Plate 14 01 14  Ninety Degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree)<br><br> |  
+| markdown_short | [oobb_part_plate_14_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_14__ninety_degree)<br><br> |  
 | md5 | 544c74da68c413869792bdfff5a08620 |  
 | md5_10 | 544c74da68 |  
 | md5_10_upper | 544C74DA68 |  

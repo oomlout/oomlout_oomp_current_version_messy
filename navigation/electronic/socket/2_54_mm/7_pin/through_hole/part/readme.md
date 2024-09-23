@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 7_pin_through_hole |  
 | id_no_type | 2_54_mm_7_pin_through_hole |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_2_54_mm_7_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole/working)<br>[sci17pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole/working)<br>[Electronic Socket 2 54 Mm 7 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole/working)<br><br> |  
-| markdown_short | [electronic_socket_2_54_mm_7_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole/working)<br><br> |  
+| markdown_full | [electronic_socket_2_54_mm_7_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole)<br>[sci17pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole)<br>[Electronic Socket 2 54 Mm 7 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole)<br><br> |  
+| markdown_short | [electronic_socket_2_54_mm_7_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole)<br><br> |  
 | md5 | 7138c554da3072a5b5966c892eec794c |  
 | md5_10 | 7138c554da |  
 | md5_10_upper | 7138C554DA |  

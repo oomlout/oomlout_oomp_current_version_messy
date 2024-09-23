@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6819 |  
 | id_no_size | hardware_6819 |  
 | id_no_type | bearing_hardware_bearing_6819 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6819 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6819](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6819/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6819/working)<br>[Oobb Part Bearing Hardware Bearing 6819](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6819/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6819](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6819/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6819](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6819)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6819)<br>[Oobb Part Bearing Hardware Bearing 6819](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6819)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6819](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6819)<br><br> |  
 | md5 | d8f8980ee99df10affd7c0f9224c917f |  
 | md5_10 | d8f8980ee9 |  
 | md5_10_upper | D8F8980EE9 |  

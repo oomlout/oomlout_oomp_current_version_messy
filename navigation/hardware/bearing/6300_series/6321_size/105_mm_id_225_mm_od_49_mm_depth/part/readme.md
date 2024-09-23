@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 105_mm_id_225_mm_od_49_mm_depth |  
 | id_no_size | 6321_size_105_mm_id_225_mm_od_49_mm_depth |  
 | id_no_type | 6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth/working)<br>[Hardware Bearing 6300 Series 6321 Size 105 Mm Id 225 Mm Od 49 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth)<br>[Hardware Bearing 6300 Series 6321 Size 105 Mm Id 225 Mm Od 49 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth)<br><br> |  
 | md5 | 558525470e60dc1c0579e7449a68e8e6 |  
 | md5_10 | 558525470e |  
 | md5_10_upper | 558525470E |  

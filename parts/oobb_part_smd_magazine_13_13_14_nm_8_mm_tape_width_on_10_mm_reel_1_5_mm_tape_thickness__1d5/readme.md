@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 131314nm8mmtapewidthon10mmreel15mmtapethickness1d5 |  
 | id_no_size | 13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
 | id_no_type | smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5/working)<br>[Oobb Part Smd Magazine 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness  1D5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5/working)<br><br> |  
-| markdown_short | [oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5/working)<br><br> |  
+| markdown_full | [oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5)<br>[Oobb Part Smd Magazine 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness  1D5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5)<br><br> |  
+| markdown_short | [oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5)<br><br> |  
 | md5 | 995067d871f1c265737a83593c8e72e2 |  
 | md5_10 | 995067d871 |  
 | md5_10_upper | 995067D871 |  

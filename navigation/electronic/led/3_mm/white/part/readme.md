@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | white |  
 | id_no_type | 3_mm_white |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[l3w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[Electronic Led 3 Mm White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br> |  
-| markdown_short | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br> |  
+| markdown_full | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white)<br>[l3w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white)<br>[Electronic Led 3 Mm White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white)<br><br> |  
+| markdown_short | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white)<br><br> |  
 | md5 | 799a76eca4e04a8148fb90484fe20265 |  
 | md5_10 | 799a76eca4 |  
 | md5_10_upper | 799A76ECA4 |  

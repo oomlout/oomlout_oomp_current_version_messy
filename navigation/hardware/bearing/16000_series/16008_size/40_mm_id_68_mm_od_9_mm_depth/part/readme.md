@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 40_mm_id_68_mm_od_9_mm_depth |  
 | id_no_size | 16008_size_40_mm_id_68_mm_od_9_mm_depth |  
 | id_no_type | 16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth/working)<br>[Hardware Bearing 16000 Series 16008 Size 40 Mm Id 68 Mm Od 9 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth)<br>[Hardware Bearing 16000 Series 16008 Size 40 Mm Id 68 Mm Od 9 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth)<br><br> |  
 | md5 | cf1ed09dbaba8a0412bf76d4e6811f7c |  
 | md5_10 | cf1ed09dba |  
 | md5_10_upper | CF1ED09DBA |  

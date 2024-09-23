@@ -58,6 +58,7 @@ id_no_class: printer_wanhao_dupicator_i3_plus
 id_no_color: wanhaodupicatori3plus
 id_no_size: wanhaodupicatori3plus
 id_no_type: wanhao_dupicator_i3_plus
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus
 manufacturer: wanhao
 manufacturer_capital: Wanhao
 manufacturer_first_letter: w
@@ -89,9 +90,9 @@ manufacturer_upper_length_4: WANH
 manufacturer_upper_length_5: WANHA
 manufacturer_upper_length_6: WANHAO
 manufacturers: []
-markdown_full: '[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br>[Three
-  D Printer Printer Wanhao Dupicator I3 Plus](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br><br>'
-markdown_short: '[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br><br>'
+markdown_full: '[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br>[Three
+  D Printer Printer Wanhao Dupicator I3 Plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br><br>'
+markdown_short: '[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br><br>'
 md5: 949a274c422c36a36e5620703e915c1c
 md5_10: 949a274c42
 md5_10_upper: 949A274C42

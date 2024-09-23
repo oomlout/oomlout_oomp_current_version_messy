@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 2_pole_inline |  
 | id_no_type | wago_221_2_pole_inline |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br>[conw2212poi](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br>[Electronic Connector Wago 221 2 Pole Inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br> |  
-| markdown_short | [electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br> |  
+| markdown_full | [electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline)<br>[conw2212poi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline)<br>[Electronic Connector Wago 221 2 Pole Inline](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline)<br><br> |  
+| markdown_short | [electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline)<br><br> |  
 | md5 | e9d1a42f1d6baa84b5066a745445c443 |  
 | md5_10 | e9d1a42f1d |  
 | md5_10_upper | E9D1A42F1D |  

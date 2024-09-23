@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 010636teethshieldshm3 |  
 | id_no_size | 01_06__36_teeth_shield_sh_m3 |  
 | id_no_type | pulley_gt2_01_06__36_teeth_shield_sh_m3 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3/working)<br>[Oobb Part Pulley Gt2 01 06  36 Teeth Shield Sh M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3)<br>[Oobb Part Pulley Gt2 01 06  36 Teeth Shield Sh M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3)<br><br> |  
 | md5 | e81cc9165e6a1c57d0488b59593a324d |  
 | md5_10 | e81cc9165e |  
 | md5_10_upper | E81CC9165E |  

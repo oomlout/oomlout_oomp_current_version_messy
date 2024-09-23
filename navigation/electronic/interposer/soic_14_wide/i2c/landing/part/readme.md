@@ -140,6 +140,7 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 | id_no_size | i2c_landing |  
 | id_no_type | soic_14_wide_i2c_landing |  
 | kicad_reference | U |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -147,8 +148,8 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[insoic14wi2cland](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br>[Electronic Interposer Soic 14 Wide I2C Landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br> |  
-| markdown_short | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br> |  
+| markdown_full | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br>[insoic14wi2cland](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br>[Electronic Interposer Soic 14 Wide I2C Landing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br><br> |  
+| markdown_short | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br><br> |  
 | md5 | 3cf65e88ee279c2b72da63b145edb0e3 |  
 | md5_10 | 3cf65e88ee |  
 | md5_10_upper | 3CF65E88EE |  

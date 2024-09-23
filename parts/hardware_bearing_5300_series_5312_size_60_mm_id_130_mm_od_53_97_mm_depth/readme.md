@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 60_mm_id_130_mm_od_53_97_mm_depth |  
 | id_no_size | 5312_size_60_mm_id_130_mm_od_53_97_mm_depth |  
 | id_no_type | 5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth/working)<br>[Hardware Bearing 5300 Series 5312 Size 60 Mm Id 130 Mm Od 53 97 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth)<br>[Hardware Bearing 5300 Series 5312 Size 60 Mm Id 130 Mm Od 53 97 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth)<br><br> |  
 | md5 | 45d2e67e4056cc6e8ea873d00c288cba |  
 | md5_10 | 45d2e67e40 |  
 | md5_10_upper | 45D2E67E40 |  

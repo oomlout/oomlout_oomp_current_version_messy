@@ -115,6 +115,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | pro3microsoft1631 |  
 | id_no_size | pro_3_microsoft_1631 |  
 | id_no_type | microsoft_surface_pro_3_microsoft_1631 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631 |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | MICRO |  
 | manufacturer_upper_length_6 | MICROS |  
 | manufacturers | [] |  
-| markdown_full | [computer_tablet_microsoft_surface_pro_3_microsoft_1631](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631/working)<br>[Computer Tablet Microsoft Surface Pro 3 Microsoft 1631](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631/working)<br><br> |  
-| markdown_short | [computer_tablet_microsoft_surface_pro_3_microsoft_1631](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631/working)<br><br> |  
+| markdown_full | [computer_tablet_microsoft_surface_pro_3_microsoft_1631](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631)<br>[Computer Tablet Microsoft Surface Pro 3 Microsoft 1631](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631)<br><br> |  
+| markdown_short | [computer_tablet_microsoft_surface_pro_3_microsoft_1631](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_1631)<br><br> |  
 | md5 | 7f8191f6250b981adce6dc8178ac730c |  
 | md5_10 | 7f8191f625 |  
 | md5_10_upper | 7F8191F625 |  

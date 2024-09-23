@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 29_pin_surface_mount |  
 | id_no_type | 2_54_mm_29_pin_surface_mount |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[hi129psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm 29 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount/working)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount)<br>[hi129psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount)<br>[Electronic Header 2 54 Mm 29 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_29_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_29_pin_surface_mount)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br> |  
 | md5 | 0f3b53e2cce77aa13df4b183ece919c2 |  
 | md5_10 | 0f3b53e2cc |  
 | md5_10_upper | 0F3B53E2CC |  

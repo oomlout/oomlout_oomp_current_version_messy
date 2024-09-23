@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 03big |  
 | id_no_size | 03__big |  
 | id_no_type | smd_magazine_refiller_03__big |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br>[Oobb Part Smd Magazine Refiller 03  Big](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br><br> |  
-| markdown_short | [oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br><br> |  
+| markdown_full | [oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big)<br>[Oobb Part Smd Magazine Refiller 03  Big](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big)<br><br> |  
+| markdown_short | [oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big)<br><br> |  
 | md5 | cc3a3b16b183846e97eeb6c4b879a3e5 |  
 | md5_10 | cc3a3b16b1 |  
 | md5_10_upper | CC3A3B16B1 |  

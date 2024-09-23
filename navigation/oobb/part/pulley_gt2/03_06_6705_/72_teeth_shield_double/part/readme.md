@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0306670572teethshielddouble |  
 | id_no_size | 03_06_6705__72_teeth_shield_double |  
 | id_no_type | pulley_gt2_03_06_6705__72_teeth_shield_double |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double/working)<br>[Oobb Part Pulley Gt2 03 06 6705  72 Teeth Shield Double](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double)<br>[Oobb Part Pulley Gt2 03 06 6705  72 Teeth Shield Double](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double)<br><br> |  
 | md5 | 9ac35440339b860dc49a739742e7226d |  
 | md5_10 | 9ac3544033 |  
 | md5_10_upper | 9AC3544033 |  

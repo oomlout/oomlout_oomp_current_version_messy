@@ -140,6 +140,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | id_no_type | m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -147,8 +148,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br>[w6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br>[Hardware Washer M6 Nylon White 12 Mm Outer Diameter 1 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth)<br>[w6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth)<br>[Hardware Washer M6 Nylon White 12 Mm Outer Diameter 1 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth)<br><br> |  
+| markdown_short | [hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth)<br><br> |  
 | md5 | 60938e58186782651a8e03e69e838829 |  
 | md5_10 | 60938e5818 |  
 | md5_10_upper | 60938E5818 |  

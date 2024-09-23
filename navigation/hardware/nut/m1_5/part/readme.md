@@ -92,6 +92,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | m1_5 |  
 | id_no_type | m1_5 |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -99,8 +100,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m1_5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_5/working)<br>[nu](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_5/working)<br>[Hardware Nut M1 5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_5/working)<br><br> |  
-| markdown_short | [hardware_nut_m1_5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_5/working)<br><br> |  
+| markdown_full | [hardware_nut_m1_5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br>[Hardware Nut M1 5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br><br> |  
+| markdown_short | [hardware_nut_m1_5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br><br> |  
 | md5 | 4ed0ac0e86a1d0a442b38812c98cdd4e |  
 | md5_10 | 4ed0ac0e86 |  
 | md5_10_upper | 4ED0AC0E86 |  

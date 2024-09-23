@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 19_pin_through_hole |  
 | id_no_type | 2_54_mm_19_pin_through_hole |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole/working)<br>[sci119pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole/working)<br>[Electronic Socket 2 54 Mm 19 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole/working)<br><br> |  
-| markdown_short | [electronic_socket_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole/working)<br><br> |  
+| markdown_full | [electronic_socket_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole)<br>[sci119pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole)<br>[Electronic Socket 2 54 Mm 19 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole)<br><br> |  
+| markdown_short | [electronic_socket_2_54_mm_19_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole)<br><br> |  
 | md5 | 43571022d68dd6429916dd976e9afc19 |  
 | md5_10 | 43571022d6 |  
 | md5_10_upper | 43571022D6 |  

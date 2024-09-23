@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardwarem2 |  
 | id_no_size | hardware_m2 |  
 | id_no_type | nut_hardware_nut_m2 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_nut_hardware_nut_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m2/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m2/working)<br>[Oobb Part Nut Hardware Nut M2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m2/working)<br><br> |  
-| markdown_short | [oobb_part_nut_hardware_nut_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m2/working)<br><br> |  
+| markdown_full | [oobb_part_nut_hardware_nut_m2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2)<br>[Oobb Part Nut Hardware Nut M2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2)<br><br> |  
+| markdown_short | [oobb_part_nut_hardware_nut_m2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2)<br><br> |  
 | md5 | d0ceae6f20ba0c0fabfbac5f50933fc7 |  
 | md5_10 | d0ceae6f20 |  
 | md5_10_upper | D0CEAE6F20 |  

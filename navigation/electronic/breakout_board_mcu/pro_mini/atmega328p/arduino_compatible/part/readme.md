@@ -139,6 +139,7 @@ A mini usb port free arduino compatible breakout
 | id_no_size | atmega328p_arduino_compatible |  
 | id_no_type | pro_mini_atmega328p_arduino_compatible |  
 | kicad_reference | BB |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ A mini usb port free arduino compatible breakout
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible/working)<br>[pm328ac](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible/working)<br>[Electronic Breakout Board Mcu Pro Mini Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible/working)<br><br> |  
-| markdown_short | [electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible/working)<br><br> |  
+| markdown_full | [electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible)<br>[pm328ac](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible)<br>[Electronic Breakout Board Mcu Pro Mini Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible)<br><br> |  
+| markdown_short | [electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible)<br><br> |  
 | md5 | e12c5be8eeb64fa5ff8b458128cf6e90 |  
 | md5_10 | e12c5be8ee |  
 | md5_10_upper | E12C5BE8EE |  

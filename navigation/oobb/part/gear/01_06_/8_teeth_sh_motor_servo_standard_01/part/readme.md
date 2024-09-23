@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 01068teethshmotorservostandard01 |  
 | id_no_size | 01_06__8_teeth_sh_motor_servo_standard_01 |  
 | id_no_type | gear_01_06__8_teeth_sh_motor_servo_standard_01 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01/working)<br>[Oobb Part Gear 01 06  8 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01/working)<br><br> |  
-| markdown_short | [oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01/working)<br><br> |  
+| markdown_full | [oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01)<br>[Oobb Part Gear 01 06  8 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01)<br><br> |  
+| markdown_short | [oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01)<br><br> |  
 | md5 | b857be6d6a1b84bf7a462e5126ecce53 |  
 | md5_10 | b857be6d6a |  
 | md5_10_upper | B857BE6D6A |  

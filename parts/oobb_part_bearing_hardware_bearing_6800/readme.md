@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6800 |  
 | id_no_size | hardware_6800 |  
 | id_no_type | bearing_hardware_bearing_6800 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6800 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6800](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6800/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6800/working)<br>[Oobb Part Bearing Hardware Bearing 6800](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6800/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6800](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6800/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6800](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6800)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6800)<br>[Oobb Part Bearing Hardware Bearing 6800](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6800)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6800](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6800)<br><br> |  
 | md5 | 867ee5a0c2dab198989b33ca18bad038 |  
 | md5_10 | 867ee5a0c2 |  
 | md5_10_upper | 867EE5A0C2 |  

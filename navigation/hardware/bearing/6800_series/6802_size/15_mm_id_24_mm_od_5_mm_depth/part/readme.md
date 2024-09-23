@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 15_mm_id_24_mm_od_5_mm_depth |  
 | id_no_size | 6802_size_15_mm_id_24_mm_od_5_mm_depth |  
 | id_no_type | 6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br>[Hardware Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth)<br>[Hardware Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth)<br><br> |  
 | md5 | 101845349dc9772d9429dbad74251805 |  
 | md5_10 | 101845349d |  
 | md5_10_upper | 101845349D |  

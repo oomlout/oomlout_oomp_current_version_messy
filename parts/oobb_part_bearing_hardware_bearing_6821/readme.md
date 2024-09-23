@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6821 |  
 | id_no_size | hardware_6821 |  
 | id_no_type | bearing_hardware_bearing_6821 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6821 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6821/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6821/working)<br>[Oobb Part Bearing Hardware Bearing 6821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6821/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6821/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6821)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6821)<br>[Oobb Part Bearing Hardware Bearing 6821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6821)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6821)<br><br> |  
 | md5 | c90970360ae25222aa186e36a53230c5 |  
 | md5_10 | c90970360a |  
 | md5_10_upper | C90970360A |  

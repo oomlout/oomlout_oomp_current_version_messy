@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 050300motorservostandard01allprint |  
 | id_no_size | 05_03_00__motor_servo_standard_01_all_print |  
 | id_no_type | holder_05_03_00__motor_servo_standard_01_all_print |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_holder_05_03_00__motor_servo_standard_01_all_print](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print/working)<br>[Oobb Part Holder 05 03 00  Motor Servo Standard 01 All Print](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print/working)<br><br> |  
-| markdown_short | [oobb_part_holder_05_03_00__motor_servo_standard_01_all_print](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print/working)<br><br> |  
+| markdown_full | [oobb_part_holder_05_03_00__motor_servo_standard_01_all_print](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print)<br>[Oobb Part Holder 05 03 00  Motor Servo Standard 01 All Print](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print)<br><br> |  
+| markdown_short | [oobb_part_holder_05_03_00__motor_servo_standard_01_all_print](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_00__motor_servo_standard_01_all_print)<br><br> |  
 | md5 | d18cef38690b6feaff5d58e543273fa0 |  
 | md5_10 | d18cef3869 |  
 | md5_10_upper | D18CEF3869 |  

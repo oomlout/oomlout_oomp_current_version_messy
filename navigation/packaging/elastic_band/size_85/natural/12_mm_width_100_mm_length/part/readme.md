@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 12_mm_width_100_mm_length |  
 | id_no_size | natural_12_mm_width_100_mm_length |  
 | id_no_type | size_85_natural_12_mm_width_100_mm_length |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length/working)<br>[Packaging Elastic Band Size 85 Natural 12 Mm Width 100 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length/working)<br><br> |  
-| markdown_short | [packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length/working)<br><br> |  
+| markdown_full | [packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length)<br>[Packaging Elastic Band Size 85 Natural 12 Mm Width 100 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length)<br><br> |  
+| markdown_short | [packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length)<br><br> |  
 | md5 | 2e2e038273a79ba02fa387133b4f2710 |  
 | md5_10 | 2e2e038273 |  
 | md5_10_upper | 2E2E038273 |  

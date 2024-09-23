@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 4_7_micro_farad |  
 | id_no_type | 0603_4_7_micro_farad |  
 | kicad_reference | C |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[c6uf4d7](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br>[Electronic Capacitor 0603 4 7 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br> |  
-| markdown_short | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad/working)<br><br> |  
+| markdown_full | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad)<br>[c6uf4d7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad)<br>[Electronic Capacitor 0603 4 7 Micro Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad)<br><br> |  
+| markdown_short | [electronic_capacitor_0603_4_7_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad)<br><br> |  
 | md5 | 6ab38cdcab2221adc1a931e09497a8b8 |  
 | md5_10 | 6ab38cdcab |  
 | md5_10_upper | 6AB38CDCAB |  

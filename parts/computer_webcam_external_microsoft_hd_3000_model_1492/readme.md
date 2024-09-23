@@ -91,6 +91,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | microsofthd3000model1492 |  
 | id_no_size | microsoft_hd_3000_model_1492 |  
 | id_no_type | external_microsoft_hd_3000_model_1492 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -122,8 +123,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | MICRO |  
 | manufacturer_upper_length_6 | MICROS |  
 | manufacturers | [] |  
-| markdown_full | [computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br>[Computer Webcam External Microsoft Hd 3000 Model 1492](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br><br> |  
-| markdown_short | [computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492/working)<br><br> |  
+| markdown_full | [computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br>[Computer Webcam External Microsoft Hd 3000 Model 1492](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br><br> |  
+| markdown_short | [computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br><br> |  
 | md5 | 7334a5f24922415cca18757a5421df25 |  
 | md5_10 | 7334a5f249 |  
 | md5_10_upper | 7334A5F249 |  

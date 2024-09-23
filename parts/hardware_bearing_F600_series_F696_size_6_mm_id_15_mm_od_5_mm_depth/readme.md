@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 6_mm_id_15_mm_od_5_mm_depth |  
 | id_no_size | F696_size_6_mm_id_15_mm_od_5_mm_depth |  
 | id_no_type | F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth/working)<br>[Hardware Bearing F600 Series F696 Size 6 Mm Id 15 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth)<br>[Hardware Bearing F600 Series F696 Size 6 Mm Id 15 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F696_size_6_mm_id_15_mm_od_5_mm_depth)<br><br> |  
 | md5 | 89e5deaae0d384af822655d7ffa9d7bf |  
 | md5_10 | 89e5deaae0 |  
 | md5_10_upper | 89E5DEAAE0 |  

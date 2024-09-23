@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 010630teethshieldshmotorservostandard01 |  
 | id_no_size | 01_06__30_teeth_shield_sh_motor_servo_standard_01 |  
 | id_no_type | pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01/working)<br>[Oobb Part Pulley Gt2 01 06  30 Teeth Shield Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01/working)<br><br> |  
+| markdown_full | [oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01)<br>[Oobb Part Pulley Gt2 01 06  30 Teeth Shield Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01)<br><br> |  
+| markdown_short | [oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01)<br><br> |  
 | md5 | e78ad0ab38c3a832afa303fba31507bf |  
 | md5_10 | e78ad0ab38 |  
 | md5_10_upper | E78AD0AB38 |  

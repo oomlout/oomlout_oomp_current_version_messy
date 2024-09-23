@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 70_mm_id_150_mm_od_35_mm_depth |  
 | id_no_size | 6314_size_70_mm_id_150_mm_od_35_mm_depth |  
 | id_no_type | 6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth/working)<br>[Hardware Bearing 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br>[Hardware Bearing 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br><br> |  
 | md5 | 2a508a42cc1c93c3134c889c96c0bd56 |  
 | md5_10 | 2a508a42cc |  
 | md5_10_upper | 2A508A42CC |  

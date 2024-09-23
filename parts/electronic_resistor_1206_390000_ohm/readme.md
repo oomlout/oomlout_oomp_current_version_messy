@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 390000_ohm |  
 | id_no_type | 1206_390000_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_390000_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_1206_390000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_390000_ohm/working)<br>[r12o394](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_390000_ohm/working)<br>[Electronic Resistor 1206 390000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_390000_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_1206_390000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_390000_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_1206_390000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_390000_ohm)<br>[r12o394](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_390000_ohm)<br>[Electronic Resistor 1206 390000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_390000_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_1206_390000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_390000_ohm)<br><br> |  
 | md5 | c4a8f0d02dd26dd8370b8e03ba4fb9a1 |  
 | md5_10 | c4a8f0d02d |  
 | md5_10_upper | C4A8F0D02D |  

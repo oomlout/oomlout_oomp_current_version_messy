@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0301i |  
 | id_no_size | 03_01__i |  
 | id_no_type | bunting_alphabet_03_01__i |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__i |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bunting_alphabet_03_01__i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__i/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__i/working)<br>[Oobb Part Bunting Alphabet 03 01  I](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__i/working)<br><br> |  
-| markdown_short | [oobb_part_bunting_alphabet_03_01__i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__i/working)<br><br> |  
+| markdown_full | [oobb_part_bunting_alphabet_03_01__i](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__i)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__i)<br>[Oobb Part Bunting Alphabet 03 01  I](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__i)<br><br> |  
+| markdown_short | [oobb_part_bunting_alphabet_03_01__i](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__i)<br><br> |  
 | md5 | 6948ec5ecb5828bb0790a97157fef9ba |  
 | md5_10 | 6948ec5ecb |  
 | md5_10_upper | 6948EC5ECB |  

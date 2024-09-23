@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardwarem3 |  
 | id_no_size | hardware_m3 |  
 | id_no_type | threaded_insert_hardware_threaded_insert_m3 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_threaded_insert_hardware_threaded_insert_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3/working)<br>[Oobb Part Threaded Insert Hardware Threaded Insert M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3/working)<br><br> |  
-| markdown_short | [oobb_part_threaded_insert_hardware_threaded_insert_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3/working)<br><br> |  
+| markdown_full | [oobb_part_threaded_insert_hardware_threaded_insert_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3)<br>[Oobb Part Threaded Insert Hardware Threaded Insert M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3)<br><br> |  
+| markdown_short | [oobb_part_threaded_insert_hardware_threaded_insert_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3)<br><br> |  
 | md5 | 5dc954fff52ddfc66987abd30dae5146 |  
 | md5_10 | 5dc954fff5 |  
 | md5_10_upper | 5DC954FFF5 |  

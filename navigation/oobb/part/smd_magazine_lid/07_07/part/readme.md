@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0707 |  
 | id_no_size | 07_07 |  
 | id_no_type | smd_magazine_lid_07_07 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_07_07 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_smd_magazine_lid_07_07](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_07_07/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_07_07/working)<br>[Oobb Part Smd Magazine Lid 07 07](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_07_07/working)<br><br> |  
-| markdown_short | [oobb_part_smd_magazine_lid_07_07](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_07_07/working)<br><br> |  
+| markdown_full | [oobb_part_smd_magazine_lid_07_07](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_07_07)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_07_07)<br>[Oobb Part Smd Magazine Lid 07 07](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_07_07)<br><br> |  
+| markdown_short | [oobb_part_smd_magazine_lid_07_07](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_07_07)<br><br> |  
 | md5 | b5094d46858a845b155939ee7c87848d |  
 | md5_10 | b5094d4685 |  
 | md5_10_upper | B5094D4685 |  

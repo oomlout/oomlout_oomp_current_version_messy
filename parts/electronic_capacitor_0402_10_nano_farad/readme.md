@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 10_nano_farad |  
 | id_no_type | 0402_10_nano_farad |  
 | kicad_reference | C |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br>[c4nf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br>[Electronic Capacitor 0402 10 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br><br> |  
-| markdown_short | [electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br><br> |  
+| markdown_full | [electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad)<br>[c4nf10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad)<br>[Electronic Capacitor 0402 10 Nano Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad)<br><br> |  
+| markdown_short | [electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad)<br><br> |  
 | md5 | 6ab82773a09b6f3ae48a4a64e5fcce7c |  
 | md5_10 | 6ab82773a0 |  
 | md5_10_upper | 6AB82773A0 |  

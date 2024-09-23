@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1d50312d0teethshmotortt01 |  
 | id_no_size | 1d5_03__12d0_teeth_sh_motor_tt_01 |  
 | id_no_type | gear_1d5_03__12d0_teeth_sh_motor_tt_01 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01/working)<br>[Oobb Part Gear 1D5 03  12D0 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01/working)<br><br> |  
-| markdown_short | [oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01/working)<br><br> |  
+| markdown_full | [oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01)<br>[Oobb Part Gear 1D5 03  12D0 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01)<br><br> |  
+| markdown_short | [oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01)<br><br> |  
 | md5 | a91d0552bc35b0393136733ee4e8ded8 |  
 | md5_10 | a91d0552bc |  
 | md5_10_upper | A91D0552BC |  

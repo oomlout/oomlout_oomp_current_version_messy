@@ -83,6 +83,7 @@ id_no_color: jumper
 id_no_size: jumper
 id_no_type: 2_54_mm_jumper
 kicad_reference: CONN
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -90,9 +91,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[Electronic
-  Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
+markdown_full: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br>[Electronic
+  Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br><br>'
 md5: 92227bc2f8b61bf65d6b0a3dfb2c607c
 md5_10: 92227bc2f8
 md5_10_upper: 92227BC2F8

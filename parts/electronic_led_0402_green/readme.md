@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | green |  
 | id_no_type | 0402_green |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_green |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br>[l4g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br>[Electronic Led 0402 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br><br> |  
-| markdown_short | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green/working)<br><br> |  
+| markdown_full | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_green)<br>[l4g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_green)<br>[Electronic Led 0402 Green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_green)<br><br> |  
+| markdown_short | [electronic_led_0402_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_green)<br><br> |  
 | md5 | fcfe4f59874d0faff0697e455e42d253 |  
 | md5_10 | fcfe4f5987 |  
 | md5_10_upper | FCFE4F5987 |  

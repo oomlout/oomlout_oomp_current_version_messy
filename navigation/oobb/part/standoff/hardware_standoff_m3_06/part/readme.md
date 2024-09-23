@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardwarem306 |  
 | id_no_size | hardware_m3_06 |  
 | id_no_type | standoff_hardware_standoff_m3_06 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_standoff_hardware_standoff_m3_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06/working)<br>[Oobb Part Standoff Hardware Standoff M3 06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06/working)<br><br> |  
-| markdown_short | [oobb_part_standoff_hardware_standoff_m3_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06/working)<br><br> |  
+| markdown_full | [oobb_part_standoff_hardware_standoff_m3_06](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06)<br>[Oobb Part Standoff Hardware Standoff M3 06](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06)<br><br> |  
+| markdown_short | [oobb_part_standoff_hardware_standoff_m3_06](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06)<br><br> |  
 | md5 | 47ba6d786162bffef2c8093a70aaafa2 |  
 | md5_10 | 47ba6d7861 |  
 | md5_10_upper | 47BA6D7861 |  

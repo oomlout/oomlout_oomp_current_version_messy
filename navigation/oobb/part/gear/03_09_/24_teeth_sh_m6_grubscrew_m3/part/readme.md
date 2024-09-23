@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030924teethshm6grubscrewm3 |  
 | id_no_size | 03_09__24_teeth_sh_m6_grubscrew_m3 |  
 | id_no_type | gear_03_09__24_teeth_sh_m6_grubscrew_m3 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3/working)<br>[Oobb Part Gear 03 09  24 Teeth Sh M6 Grubscrew M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3/working)<br><br> |  
-| markdown_short | [oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3/working)<br><br> |  
+| markdown_full | [oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3)<br>[Oobb Part Gear 03 09  24 Teeth Sh M6 Grubscrew M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3)<br><br> |  
+| markdown_short | [oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3)<br><br> |  
 | md5 | f3c93e337e2a929f69283ad80edae761 |  
 | md5_10 | f3c93e337e |  
 | md5_10_upper | F3C93E337E |  

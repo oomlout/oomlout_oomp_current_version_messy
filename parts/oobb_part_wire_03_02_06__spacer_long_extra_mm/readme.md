@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030206spacerlongextramm |  
 | id_no_size | 03_02_06__spacer_long_extra_mm |  
 | id_no_type | wire_03_02_06__spacer_long_extra_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_02_06__spacer_long_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm/working)<br>[Oobb Part Wire 03 02 06  Spacer Long Extra Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_02_06__spacer_long_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_02_06__spacer_long_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm)<br>[Oobb Part Wire 03 02 06  Spacer Long Extra Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm)<br><br> |  
+| markdown_short | [oobb_part_wire_03_02_06__spacer_long_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_06__spacer_long_extra_mm)<br><br> |  
 | md5 | 948eb5517da63925e5dbfce86a91fa12 |  
 | md5_10 | 948eb5517d |  
 | md5_10_upper | 948EB5517D |  

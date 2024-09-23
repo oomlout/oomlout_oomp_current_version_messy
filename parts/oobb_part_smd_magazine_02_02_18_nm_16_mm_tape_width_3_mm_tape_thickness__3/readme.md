@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 020218nm16mmtapewidth3mmtapethickness3 |  
 | id_no_size | 02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3 |  
 | id_no_type | smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3/working)<br>[Oobb Part Smd Magazine 02 02 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness  3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3/working)<br><br> |  
-| markdown_short | [oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3/working)<br><br> |  
+| markdown_full | [oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3)<br>[Oobb Part Smd Magazine 02 02 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness  3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3)<br><br> |  
+| markdown_short | [oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_3_mm_tape_thickness__3)<br><br> |  
 | md5 | 67fe7d5a9cb64280dc2b5e97f4ac05f6 |  
 | md5_10 | 67fe7d5a9c |  
 | md5_10_upper | 67FE7D5A9C |  

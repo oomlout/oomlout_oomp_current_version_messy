@@ -96,6 +96,7 @@ id_no_color: 2200ohm
 id_no_size: 2200_ohm
 id_no_type: quarter_watt_through_hole_2200_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -103,9 +104,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_2200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm/working)<br>[ro222](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm/working)<br>[Electronic
-  Resistor Quarter Watt Through Hole 2200 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_2200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_2200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm)<br>[ro222](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm)<br>[Electronic
+  Resistor Quarter Watt Through Hole 2200 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_2200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2200_ohm)<br><br>'
 md5: a9a5e963795b53da9bd25aaf17232a5d
 md5_10: a9a5e96379
 md5_10_upper: A9A5E96379

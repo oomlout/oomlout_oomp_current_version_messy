@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 50_mm_id_90_mm_od_20_mm_depth |  
 | id_no_size | 6210_size_50_mm_id_90_mm_od_20_mm_depth |  
 | id_no_type | 6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth/working)<br>[Hardware Bearing 6200 Series 6210 Size 50 Mm Id 90 Mm Od 20 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth)<br>[Hardware Bearing 6200 Series 6210 Size 50 Mm Id 90 Mm Od 20 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth)<br><br> |  
 | md5 | ddd0b4e15de5b9f45d8ce1d980fd5f14 |  
 | md5_10 | ddd0b4e15d |  
 | md5_10_upper | DDD0B4E15D |  

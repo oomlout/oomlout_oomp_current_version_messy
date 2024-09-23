@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 2x36_72_pin_surface_mount |  
 | id_no_type | 2_54_mm_dual_row_2x36_72_pin_surface_mount |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount/working)<br>[hi12x36psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm Dual Row 2X36 72 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount/working)<br><br> |  
-| markdown_short | [electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount/working)<br><br> |  
+| markdown_full | [electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount)<br>[hi12x36psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount)<br>[Electronic Header 2 54 Mm Dual Row 2X36 72 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount)<br><br> |  
+| markdown_short | [electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount)<br><br> |  
 | md5 | cc419fa879b1fec255537aa1a72a3acb |  
 | md5_10 | cc419fa879 |  
 | md5_10_upper | CC419FA879 |  

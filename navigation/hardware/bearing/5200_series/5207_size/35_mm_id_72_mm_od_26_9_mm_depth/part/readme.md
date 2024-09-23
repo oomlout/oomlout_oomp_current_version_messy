@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 35_mm_id_72_mm_od_26_9_mm_depth |  
 | id_no_size | 5207_size_35_mm_id_72_mm_od_26_9_mm_depth |  
 | id_no_type | 5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth/working)<br>[Hardware Bearing 5200 Series 5207 Size 35 Mm Id 72 Mm Od 26 9 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth)<br>[Hardware Bearing 5200 Series 5207 Size 35 Mm Id 72 Mm Od 26 9 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth)<br><br> |  
 | md5 | 6c161cc768d9c60df96f654a754f5e28 |  
 | md5_10 | 6c161cc768 |  
 | md5_10_upper | 6C161CC768 |  

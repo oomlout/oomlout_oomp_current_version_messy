@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 3d5nut |  
 | id_no_size | 3d5__nut |  
 | id_no_type | shaft_3d5__nut |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_shaft_3d5__nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut/working)<br>[Oobb Part Shaft 3D5  Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut/working)<br><br> |  
-| markdown_short | [oobb_part_shaft_3d5__nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut/working)<br><br> |  
+| markdown_full | [oobb_part_shaft_3d5__nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut)<br>[Oobb Part Shaft 3D5  Nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut)<br><br> |  
+| markdown_short | [oobb_part_shaft_3d5__nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut)<br><br> |  
 | md5 | a6f6d75c4772697846e718107ce2d0ac |  
 | md5_10 | a6f6d75c47 |  
 | md5_10_upper | A6F6D75C47 |  

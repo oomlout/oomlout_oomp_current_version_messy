@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 03032d54highervoltageextramm |  
 | id_no_size | 03_03_2d54__higher_voltage_extra_mm |  
 | id_no_type | wire_03_03_2d54__higher_voltage_extra_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_03_2d54__higher_voltage_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm/working)<br>[Oobb Part Wire 03 03 2D54  Higher Voltage Extra Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_03_2d54__higher_voltage_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_03_2d54__higher_voltage_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm)<br>[Oobb Part Wire 03 03 2D54  Higher Voltage Extra Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm)<br><br> |  
+| markdown_short | [oobb_part_wire_03_03_2d54__higher_voltage_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__higher_voltage_extra_mm)<br><br> |  
 | md5 | 334a2aa5e5ca2d17b3e5d029d8b1c924 |  
 | md5_10 | 334a2aa5e5 |  
 | md5_10_upper | 334A2AA5E5 |  

@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | blue |  
 | id_no_type | 1206_blue |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br>[l12l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br>[Electronic Led 1206 Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br><br> |  
-| markdown_short | [electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br><br> |  
+| markdown_full | [electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue)<br>[l12l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue)<br>[Electronic Led 1206 Blue](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue)<br><br> |  
+| markdown_short | [electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue)<br><br> |  
 | md5 | b479a89f585074b74fefdd18b419f86a |  
 | md5_10 | b479a89f58 |  
 | md5_10_upper | B479A89F58 |  

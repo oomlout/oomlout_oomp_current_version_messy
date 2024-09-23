@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | white |  
 | id_no_type | 1206_white |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_1206_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white/working)<br>[l12w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white/working)<br>[Electronic Led 1206 White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white/working)<br><br> |  
-| markdown_short | [electronic_led_1206_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white/working)<br><br> |  
+| markdown_full | [electronic_led_1206_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white)<br>[l12w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white)<br>[Electronic Led 1206 White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white)<br><br> |  
+| markdown_short | [electronic_led_1206_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white)<br><br> |  
 | md5 | 5ae6d5a975a21ab0804a4130e310fc69 |  
 | md5_10 | 5ae6d5a975 |  
 | md5_10_upper | 5AE6D5A975 |  

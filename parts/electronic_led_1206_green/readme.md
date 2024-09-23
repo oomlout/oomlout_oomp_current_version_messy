@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | green |  
 | id_no_type | 1206_green |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br>[l12g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br>[Electronic Led 1206 Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br><br> |  
-| markdown_short | [electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_green/working)<br><br> |  
+| markdown_full | [electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green)<br>[l12g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green)<br>[Electronic Led 1206 Green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green)<br><br> |  
+| markdown_short | [electronic_led_1206_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green)<br><br> |  
 | md5 | 27ecfb7045a092ae26a1371a4b28a62a |  
 | md5_10 | 27ecfb7045 |  
 | md5_10_upper | 27ECFB7045 |  

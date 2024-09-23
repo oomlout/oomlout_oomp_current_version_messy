@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 6_pin_surface_mount_right_angle |  
 | id_no_type | 1_mm_jst_sh_6_pin_surface_mount_right_angle |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [{'id': 'manufacturer_jst', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'name': 'JST', 'part_number': 'SM06B-SRSS-TB'}] |  
-| markdown_full | [electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br>[hjsh6psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br><br>[JST - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM06B-SRSS-TB)<br> |  
-| markdown_short | [electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle/working)<br><br>[JST - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) |  
+| markdown_full | [electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle)<br>[hjsh6psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle)<br><br>[JST - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM06B-SRSS-TB)<br> |  
+| markdown_short | [electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle)<br><br>[JST - SM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) |  
 | md5 | a5fcbe77cce947fd19b46eec74179034 |  
 | md5_10 | a5fcbe77cc |  
 | md5_10_upper | A5FCBE77CC |  

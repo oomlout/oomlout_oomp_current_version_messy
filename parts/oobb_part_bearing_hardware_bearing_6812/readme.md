@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6812 |  
 | id_no_size | hardware_6812 |  
 | id_no_type | bearing_hardware_bearing_6812 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6812](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6812/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6812/working)<br>[Oobb Part Bearing Hardware Bearing 6812](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6812/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6812](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6812/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6812](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812)<br>[Oobb Part Bearing Hardware Bearing 6812](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6812](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812)<br><br> |  
 | md5 | 4e541a3bfd6f14a3928482c0c3e0d6a1 |  
 | md5_10 | 4e541a3bfd |  
 | md5_10_upper | 4E541A3BFD |  

@@ -138,6 +138,7 @@ A closed loop stepper motor controller
 | id_no_color | steppermotorclosedloopmakerbasemksservo42c |  
 | id_no_size | stepper_motor_closed_loop_makerbase_mks_servo42c |  
 | id_no_type | nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
 | manufacturer | makerbase |  
 | manufacturer_capital | Makerbase |  
 | manufacturer_first_letter | m |  
@@ -169,8 +170,8 @@ A closed loop stepper motor controller
 | manufacturer_upper_length_5 | MAKER |  
 | manufacturer_upper_length_6 | MAKERB |  
 | manufacturers | [] |  
-| markdown_full | [electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c/working)<br>[sm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c/working)<br>[Electronic Breakout Board Motor Driver Nema 17 39 Mm Width 39 Mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c/working)<br><br> |  
-| markdown_short | [electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c/working)<br><br> |  
+| markdown_full | [electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br>[sm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br>[Electronic Breakout Board Motor Driver Nema 17 39 Mm Width 39 Mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br><br> |  
+| markdown_short | [electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br><br> |  
 | md5 | d2828883c595fb3eea7bbba33e75ec8c |  
 | md5_10 | d2828883c5 |  
 | md5_10_upper | D2828883C5 |  

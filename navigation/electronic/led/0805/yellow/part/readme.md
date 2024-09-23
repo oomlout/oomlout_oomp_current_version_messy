@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | yellow |  
 | id_no_type | 0805_yellow |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br>[l8y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br>[Electronic Led 0805 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br><br> |  
-| markdown_short | [electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow/working)<br><br> |  
+| markdown_full | [electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br>[l8y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br>[Electronic Led 0805 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br><br> |  
+| markdown_short | [electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br><br> |  
 | md5 | 5c87ad5a4f3215668066a822e24d75cf |  
 | md5_10 | 5c87ad5a4f |  
 | md5_10_upper | 5C87AD5A4F |  

@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030309basicbasicmotor |  
 | id_no_size | 03_03_09__basic_basic_motor |  
 | id_no_type | wire_03_03_09__basic_basic_motor |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_03_09__basic_basic_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor/working)<br>[Oobb Part Wire 03 03 09  Basic Basic Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_03_09__basic_basic_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_03_09__basic_basic_motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor)<br>[Oobb Part Wire 03 03 09  Basic Basic Motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor)<br><br> |  
+| markdown_short | [oobb_part_wire_03_03_09__basic_basic_motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_09__basic_basic_motor)<br><br> |  
 | md5 | 86fd2683c755b025ff8e86776211dc8a |  
 | md5_10 | 86fd2683c7 |  
 | md5_10_upper | 86FD2683C7 |  

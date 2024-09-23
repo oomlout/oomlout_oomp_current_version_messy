@@ -162,6 +162,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1117_1_5_volt |  
 | id_no_size | linear_1117_1_5_volt |  
 | id_no_type | sot_223_linear_1117_1_5_volt |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br>[pms22311171d5v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 1 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br> |  
-| markdown_short | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br> |  
+| markdown_full | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt)<br>[pms22311171d5v](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt)<br>[Electronic Pmic Sot 223 Linear 1117 1 5 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt)<br><br> |  
+| markdown_short | [electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt)<br><br> |  
 | md5 | 6dc5a408f889c1eeeef36d9b6bef6012 |  
 | md5_10 | 6dc5a408f8 |  
 | md5_10_upper | 6DC5A408F8 |  

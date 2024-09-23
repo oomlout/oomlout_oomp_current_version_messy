@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 3_pole |  
 | id_no_type | wago_221_3_pole |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_connector_wago_221_3_pole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole/working)<br>[conw2213po](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole/working)<br>[Electronic Connector Wago 221 3 Pole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole/working)<br><br> |  
-| markdown_short | [electronic_connector_wago_221_3_pole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole/working)<br><br> |  
+| markdown_full | [electronic_connector_wago_221_3_pole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole)<br>[conw2213po](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole)<br>[Electronic Connector Wago 221 3 Pole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole)<br><br> |  
+| markdown_short | [electronic_connector_wago_221_3_pole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole)<br><br> |  
 | md5 | eda53d06bd5f7b2d6638f73bca221c96 |  
 | md5_10 | eda53d06bd |  
 | md5_10_upper | EDA53D06BD |  

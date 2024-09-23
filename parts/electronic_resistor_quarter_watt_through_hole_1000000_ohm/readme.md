@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 1000000_ohm |  
 | id_no_type | quarter_watt_through_hole_1000000_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_quarter_watt_through_hole_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm/working)<br>[ro105](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 1000000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_quarter_watt_through_hole_1000000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_quarter_watt_through_hole_1000000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm)<br>[ro105](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm)<br>[Electronic Resistor Quarter Watt Through Hole 1000000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_quarter_watt_through_hole_1000000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1000000_ohm)<br><br> |  
 | md5 | e1e9e50cbb6b8502cd89c50387dce983 |  
 | md5_10 | e1e9e50cbb |  
 | md5_10_upper | E1E9E50CBB |  

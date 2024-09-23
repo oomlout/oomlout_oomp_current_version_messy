@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | grey |  
 | id_no_type | 2020_grey |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br>[Hardware Aluminium Extrusion 2020 Grey](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br><br> |  
-| markdown_short | [hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br><br> |  
+| markdown_full | [hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br>[Hardware Aluminium Extrusion 2020 Grey](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br><br> |  
+| markdown_short | [hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br><br> |  
 | md5 | 37ea12f1a598bed66a2dab7cb4dd9eaa |  
 | md5_10 | 37ea12f1a5 |  
 | md5_10_upper | 37EA12F1A5 |  

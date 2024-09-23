@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0705126810 |  
 | id_no_size | 07_05_12_6810 |  
 | id_no_type | bearing_plate_07_05_12_6810 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br>[Oobb Part Bearing Plate 07 05 12 6810](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810)<br>[Oobb Part Bearing Plate 07 05 12 6810](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810)<br><br> |  
+| markdown_short | [oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810)<br><br> |  
 | md5 | 439f3445dfcf1ab191f98d8f646d3c1c |  
 | md5_10 | 439f3445df |  
 | md5_10_upper | 439F3445DF |  

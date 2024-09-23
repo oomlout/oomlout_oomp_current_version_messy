@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1d50612d0teethshelectronicpotentiometer17mm |  
 | id_no_size | 1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm |  
 | id_no_type | gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br>[Oobb Part Gear 1D5 06  12D0 Teeth Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br><br> |  
-| markdown_short | [oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br><br> |  
+| markdown_full | [oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm)<br>[Oobb Part Gear 1D5 06  12D0 Teeth Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm)<br><br> |  
+| markdown_short | [oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_electronic_potentiometer_17_mm)<br><br> |  
 | md5 | 43bbbb8c2583cd007d2ec32ba31e9229 |  
 | md5_10 | 43bbbb8c25 |  
 | md5_10_upper | 43BBBB8C25 |  

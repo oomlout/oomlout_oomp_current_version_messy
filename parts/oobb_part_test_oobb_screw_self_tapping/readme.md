@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | screwselftapping |  
 | id_no_size | screw_self_tapping |  
 | id_no_type | test_screw_self_tapping |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[Oobb Part Test Oobb Screw Self Tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br> |  
-| markdown_short | [oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br> |  
+| markdown_full | [oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping)<br>[Oobb Part Test Oobb Screw Self Tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping)<br><br> |  
+| markdown_short | [oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping)<br><br> |  
 | md5 | 1f8018b7bb45465aa891e5d7373cce53 |  
 | md5_10 | 1f8018b7bb |  
 | md5_10_upper | 1F8018B7BB |  

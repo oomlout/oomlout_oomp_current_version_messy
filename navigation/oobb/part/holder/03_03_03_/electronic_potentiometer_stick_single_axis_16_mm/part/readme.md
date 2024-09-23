@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030303electronicpotentiometersticksingleaxis16mm |  
 | id_no_size | 03_03_03__electronic_potentiometer_stick_single_axis_16_mm |  
 | id_no_type | holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm/working)<br>[Oobb Part Holder 03 03 03  Electronic Potentiometer Stick Single Axis 16 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm/working)<br><br> |  
-| markdown_short | [oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm/working)<br><br> |  
+| markdown_full | [oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm)<br>[Oobb Part Holder 03 03 03  Electronic Potentiometer Stick Single Axis 16 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm)<br><br> |  
+| markdown_short | [oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm)<br><br> |  
 | md5 | 26a945741ea3e6525e0975837eb8306a |  
 | md5_10 | 26a945741e |  
 | md5_10_upper | 26A945741E |  

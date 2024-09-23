@@ -91,6 +91,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | anengst180 |  
 | id_no_size | anengst180 |  
 | id_no_type | aneng_st180 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180 |  
 | manufacturer | aneng |  
 | manufacturer_capital | Aneng |  
 | manufacturer_first_letter | a |  
@@ -122,8 +123,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | ANENG |  
 | manufacturer_upper_length_6 | ANENG |  
 | manufacturers | [] |  
-| markdown_full | [tool_electrical_meter_clamp_aneng_st180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_electrical_meter_clamp_aneng_st180/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_electrical_meter_clamp_aneng_st180/working)<br>[Tool Electrical Meter Clamp Aneng St180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_electrical_meter_clamp_aneng_st180/working)<br><br> |  
-| markdown_short | [tool_electrical_meter_clamp_aneng_st180](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_electrical_meter_clamp_aneng_st180/working)<br><br> |  
+| markdown_full | [tool_electrical_meter_clamp_aneng_st180](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180)<br>[Tool Electrical Meter Clamp Aneng St180](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180)<br><br> |  
+| markdown_short | [tool_electrical_meter_clamp_aneng_st180](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180)<br><br> |  
 | md5 | 72240e3bba0c1f774bcf3b2934d8c00b |  
 | md5_10 | 72240e3bba |  
 | md5_10_upper | 72240E3BBA |  

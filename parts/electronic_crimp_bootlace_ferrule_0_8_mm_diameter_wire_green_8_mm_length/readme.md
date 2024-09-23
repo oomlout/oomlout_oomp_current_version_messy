@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | green_8_mm_length |  
 | id_no_type | 0_8_mm_diameter_wire_green_8_mm_length |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length/working)<br>[g8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length/working)<br>[Electronic Crimp Bootlace Ferrule 0 8 Mm Diameter Wire Green 8 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length/working)<br><br> |  
-| markdown_short | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length/working)<br><br> |  
+| markdown_full | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length)<br>[g8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length)<br>[Electronic Crimp Bootlace Ferrule 0 8 Mm Diameter Wire Green 8 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length)<br><br> |  
+| markdown_short | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_green_8_mm_length)<br><br> |  
 | md5 | 4b05bbbb8f26745964cb96d666e4a91e |  
 | md5_10 | 4b05bbbb8f |  
 | md5_10_upper | 4B05BBBB8F |  

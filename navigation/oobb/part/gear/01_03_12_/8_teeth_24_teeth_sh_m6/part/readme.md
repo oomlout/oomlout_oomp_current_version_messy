@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0103128teeth24teethshm6 |  
 | id_no_size | 01_03_12__8_teeth_24_teeth_sh_m6 |  
 | id_no_type | gear_01_03_12__8_teeth_24_teeth_sh_m6 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6/working)<br>[Oobb Part Gear 01 03 12  8 Teeth 24 Teeth Sh M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6/working)<br><br> |  
-| markdown_short | [oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6/working)<br><br> |  
+| markdown_full | [oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6)<br>[Oobb Part Gear 01 03 12  8 Teeth 24 Teeth Sh M6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6)<br><br> |  
+| markdown_short | [oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6)<br><br> |  
 | md5 | 64b7c95d88bf939920e0c9bc79af4698 |  
 | md5_10 | 64b7c95d88 |  
 | md5_10_upper | 64B7C95D88 |  

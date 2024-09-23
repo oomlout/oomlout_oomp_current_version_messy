@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030114ninetydegree |  
 | id_no_size | 03_01_14__ninety_degree |  
 | id_no_type | plate_03_01_14__ninety_degree |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_plate_03_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree/working)<br>[Oobb Part Plate 03 01 14  Ninety Degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree/working)<br><br> |  
-| markdown_short | [oobb_part_plate_03_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree/working)<br><br> |  
+| markdown_full | [oobb_part_plate_03_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree)<br>[Oobb Part Plate 03 01 14  Ninety Degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree)<br><br> |  
+| markdown_short | [oobb_part_plate_03_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree)<br><br> |  
 | md5 | 0bac5fb5a2b328f6c3118ba6fcf9cb6c |  
 | md5_10 | 0bac5fb5a2 |  
 | md5_10_upper | 0BAC5FB5A2 |  

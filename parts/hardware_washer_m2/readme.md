@@ -92,6 +92,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | m2 |  
 | id_no_type | m2 |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -99,8 +100,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[w2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[Hardware Washer M2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br> |  
-| markdown_short | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br> |  
+| markdown_full | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2)<br>[w2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2)<br>[Hardware Washer M2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2)<br><br> |  
+| markdown_short | [hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2)<br><br> |  
 | md5 | a89ac90589f72dbb4aa0d1b6507ce828 |  
 | md5_10 | a89ac90589 |  
 | md5_10_upper | A89AC90589 |  

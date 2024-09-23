@@ -114,6 +114,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | surfacemount |  
 | id_no_size | surface_mount |  
 | id_no_type | usb_micro_surface_mount |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -121,8 +122,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
-| markdown_short | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
+| markdown_full | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
+| markdown_short | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
 | md5 | aae3e879c3fb0042b5bcdf92835870fd |  
 | md5_10 | aae3e879c3 |  
 | md5_10_upper | AAE3E879C3 |  

@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | penny |  
 | id_no_type | m3_penny |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[w3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[Hardware Washer M3 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br> |  
-| markdown_short | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br> |  
+| markdown_full | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny)<br>[w3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny)<br>[Hardware Washer M3 Penny](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny)<br><br> |  
+| markdown_short | [hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny)<br><br> |  
 | md5 | 907fee65ae3dfcfbc74ed8be9e7de117 |  
 | md5_10 | 907fee65ae |  
 | md5_10_upper | 907FEE65AE |  

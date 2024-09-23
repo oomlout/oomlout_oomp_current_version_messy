@@ -162,6 +162,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 1117_adj |  
 | id_no_size | linear_1117_adj |  
 | id_no_type | sot_223_linear_1117_adj |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> |  
-| markdown_short | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br> |  
+| markdown_full | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br> |  
+| markdown_short | [electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br> |  
 | md5 | cdc5644737274c72642f6d91b99a7aaa |  
 | md5_10 | cdc5644737 |  
 | md5_10_upper | CDC5644737 |  

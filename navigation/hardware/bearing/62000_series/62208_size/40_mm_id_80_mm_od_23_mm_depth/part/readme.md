@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 40_mm_id_80_mm_od_23_mm_depth |  
 | id_no_size | 62208_size_40_mm_id_80_mm_od_23_mm_depth |  
 | id_no_type | 62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth/working)<br>[Hardware Bearing 62000 Series 62208 Size 40 Mm Id 80 Mm Od 23 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth)<br>[Hardware Bearing 62000 Series 62208 Size 40 Mm Id 80 Mm Od 23 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth)<br><br> |  
 | md5 | 8af5e07b777cbd3a12980321b544cb78 |  
 | md5_10 | 8af5e07b77 |  
 | md5_10_upper | 8AF5E07B77 |  

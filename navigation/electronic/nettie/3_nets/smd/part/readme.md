@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | smd |  
 | id_no_type | 3_nets_smd |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[nt3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[Electronic Nettie 3 Nets Smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br> |  
-| markdown_short | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br> |  
+| markdown_full | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br>[nt3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br>[Electronic Nettie 3 Nets Smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br><br> |  
+| markdown_short | [electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br><br> |  
 | md5 | 494314f1c04b845b745ce0bd6ae8e357 |  
 | md5_10 | 494314f1c0 |  
 | md5_10_upper | 494314F1C0 |  

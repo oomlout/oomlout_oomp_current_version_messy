@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 2_mm_id_7_mm_od_3_mm_depth |  
 | id_no_size | MR72_size_2_mm_id_7_mm_od_3_mm_depth |  
 | id_no_type | MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth/working)<br>[Hardware Bearing Mr Series Mr72 Size 2 Mm Id 7 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth)<br>[Hardware Bearing Mr Series Mr72 Size 2 Mm Id 7 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR72_size_2_mm_id_7_mm_od_3_mm_depth)<br><br> |  
 | md5 | dfc9d4869e50e962281ab7a7cb4c70e5 |  
 | md5_10 | dfc9d4869e |  
 | md5_10_upper | DFC9D4869E |  

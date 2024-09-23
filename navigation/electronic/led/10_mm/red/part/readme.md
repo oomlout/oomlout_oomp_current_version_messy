@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | red |  
 | id_no_type | 10_mm_red |  
 | kicad_reference | L |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[l10r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[Electronic Led 10 Mm Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br> |  
-| markdown_short | [electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br> |  
+| markdown_full | [electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red)<br>[l10r](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red)<br>[Electronic Led 10 Mm Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red)<br><br> |  
+| markdown_short | [electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red)<br><br> |  
 | md5 | f3ee341dcc022670fa172c7f658f6966 |  
 | md5_10 | f3ee341dcc |  
 | md5_10_upper | F3EE341DCC |  

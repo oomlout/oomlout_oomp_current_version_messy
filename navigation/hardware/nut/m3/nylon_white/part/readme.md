@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | nylon_white |  
 | id_no_type | m3_nylon_white |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br>[Hardware Nut M3 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br><br> |  
-| markdown_short | [hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br><br> |  
+| markdown_full | [hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br>[Hardware Nut M3 Nylon White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br><br> |  
+| markdown_short | [hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br><br> |  
 | md5 | adbe7fd6c89f28962de53d98568a9f65 |  
 | md5_10 | adbe7fd6c8 |  
 | md5_10_upper | ADBE7FD6C8 |  

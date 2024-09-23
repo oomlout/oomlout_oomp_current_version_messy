@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 2200_ohm |  
 | id_no_type | 0201_2200_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_2200_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0222TEE'}] |  
-| markdown_full | [electronic_resistor_0201_2200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2200_ohm/working)<br>[ro222](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2200_ohm/working)<br>[Electronic Resistor 0201 2200 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2200_ohm/working)<br><br>[Uniroyal - NQ01WMJ0222TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0222TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0222TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0222TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0222TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0222TEE)<br> |  
-| markdown_short | [electronic_resistor_0201_2200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_2200_ohm/working)<br><br>[Uniroyal - NQ01WMJ0222TEE- not in jlc basic parts]() |  
+| markdown_full | [electronic_resistor_0201_2200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_2200_ohm)<br>[ro222](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_2200_ohm)<br>[Electronic Resistor 0201 2200 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_2200_ohm)<br><br>[Uniroyal - NQ01WMJ0222TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0222TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0222TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0222TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0222TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0222TEE)<br> |  
+| markdown_short | [electronic_resistor_0201_2200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_2200_ohm)<br><br>[Uniroyal - NQ01WMJ0222TEE- not in jlc basic parts]() |  
 | md5 | 264ba5dcce62226b1802c1adb9bece20 |  
 | md5_10 | 264ba5dcce |  
 | md5_10_upper | 264BA5DCCE |  

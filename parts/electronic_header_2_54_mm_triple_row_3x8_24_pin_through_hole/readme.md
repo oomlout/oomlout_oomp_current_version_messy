@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 3x8_24_pin_through_hole |  
 | id_no_type | 2_54_mm_triple_row_3x8_24_pin_through_hole |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole/working)<br>[hth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole/working)<br>[Electronic Header 2 54 Mm Triple Row 3X8 24 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole/working)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole/working)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole)<br>[hth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole)<br>[Electronic Header 2 54 Mm Triple Row 3X8 24 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br> |  
 | md5 | 728fcd45adc0f33dfcdde696cd4d2a04 |  
 | md5_10 | 728fcd45ad |  
 | md5_10_upper | 728FCD45AD |  

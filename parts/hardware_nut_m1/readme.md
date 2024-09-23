@@ -92,6 +92,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | m1 |  
 | id_no_type | m1 |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -99,8 +100,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1/working)<br>[nu1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1/working)<br>[Hardware Nut M1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1/working)<br><br> |  
-| markdown_short | [hardware_nut_m1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1/working)<br><br> |  
+| markdown_full | [hardware_nut_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1)<br>[nu1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1)<br>[Hardware Nut M1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1)<br><br> |  
+| markdown_short | [hardware_nut_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1)<br><br> |  
 | md5 | f31ea8e54754a7173abea34cb72c0cb7 |  
 | md5_10 | f31ea8e547 |  
 | md5_10_upper | F31EA8E547 |  

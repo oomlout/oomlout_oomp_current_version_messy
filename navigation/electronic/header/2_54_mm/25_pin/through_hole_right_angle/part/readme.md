@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 25_pin_through_hole_right_angle |  
 | id_no_type | 2_54_mm_25_pin_through_hole_right_angle |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_25_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle/working)<br>[hi125pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 25 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_25_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_25_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle)<br>[hi125pthra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle)<br>[Electronic Header 2 54 Mm 25 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_25_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br> |  
 | md5 | b83e3ff113eaccd956c8808a2c64194d |  
 | md5_10 | b83e3ff113 |  
 | md5_10_upper | B83E3FF113 |  

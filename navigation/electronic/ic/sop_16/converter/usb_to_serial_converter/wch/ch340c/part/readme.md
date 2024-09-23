@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | converter_usb_to_serial_converter_wch_ch340c |  
 | id_no_type | sop_16_converter_usb_to_serial_converter_wch_ch340c |  
 | kicad_reference | U |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -170,8 +171,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | WCH |  
 | manufacturer_upper_length_6 | WCH |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[isp16ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> |  
-| markdown_short | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c/working)<br>[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> |  
+| markdown_full | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c)<br>[isp16ch340c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c)<br>[Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c)<br>[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> |  
+| markdown_short | [electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c)<br>[LCSC - C7464026<br>](https://lcsc.com/product-detail/C7464026.html)<br> |  
 | md5 | 8b394cfe55fb40b61533e33d89af18b7 |  
 | md5_10 | 8b394cfe55 |  
 | md5_10_upper | 8B394CFE55 |  

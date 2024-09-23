@@ -116,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 470000_ohm |  
 | id_no_type | 0402_470000_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_470000_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -123,8 +124,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_0402_470000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470000_ohm/working)<br>[r4o474](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470000_ohm/working)<br>[Electronic Resistor 0402 470000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470000_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_0402_470000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470000_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_0402_470000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_470000_ohm)<br>[r4o474](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_470000_ohm)<br>[Electronic Resistor 0402 470000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_470000_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_0402_470000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_470000_ohm)<br><br> |  
 | md5 | 7087cc4c48bb93d3916cc74c1a10975f |  
 | md5_10 | 7087cc4c48 |  
 | md5_10_upper | 7087CC4C48 |  

@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 03032d54motor |  
 | id_no_size | 03_03_2d54__motor |  
 | id_no_type | wire_03_03_2d54__motor |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br>[Oobb Part Wire 03 03 2D54  Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor)<br>[Oobb Part Wire 03 03 2D54  Motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor)<br><br> |  
+| markdown_short | [oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor)<br><br> |  
 | md5 | 8b811bb602edd225b3fff1bc7c6c9b61 |  
 | md5_10 | 8b811bb602 |  
 | md5_10_upper | 8B811BB602 |  

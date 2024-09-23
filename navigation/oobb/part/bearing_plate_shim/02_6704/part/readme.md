@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 026704 |  
 | id_no_size | 02_6704 |  
 | id_no_type | bearing_plate_shim_02_6704 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_shim_02_6704 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_plate_shim_02_6704](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_02_6704/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_02_6704/working)<br>[Oobb Part Bearing Plate Shim 02 6704](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_02_6704/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_plate_shim_02_6704](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_02_6704/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_plate_shim_02_6704](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_shim_02_6704)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_shim_02_6704)<br>[Oobb Part Bearing Plate Shim 02 6704](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_shim_02_6704)<br><br> |  
+| markdown_short | [oobb_part_bearing_plate_shim_02_6704](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_shim_02_6704)<br><br> |  
 | md5 | 3f54201cdc1b1e6939d1f5b565c62e23 |  
 | md5_10 | 3f54201cdc |  
 | md5_10_upper | 3F54201CDC |  

@@ -141,6 +141,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 3_pin_ground_pin_2_8_mega_hertz |  
 | id_no_type | 3213_3_pin_ground_pin_2_8_mega_hertz |  
 | kicad_reference | x |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -148,8 +149,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br>[xcr3213mhz8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br><br> |  
-| markdown_short | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz/working)<br><br> |  
+| markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br>[xcr3213mhz8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br><br> |  
+| markdown_short | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br><br> |  
 | md5 | fbf4f6bd8d89a3cb1a67c8e2973297b3 |  
 | md5_10 | fbf4f6bd8d |  
 | md5_10_upper | FBF4F6BD8D |  

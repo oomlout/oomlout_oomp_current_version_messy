@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 27_pin_through_hole_long |  
 | id_no_type | 2_54_mm_27_pin_through_hole_long |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_2_54_mm_27_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long/working)<br>[sci127pthl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long/working)<br>[Electronic Socket 2 54 Mm 27 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long/working)<br><br> |  
-| markdown_short | [electronic_socket_2_54_mm_27_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long/working)<br><br> |  
+| markdown_full | [electronic_socket_2_54_mm_27_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long)<br>[sci127pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long)<br>[Electronic Socket 2 54 Mm 27 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long)<br><br> |  
+| markdown_short | [electronic_socket_2_54_mm_27_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long)<br><br> |  
 | md5 | ca0878b4dcb42d966fd414f23241af2a |  
 | md5_10 | ca0878b4dc |  
 | md5_10_upper | CA0878B4DC |  

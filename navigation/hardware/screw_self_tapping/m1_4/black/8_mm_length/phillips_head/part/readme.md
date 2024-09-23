@@ -164,6 +164,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | black_8_mm_length_phillips_head |  
 | id_no_type | m1_4_black_8_mm_length_phillips_head |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -171,8 +172,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br>[stb8ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M1 4 Black 8 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br><br> |  
-| markdown_short | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head/working)<br><br> |  
+| markdown_full | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head)<br>[stb8ph](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head)<br>[Hardware Screw Self Tapping M1 4 Black 8 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head)<br><br> |  
+| markdown_short | [hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_8_mm_length_phillips_head)<br><br> |  
 | md5 | e72a3500cc703860bf9c0315c3baa185 |  
 | md5_10 | e72a3500cc |  
 | md5_10_upper | E72A3500CC |  

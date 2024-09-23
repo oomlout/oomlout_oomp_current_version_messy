@@ -114,6 +114,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | throughhole |  
 | id_no_size | through_hole |  
 | id_no_type | usb_a_through_hole |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_a_through_hole |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -121,8 +122,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> |  
-| markdown_short | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> |  
+| markdown_full | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_a_through_hole)<br>[scuath](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_a_through_hole)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_a_through_hole)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> |  
+| markdown_short | [electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_a_through_hole)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br> |  
 | md5 | ac29a1c56fdd56c5fceebef01c86ea00 |  
 | md5_10 | ac29a1c56f |  
 | md5_10_upper | AC29A1C56F |  

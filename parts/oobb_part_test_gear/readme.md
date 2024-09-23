@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | gear |  
 | id_no_size | gear |  
 | id_no_type | test_gear |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_gear |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_test_gear](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_gear/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_gear/working)<br>[Oobb Part Test Gear](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_gear/working)<br><br> |  
-| markdown_short | [oobb_part_test_gear](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_gear/working)<br><br> |  
+| markdown_full | [oobb_part_test_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_gear)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_gear)<br>[Oobb Part Test Gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_gear)<br><br> |  
+| markdown_short | [oobb_part_test_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_gear)<br><br> |  
 | md5 | c1e180c4a8e818cbdf9f0886782a683e |  
 | md5_10 | c1e180c4a8 |  
 | md5_10_upper | C1E180C4A8 |  

@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0310nm8mmtapewidth8mmx26mmlabel |  
 | id_no_size | 03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
 | id_no_type | smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label/working)<br>[Oobb Part Smd Magazine Label Holder 03 10 Nm 8 Mm Tape Width 8 Mm X 26 Mm Label](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label/working)<br><br> |  
-| markdown_short | [oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label/working)<br><br> |  
+| markdown_full | [oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label)<br>[Oobb Part Smd Magazine Label Holder 03 10 Nm 8 Mm Tape Width 8 Mm X 26 Mm Label](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label)<br><br> |  
+| markdown_short | [oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label)<br><br> |  
 | md5 | 06ee86d84082bd957d8420d7f99281b4 |  
 | md5_10 | 06ee86d840 |  
 | md5_10_upper | 06EE86D840 |  

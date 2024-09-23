@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 25_pin_through_hole_short |  
 | id_no_type | 2_54_mm_25_pin_through_hole_short |  
 | kicad_reference | CONN |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -145,8 +146,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_25_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short/working)<br>[hi125pths](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short/working)<br>[Electronic Header 2 54 Mm 25 Pin Through Hole Short](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_25_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_25_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short)<br>[hi125pths](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short)<br>[Electronic Header 2 54 Mm 25 Pin Through Hole Short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_25_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
 | md5 | 6195980bda83aee7c1ebdf23ee713441 |  
 | md5_10 | 6195980bda |  
 | md5_10_upper | 6195980BDA |  

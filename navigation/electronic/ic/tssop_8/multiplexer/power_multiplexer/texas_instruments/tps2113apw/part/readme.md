@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | id_no_type | tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | kicad_reference | IC |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | manufacturer | texas_instruments |  
 | manufacturer_capital | Texas Instruments |  
 | manufacturer_first_letter | t |  
@@ -170,8 +171,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | TEXAS |  
 | manufacturer_upper_length_6 | TEXAS_ |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[itssp8mpptps2113](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[Electronic Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[LCSC - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br> |  
-| markdown_short | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw/working)<br>[LCSC - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br> |  
+| markdown_full | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[itssp8mpptps2113](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[Electronic Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[LCSC - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br> |  
+| markdown_short | [electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[LCSC - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br> |  
 | md5 | 7d9358577cfc04f422284b5e497e24d5 |  
 | md5_10 | 7d9358577c |  
 | md5_10_upper | 7D9358577C |  

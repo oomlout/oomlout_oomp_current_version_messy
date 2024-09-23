@@ -138,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | pic32_microchip_pic32mk1024gpk100 |  
 | id_no_size | mcu_pic32_microchip_pic32mk1024gpk100 |  
 | id_no_type | tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
 | manufacturer | microchip |  
 | manufacturer_capital | Microchip |  
 | manufacturer_first_letter | m |  
@@ -169,8 +170,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | MICRO |  
 | manufacturer_upper_length_6 | MICROC |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br>[imcup32mk1024](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br>[Electronic Ic Tqfp 100 Mcu Pic32 Microchip Pic32Mk1024Gpk100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br><br> |  
-| markdown_short | [electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br><br> |  
+| markdown_full | [electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br>[imcup32mk1024](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br>[Electronic Ic Tqfp 100 Mcu Pic32 Microchip Pic32Mk1024Gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br><br> |  
+| markdown_short | [electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br><br> |  
 | md5 | 108c8d6957bff38fd25e145f05f433fc |  
 | md5_10 | 108c8d6957 |  
 | md5_10_upper | 108C8D6957 |  

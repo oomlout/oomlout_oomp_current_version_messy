@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 0303126704hornadapterprintedshmotorservostandard01 |  
 | id_no_size | 03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01 |  
 | id_no_type | bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01/working)<br>[Oobb Part Bearing Plate 03 03 12 6704  Horn Adapter Printed Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01)<br>[Oobb Part Bearing Plate 03 03 12 6704  Horn Adapter Printed Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01)<br><br> |  
+| markdown_short | [oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_printed_sh_motor_servo_standard_01)<br><br> |  
 | md5 | 7a682a427b8947ccf6c6901ed0e3538d |  
 | md5_10 | 7a682a427b |  
 | md5_10_upper | 7A682A427B |  

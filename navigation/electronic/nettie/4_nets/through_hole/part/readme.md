@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | through_hole |  
 | id_no_type | 4_nets_through_hole |  
 | kicad_reference |  |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[Electronic Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br> |  
-| markdown_short | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br> |  
+| markdown_full | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br>[Electronic Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br> |  
+| markdown_short | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br> |  
 | md5 | ac52abec84c9c9c28eb15db0ca925cd9 |  
 | md5_10 | ac52abec84 |  
 | md5_10_upper | AC52ABEC84 |  

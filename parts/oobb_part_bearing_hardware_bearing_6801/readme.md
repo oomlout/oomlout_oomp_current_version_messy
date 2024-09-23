@@ -113,6 +113,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | hardware6801 |  
 | id_no_size | hardware_6801 |  
 | id_no_type | bearing_hardware_bearing_6801 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6801 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -120,8 +121,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_bearing_hardware_bearing_6801](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6801/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6801/working)<br>[Oobb Part Bearing Hardware Bearing 6801](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6801/working)<br><br> |  
-| markdown_short | [oobb_part_bearing_hardware_bearing_6801](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6801/working)<br><br> |  
+| markdown_full | [oobb_part_bearing_hardware_bearing_6801](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6801)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6801)<br>[Oobb Part Bearing Hardware Bearing 6801](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6801)<br><br> |  
+| markdown_short | [oobb_part_bearing_hardware_bearing_6801](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6801)<br><br> |  
 | md5 | e2f4e50bb74c96acd33bd67b1813c44a |  
 | md5_10 | e2f4e50bb7 |  
 | md5_10_upper | E2F4E50BB7 |  

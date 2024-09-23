@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 030306highervoltagemotorstepper |  
 | id_no_size | 03_03_06__higher_voltage_motor_stepper |  
 | id_no_type | wire_03_03_06__higher_voltage_motor_stepper |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_wire_03_03_06__higher_voltage_motor_stepper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper/working)<br>[Oobb Part Wire 03 03 06  Higher Voltage Motor Stepper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper/working)<br><br> |  
-| markdown_short | [oobb_part_wire_03_03_06__higher_voltage_motor_stepper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper/working)<br><br> |  
+| markdown_full | [oobb_part_wire_03_03_06__higher_voltage_motor_stepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper)<br>[Oobb Part Wire 03 03 06  Higher Voltage Motor Stepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper)<br><br> |  
+| markdown_short | [oobb_part_wire_03_03_06__higher_voltage_motor_stepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__higher_voltage_motor_stepper)<br><br> |  
 | md5 | 6843b1c6af6b51ef82c2eabc47d70733 |  
 | md5_10 | 6843b1c6af |  
 | md5_10_upper | 6843B1C6AF |  

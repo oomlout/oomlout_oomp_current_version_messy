@@ -139,6 +139,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 90_mm_id_115_mm_od_13_mm_depth |  
 | id_no_size | 6818_size_90_mm_id_115_mm_od_13_mm_depth |  
 | id_no_type | 6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -146,8 +147,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth/working)<br>[Hardware Bearing 6800 Series 6818 Size 90 Mm Id 115 Mm Od 13 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth/working)<br><br> |  
+| markdown_full | [hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth)<br>[Hardware Bearing 6800 Series 6818 Size 90 Mm Id 115 Mm Od 13 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth)<br><br> |  
+| markdown_short | [hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6818_size_90_mm_id_115_mm_od_13_mm_depth)<br><br> |  
 | md5 | a3c990084c7b3bc29d166027c4096a19 |  
 | md5_10 | a3c990084c |  
 | md5_10_upper | A3C990084C |  

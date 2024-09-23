@@ -82,6 +82,7 @@ id_no_class: part_plate_06_03_12
 id_no_color: '060312'
 id_no_size: '06_03_12'
 id_no_type: plate_06_03_12
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_06_03_12
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -89,9 +90,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_plate_06_03_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_12/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_12/working)<br>[Oobb
-  Part Plate 06 03 12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_12/working)<br><br>'
-markdown_short: '[oobb_part_plate_06_03_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_12/working)<br><br>'
+markdown_full: '[oobb_part_plate_06_03_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_06_03_12)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_06_03_12)<br>[Oobb
+  Part Plate 06 03 12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_06_03_12)<br><br>'
+markdown_short: '[oobb_part_plate_06_03_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_06_03_12)<br><br>'
 md5: 80bb858602d6a75ff03e78d8ed49ef48
 md5_10: 80bb858602
 md5_10_upper: 80BB858602

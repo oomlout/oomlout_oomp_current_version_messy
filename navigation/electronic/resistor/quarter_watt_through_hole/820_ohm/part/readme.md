@@ -117,6 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 820_ohm |  
 | id_no_type | quarter_watt_through_hole_820_ohm |  
 | kicad_reference | R |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -124,8 +125,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_quarter_watt_through_hole_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm/working)<br>[ro821](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 820 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_quarter_watt_through_hole_820_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm/working)<br><br> |  
+| markdown_full | [electronic_resistor_quarter_watt_through_hole_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm)<br>[ro821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm)<br>[Electronic Resistor Quarter Watt Through Hole 820 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm)<br><br> |  
+| markdown_short | [electronic_resistor_quarter_watt_through_hole_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm)<br><br> |  
 | md5 | 2e05d6879500d66cf8d5f4aea22c0efb |  
 | md5_10 | 2e05d68795 |  
 | md5_10_upper | 2E05D68795 |  

@@ -137,6 +137,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_color | 071306powerbankanker323 |  
 | id_no_size | 07_13_06__powerbank_anker_323 |  
 | id_no_type | holder_07_13_06__powerbank_anker_323 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -144,8 +145,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [oobb_part_holder_07_13_06__powerbank_anker_323](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323/working)<br>[Oobb Part Holder 07 13 06  Powerbank Anker 323](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323/working)<br><br> |  
-| markdown_short | [oobb_part_holder_07_13_06__powerbank_anker_323](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323/working)<br><br> |  
+| markdown_full | [oobb_part_holder_07_13_06__powerbank_anker_323](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323)<br>[Oobb Part Holder 07 13 06  Powerbank Anker 323](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323)<br><br> |  
+| markdown_short | [oobb_part_holder_07_13_06__powerbank_anker_323](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_07_13_06__powerbank_anker_323)<br><br> |  
 | md5 | 8d8367c75a66edd260c96291f113d30d |  
 | md5_10 | 8d8367c75a |  
 | md5_10_upper | 8D8367C75A |  
