@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | 8M2 |  
 | directory | parts/electronic_resistor_0402_8200000_ohm |  
 | distributors | [] |  
-| filter |  |  
+| filter | electronic |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm |  
 | id | electronic_resistor_0402_8200000_ohm |  

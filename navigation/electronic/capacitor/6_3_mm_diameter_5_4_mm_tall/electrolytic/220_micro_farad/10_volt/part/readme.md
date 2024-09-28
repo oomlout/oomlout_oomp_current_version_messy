@@ -155,7 +155,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | E220UF |  
 | directory | parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  
 | distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2833309.html', 'name': 'LCSC', 'part_number': 'C2833309'}] |  
-| filter |  |  
+| filter | electronic |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_6_3x3_9', 'note': 'source footprint kicad_capacitor_smd_cp_elec_6_3x3_9', 'oomp_key': 'oomp_kicad_capacitor_smd_cp_elec_6_3x3_9'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  

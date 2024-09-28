@@ -76,7 +76,7 @@ description_or_color: 7k5
 description_or_color_upper: 7K5
 directory: parts/electronic_resistor_0402_7500_ohm
 distributors: []
-filter: ''
+filter: electronic
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm
 id: electronic_resistor_0402_7500_ohm

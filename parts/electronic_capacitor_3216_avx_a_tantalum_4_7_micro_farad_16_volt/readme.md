@@ -155,7 +155,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | T47UF |  
 | directory | parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
 | distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C7187.html', 'name': 'LCSC', 'part_number': 'C7187'}] |  
-| filter |  |  
+| filter | electronic |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a', 'note': 'source footprint kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a', 'oomp_key': 'oomp_kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_catuf4d7v16_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_catuf4d7v16_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_catuf4d7v16_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  

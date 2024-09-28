@@ -131,7 +131,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | R2K8 |  
 | directory | parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc |  
 | distributors | [] |  
-| filter |  |  
+| filter | electronic |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010', 'note': 'source footprint esden_pkl_led_led_tri_1010', 'oomp_key': 'oomp_esden_pkl_led_led_tri_1010'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc |  
