@@ -29,9 +29,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420105958 |  
-| box_of_box_size_manufacturer_metalmate | 36000 |  
-| box_size_manufacturer_metalmate | 1000 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -68,7 +65,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
-| commonity_code | 7318220098 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -86,7 +82,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color |   |  
 | description_or_color_upper |   |  
 | directory | parts/hardware_washer_m3 |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -117,13 +112,11 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha_upper | 4GGC6 |  
 | md5_6_upper | 723AB6 |  
 | name | Hardware Washer M3 |  
-| name_manufacturer_metalmate | 3MM BRIGHT PLAIN WASHER FORM A SELF COLOUR DIN 125A |  
 | name_no_class | Washer M3 |  
 | name_no_color | M3 |  
 | name_no_size | M3 |  
 | name_no_size_short | M3 |  
 | name_no_type | M3 |  
-| oomp_id | hardware_washer_m3 |  
 | oomp_key | oomp_hardware_washer_m3 |  
 | oomp_word | dolls koala beer |  
 | oomp_word_emoji | :dolls: :koala: :beer: |  
@@ -131,24 +124,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_list | ['dolls', 'koala', 'beer'] |  
 | part_number |  |  
 | part_number_capital |  |  
-| part_number_distributor_orbital_fasteners | 1711000 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 0412T39 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0022 |  
-| price_100 | 0.0022 |  
-| price_1000 | 0.0022 |  
-| price_10000 | 0.0018 |  
-| price_10000_distributor_orbital_fasteners | 0.0018 |  
-| price_1000_distributor_orbital_fasteners | 0.0022 |  
-| price_100_distributor_orbital_fasteners | 0.0022 |  
-| price_1_distributor_orbital_fasteners | 0.0022 |  
-| price_200 | 0.0022 |  
-| price_200_distributor_orbital_fasteners | 0.0022 |  
-| price_current | 0.0022 |  
-| quantity_current | 1000 |  
 | short_code | w3 |  
 | short_code_upper | W3 |  
 | size | m3 |  
@@ -213,5 +192,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | WASH |  
 | type_upper_length_5 | WASHE |  
 | type_upper_length_6 | WASHER |  
-| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-3-2x7x05mm- |  
-| webpage_manufacturer_metalmate | https://www.harclob2b.com/3mm-bright-plain-washer-form-a-self-colour-din-125-0412t39 |  

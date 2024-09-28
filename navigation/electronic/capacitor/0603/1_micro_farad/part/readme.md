@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | 1UF |  
 | directory | parts/electronic_capacitor_0603_1_micro_farad |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'note': 'source footprint kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c6uf1_electronic_capacitor_0603_1_micro_farad'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_1_micro_farad |  

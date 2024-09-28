@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | 1M2 |  
 | directory | parts/electronic_resistor_quarter_watt_through_hole_1200000_ohm |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'note': 'source footprint kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal', 'oomp_key': 'oomp_kicad_resistor_tht_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_ro125_electronic_resistor_quarter_watt_through_hole_1200000_ohm//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_ro125_electronic_resistor_quarter_watt_through_hole_1200000_ohm', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_ro125_electronic_resistor_quarter_watt_through_hole_1200000_ohm'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200000_ohm |  

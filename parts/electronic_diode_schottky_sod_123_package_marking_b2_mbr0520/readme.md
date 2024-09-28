@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C77335.html', 'name': 'LCSC', 'part_number': 'C77335'}, {'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C475717.html', 'name': 'LCSC', 'part_number': 'C475717'}] |  
-| filter | electronic |  
+| filter |  |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123', 'note': 'source footprint kicad_diode_smd_d_sod_123', 'oomp_key': 'oomp_kicad_diode_smd_d_sod_123'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  

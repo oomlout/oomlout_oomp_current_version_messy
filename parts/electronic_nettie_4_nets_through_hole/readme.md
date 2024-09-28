@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_nettie_4_nets_through_hole |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm', 'note': 'source footprint kicad_nettie_nettie_4_tht_pad0_3mm', 'oomp_key': 'oomp_kicad_nettie_nettie_4_tht_pad0_3mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole |  

@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_nettie_3_nets_smd |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_smd_pad0_5mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_smd_pad0_5mm', 'note': 'source footprint kicad_nettie_nettie_3_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_3_smd_pad0_5mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd |  

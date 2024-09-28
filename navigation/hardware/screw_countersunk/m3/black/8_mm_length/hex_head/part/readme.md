@@ -29,9 +29,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420056229 |  
-| box_of_box_size_manufacturer_metalmate | 4800 |  
-| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -92,7 +89,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
-| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -158,7 +154,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color | B8 |  
 | description_or_color_upper | B8 |  
 | directory | parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -189,7 +184,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha_upper | 65NH7 |  
 | md5_6_upper | 9DCC1B |  
 | name | Hardware Screw Countersunk M3 Black 8 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 8 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991 (165) |  
 | name_no_class | Screw Countersunk M3 Black 8 mm Length Hex Head |  
 | name_no_color | 8 mm Length Hex Head |  
 | name_no_size | Black 8 mm Length Hex Head |  
@@ -214,7 +208,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | cs3b8h |  
 | oomlout_short_code_upper | CS3B8H |  
-| oomp_id | hardware_screw_countersunk_m3_black_8_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_countersunk_m3_black_8_mm_length_hex_head |  
 | oomp_word | hearts watermelon muscle |  
 | oomp_word_emoji | :hearts: :watermelon: :muscle: |  
@@ -222,27 +215,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_list | ['hearts', 'watermelon', 'muscle'] |  
 | part_number |  |  
 | part_number_capital |  |  
-| part_number_distributor_orbital_fasteners | 1901010 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1151M390008 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0356 |  
-| price_100 | 0.0356 |  
-| price_1000 | 0.0178 |  
-| price_10000 | 0.0158 |  
-| price_10000_distributor_orbital_fasteners | 0.0158 |  
-| price_1000_distributor_orbital_fasteners | 0.0178 |  
-| price_100_distributor_orbital_fasteners | 0.0356 |  
-| price_1_distributor_orbital_fasteners | 0.0356 |  
-| price_200 | 0.0198 |  
-| price_200_distributor_orbital_fasteners | 0.0198 |  
-| price_current | 0.0198 |  
-| project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 60 |  
-| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 120 |  
-| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 53.4 |  
-| quantity_current | 200 |  
 | short_code | cs3b8h |  
 | short_code_upper | CS3B8H |  
 | size | m3 |  
@@ -307,7 +283,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
-| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-8-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
-| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-8-socket-csk-screw-gr10-9-self-colour-din-799-1151m390008 |  
-| weight | 0.445 |  
-| weight_10 | 4.45 |  

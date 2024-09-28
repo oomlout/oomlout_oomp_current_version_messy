@@ -19,7 +19,6 @@
   * [removable_sh_motor_tt_01](03_03_12_6705_/removable_sh_motor_tt_01)
   * [sandwich_sh_motor_tt_01](03_03_12_6705_/sandwich_sh_motor_tt_01)
 * [03_03_12_6705_sh_coupler_flanged](03_03_12_6705_sh_coupler_flanged)
-* [03_03_12_6705_sh_motor_tt_01](03_03_12_6705_sh_motor_tt_01)
 * [03_04_12_606_](03_04_12_606_)
   * [shifted](03_04_12_606_/shifted)
 * [03_05_12_606](03_05_12_606)

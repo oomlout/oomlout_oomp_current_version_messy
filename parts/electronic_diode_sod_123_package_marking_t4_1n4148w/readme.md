@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_diode_sod_123_package_marking_t4_1n4148w |  
 | distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2099.html', 'name': 'LCSC', 'part_number': 'C2099'}, {'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C444720.html', 'name': 'LCSC', 'part_number': 'C444720'}] |  
-| filter | electronic |  
+| filter |  |  
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123', 'note': 'source footprint kicad_diode_smd_d_sod_123', 'oomp_key': 'oomp_kicad_diode_smd_d_sod_123'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_dsod123pmt44148_electronic_diode_sod_123_package_marking_t4_1n4148w//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_dsod123pmt44148_electronic_diode_sod_123_package_marking_t4_1n4148w', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_dsod123pmt44148_electronic_diode_sod_123_package_marking_t4_1n4148w'}] |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w |  

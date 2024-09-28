@@ -108,7 +108,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | directory | parts/electronic_connector_wago_221_3_pole_wago_221_413 |  
 | distributor_screwfix | 2803R |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413 |  
 | id | electronic_connector_wago_221_3_pole_wago_221_413 |  

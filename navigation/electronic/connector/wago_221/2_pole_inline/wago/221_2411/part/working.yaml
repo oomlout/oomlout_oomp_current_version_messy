@@ -77,7 +77,7 @@ description_or_color_upper: ' '
 directory: parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
 distributor_screwfix: 148RU
 distributors: []
-filter: electronic
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
 id: electronic_connector_wago_221_2_pole_inline_wago_221_2411

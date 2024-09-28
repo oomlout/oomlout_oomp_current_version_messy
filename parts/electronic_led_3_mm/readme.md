@@ -83,7 +83,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_led_3_mm |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm |  
 | id | electronic_led_3_mm |  

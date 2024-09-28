@@ -29,9 +29,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918909 |  
-| box_of_box_size_manufacturer_metalmate | 1000 |  
-| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -92,7 +89,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
-| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -158,7 +154,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color | B60 |  
 | description_or_color_upper | B60 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -189,7 +184,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha_upper | D4MZ |  
 | md5_6_upper | 0958BB |  
 | name | Hardware Screw Socket Cap M3 Black 60 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 60 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (195) |  
 | name_no_class | Screw Socket Cap M3 Black 60 mm Length Hex Head |  
 | name_no_color | 60 mm Length Hex Head |  
 | name_no_size | Black 60 mm Length Hex Head |  
@@ -214,7 +208,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc3b60h |  
 | oomlout_short_code_upper | SC3B60H |  
-| oomp_id | hardware_screw_socket_cap_m3_black_60_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m3_black_60_mm_length_hex_head |  
 | oomp_word | angry water_buffalo curry |  
 | oomp_word_emoji | :angry: :water_buffalo: :curry: |  
@@ -224,16 +217,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_capital |  |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M390060 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
-| price_200 | missing_value |  
-| price_current | missing_value |  
-| quantity_current | 200 |  
 | short_code | sc3b60h |  
 | short_code_upper | SC3B60H |  
 | size | m3 |  
@@ -298,4 +283,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
-| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-60-socket-cap-screw-gr12-9-self-colour-din-91-1150m390060 |  

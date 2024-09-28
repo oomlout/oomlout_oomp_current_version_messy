@@ -106,7 +106,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color |   |  
 | description_or_color_upper |   |  
 | directory | parts/hardware_washer_m3_penny |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -142,7 +141,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M3 Penny |  
-| oomp_id | hardware_washer_m3_penny |  
 | oomp_key | oomp_hardware_washer_m3_penny |  
 | oomp_word | scissors speaker ambulance |  
 | oomp_word_emoji | :scissors: :speaker: :ambulance: |  
@@ -150,23 +148,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_list | ['scissors', 'speaker', 'ambulance'] |  
 | part_number |  |  
 | part_number_capital |  |  
-| part_number_distributor_orbital_fasteners | 1731000 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0105 |  
-| price_100 | 0.0105 |  
-| price_1000 | 0.0105 |  
-| price_10000 | 0.0084 |  
-| price_10000_distributor_orbital_fasteners | 0.0084 |  
-| price_1000_distributor_orbital_fasteners | 0.0105 |  
-| price_100_distributor_orbital_fasteners | 0.0105 |  
-| price_1_distributor_orbital_fasteners | 0.0105 |  
-| price_200 | 0.0105 |  
-| price_200_distributor_orbital_fasteners | 0.0105 |  
-| price_current | 0.0105 |  
-| quantity_current | 100 |  
 | short_code | w3 |  
 | short_code_upper | W3 |  
 | size | m3 |  
@@ -231,4 +216,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | WASH |  
 | type_upper_length_5 | WASHE |  
 | type_upper_length_6 | WASHER |  
-| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  

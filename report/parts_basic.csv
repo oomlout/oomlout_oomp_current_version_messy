@@ -43,12 +43,9 @@ electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_v
 electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz,xcr3213mhz12,Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz,electronic,ceramic_resonator,3213,3_pin_ground_pin_2,12_mega_hertz,,,
 electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz,xcr3213mhz16,Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz,electronic,ceramic_resonator,3213,3_pin_ground_pin_2,16_mega_hertz,,,
 electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz,xcr3213mhz8,Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz,electronic,ceramic_resonator,3213,3_pin_ground_pin_2,8_mega_hertz,,,
-electronic_connector_wago_221_2_pole_inline,conw2212poi,Electronic Connector Wago 221 2 Pole Inline,electronic,connector,wago_221,,2_pole_inline,,,
 electronic_connector_wago_221_2_pole_inline_wago_221_2411,conw221,Electronic Connector Wago 221 2 Pole Inline Wago 221 2411,electronic,connector,wago_221,,,2_pole_inline,wago,221_2411
 electronic_connector_wago_221_2_pole_wago_221_412,conw221,Electronic Connector Wago 221 2 Pole Wago 221 412,electronic,connector,wago_221,,,2_pole,wago,221_412
-electronic_connector_wago_221_3_pole,conw2213po,Electronic Connector Wago 221 3 Pole,electronic,connector,wago_221,,3_pole,,,
 electronic_connector_wago_221_3_pole_wago_221_413,conw221,Electronic Connector Wago 221 3 Pole Wago 221 413,electronic,connector,wago_221,,,3_pole,wago,221_413
-electronic_connector_wago_221_5_pole,conw2215po,Electronic Connector Wago 221 5 Pole,electronic,connector,wago_221,,5_pole,,,
 electronic_connector_wago_221_5_pole_wago_221_415,conw221,Electronic Connector Wago 221 5 Pole Wago 221 415,electronic,connector,wago_221,,,5_pole,wago,221_415
 electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_black_8_mm_length,b8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Black 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,black,8_mm_length,,,
 electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_blue_8_mm_length,l8,Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Blue 8 mm Length,electronic,crimp_bootlace_ferrule,0_55_mm_diameter_wire,blue,8_mm_length,,,
@@ -99,3 +96,6 @@ electronic_crimp_housing_2_54_mm_black_8_pin_dupont,chi1b8pd,Electronic Crimp Ho
 electronic_crimp_housing_2_54_mm_black_9_pin_dupont,chi1b9pd,Electronic Crimp Housing 2 54 mm Black 9 Pin Dupont,electronic,crimp_housing,2_54_mm,black,9_pin,dupont,,
 electronic_diode_schottky_sod_123_package_marking_b2_mbr0520,dssod123pmb2mbr0520,Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520,electronic,diode_schottky,sod_123,,,package_marking_b2,,mbr0520
 electronic_diode_sod_123_package_marking_t4_1n4148w,dsod123pmt44148,Electronic Diode Sod 123 Package Marking T4 1N4148W,electronic,diode,sod_123,,,package_marking_t4,,1n4148w
+electronic_header_1_mm_jst_sh_10_pin_surface_mount,hjsh10psm,Electronic Header 1 mm Jst Sh 10 Pin Surface Mount,electronic,header,1_mm_jst_sh,,10_pin,surface_mount,,
+electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle,hjsh10psmra,Electronic Header 1 mm Jst Sh 10 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,10_pin,surface_mount_right_angle,,
+electronic_header_1_mm_jst_sh_2_pin_surface_mount,hjsh2psm,Electronic Header 1 mm Jst Sh 2 Pin Surface Mount,electronic,header,1_mm_jst_sh,,2_pin,surface_mount,,

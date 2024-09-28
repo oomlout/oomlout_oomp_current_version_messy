@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper | 680K |  
 | directory | parts/electronic_resistor_0201_680000_ohm |  
 | distributors | [] |  
-| filter | electronic |  
+| filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_680000_ohm |  
 | id | electronic_resistor_0201_680000_ohm |  

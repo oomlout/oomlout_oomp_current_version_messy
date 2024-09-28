@@ -1,5 +1,3 @@
-* [basic_basic_basic](basic_basic_basic)
 * [basic_basic_basic_basic](basic_basic_basic_basic)
 * [basic_basic_basic_higher_voltage](basic_basic_basic_higher_voltage)
-* [basic_basic_motor](basic_basic_motor)
 * [higher_voltage_basic_basic_motor_stepper](higher_voltage_basic_basic_motor_stepper)
