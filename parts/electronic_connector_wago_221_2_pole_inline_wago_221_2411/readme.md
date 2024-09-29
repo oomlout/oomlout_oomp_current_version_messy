@@ -107,6 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411 |  
 | distributor_screwfix | 148RU |  
+| distributor_screwfix_link | https://www.screwfix.com/p/148ru |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  

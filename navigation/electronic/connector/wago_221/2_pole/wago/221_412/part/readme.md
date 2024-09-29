@@ -107,6 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color_upper |   |  
 | directory | parts/electronic_connector_wago_221_2_pole_wago_221_412 |  
 | distributor_screwfix | 8421R |  
+| distributor_screwfix_link | https://www.screwfix.com/p/8421r |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
