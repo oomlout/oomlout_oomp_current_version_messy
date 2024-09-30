@@ -55,11 +55,10 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a1_594_mm_width_841_mm_height
-height: 841 mm
 id: paper_sheet_a1_594_mm_width_841_mm_height
 id_no_class: sheet_a1_594_mm_width_841_mm_height
 id_no_color: a1594mmwidth841mmheight
-id_no_size: a1594mmwidth841mmheight
+id_no_size: a1_594_mm_width_841_mm_height
 id_no_type: a1_594_mm_width_841_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a1_594_mm_width_841_mm_height
 manufacturer: ''
@@ -84,8 +83,8 @@ md5_6_upper: 4B62A7
 name: Paper Sheet A1 594 mm Width 841 mm Height
 name_no_class: Sheet A1 594 mm Width 841 mm Height
 name_no_color: A1594mmwidth841mmheight
-name_no_size: A1594mmwidth841mmheight
-name_no_size_short: A1594Mmwidth841Mmheight
+name_no_size: A1 594 mm Width 841 mm Height
+name_no_size_short: A1 594 Mm Width 841 Mm Height
 name_no_type: A1 594 mm Width 841 mm Height
 oomp_key: oomp_paper_sheet_a1_594_mm_width_841_mm_height
 oomp_word: penguin tulip guitar
@@ -98,46 +97,46 @@ oomp_word_list:
 - penguin
 - tulip
 - guitar
-part_number: a1_594_mm_width_841_mm_height
-part_number_capital: A1.594 mm Width 841 mm Height
-part_number_first_letter: a
-part_number_first_letter_upper: A
-part_number_length_1: a
-part_number_length_2: a1
-part_number_length_3: a1_
-part_number_length_4: a1_5
-part_number_length_5: a1_59
-part_number_length_6: a1_594
-part_number_name: A1 594 mm Width 841 mm Height
-part_number_no_space_length_1: a
-part_number_no_space_length_2: a1
-part_number_no_space_length_3: a15
-part_number_no_space_length_4: a159
-part_number_no_space_length_5: a1594
-part_number_no_space_length_6: a1594m
-part_number_no_space_upper_length_1: A
-part_number_no_space_upper_length_2: A1
-part_number_no_space_upper_length_3: A15
-part_number_no_space_upper_length_4: A159
-part_number_no_space_upper_length_5: A1594
-part_number_no_space_upper_length_6: A1594M
-part_number_upper: A1_594_MM_WIDTH_841_MM_HEIGHT
-part_number_upper_length_1: A
-part_number_upper_length_2: A1
-part_number_upper_length_3: A1_
-part_number_upper_length_4: A1_5
-part_number_upper_length_5: A1_59
-part_number_upper_length_6: A1_594
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_name: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: a1_594_mm_width_841_mm_height
+size_capital: A1.594 mm Width 841 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a1
+size_length_3: a1_
+size_length_4: a1_5
+size_length_5: a1_59
+size_length_6: a1_594
+size_name: A1 594 mm Width 841 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a1
+size_no_space_length_3: a15
+size_no_space_length_4: a159
+size_no_space_length_5: a1594
+size_no_space_length_6: a1594m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A1
+size_no_space_upper_length_3: A15
+size_no_space_upper_length_4: A159
+size_no_space_upper_length_5: A1594
+size_no_space_upper_length_6: A1594M
+size_only_numbers: '1594841'
+size_only_numbers_no_zeros: '1594841'
+size_upper: A1_594_MM_WIDTH_841_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A1
+size_upper_length_3: A1_
+size_upper_length_4: A1_5
+size_upper_length_5: A1_59
+size_upper_length_6: A1_594
 type: sheet
 type_capital: Sheet
 type_first_letter: s
@@ -168,4 +167,3 @@ type_upper_length_3: SHE
 type_upper_length_4: SHEE
 type_upper_length_5: SHEET
 type_upper_length_6: SHEET
-width: 594 mm

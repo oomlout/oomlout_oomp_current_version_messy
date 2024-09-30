@@ -55,11 +55,10 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a5_148_mm_width_210_mm_height
-height: 210 mm
 id: paper_sheet_a5_148_mm_width_210_mm_height
 id_no_class: sheet_a5_148_mm_width_210_mm_height
 id_no_color: a5148mmwidth210mmheight
-id_no_size: a5148mmwidth210mmheight
+id_no_size: a5_148_mm_width_210_mm_height
 id_no_type: a5_148_mm_width_210_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a5_148_mm_width_210_mm_height
 manufacturer: ''
@@ -84,8 +83,8 @@ md5_6_upper: '866162'
 name: Paper Sheet A5 148 mm Width 210 mm Height
 name_no_class: Sheet A5 148 mm Width 210 mm Height
 name_no_color: A5148mmwidth210mmheight
-name_no_size: A5148mmwidth210mmheight
-name_no_size_short: A5148Mmwidth210Mmheight
+name_no_size: A5 148 mm Width 210 mm Height
+name_no_size_short: A5 148 Mm Width 210 Mm Height
 name_no_type: A5 148 mm Width 210 mm Height
 oomp_key: oomp_paper_sheet_a5_148_mm_width_210_mm_height
 oomp_word: bath bouquet tulip
@@ -98,46 +97,46 @@ oomp_word_list:
 - bath
 - bouquet
 - tulip
-part_number: a5_148_mm_width_210_mm_height
-part_number_capital: A5.148 mm Width 210 mm Height
-part_number_first_letter: a
-part_number_first_letter_upper: A
-part_number_length_1: a
-part_number_length_2: a5
-part_number_length_3: a5_
-part_number_length_4: a5_1
-part_number_length_5: a5_14
-part_number_length_6: a5_148
-part_number_name: A5 148 mm Width 210 mm Height
-part_number_no_space_length_1: a
-part_number_no_space_length_2: a5
-part_number_no_space_length_3: a51
-part_number_no_space_length_4: a514
-part_number_no_space_length_5: a5148
-part_number_no_space_length_6: a5148m
-part_number_no_space_upper_length_1: A
-part_number_no_space_upper_length_2: A5
-part_number_no_space_upper_length_3: A51
-part_number_no_space_upper_length_4: A514
-part_number_no_space_upper_length_5: A5148
-part_number_no_space_upper_length_6: A5148M
-part_number_upper: A5_148_MM_WIDTH_210_MM_HEIGHT
-part_number_upper_length_1: A
-part_number_upper_length_2: A5
-part_number_upper_length_3: A5_
-part_number_upper_length_4: A5_1
-part_number_upper_length_5: A5_14
-part_number_upper_length_6: A5_148
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_name: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: a5_148_mm_width_210_mm_height
+size_capital: A5.148 mm Width 210 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a5
+size_length_3: a5_
+size_length_4: a5_1
+size_length_5: a5_14
+size_length_6: a5_148
+size_name: A5 148 mm Width 210 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a5
+size_no_space_length_3: a51
+size_no_space_length_4: a514
+size_no_space_length_5: a5148
+size_no_space_length_6: a5148m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A5
+size_no_space_upper_length_3: A51
+size_no_space_upper_length_4: A514
+size_no_space_upper_length_5: A5148
+size_no_space_upper_length_6: A5148M
+size_only_numbers: '5148210'
+size_only_numbers_no_zeros: '514821'
+size_upper: A5_148_MM_WIDTH_210_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A5
+size_upper_length_3: A5_
+size_upper_length_4: A5_1
+size_upper_length_5: A5_14
+size_upper_length_6: A5_148
 type: sheet
 type_capital: Sheet
 type_first_letter: s
@@ -168,4 +167,3 @@ type_upper_length_3: SHE
 type_upper_length_4: SHEE
 type_upper_length_5: SHEET
 type_upper_length_6: SHEET
-width: 148 mm

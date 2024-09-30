@@ -12,12 +12,12 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_id: paper_sheet_a6_105_mm_width_148_mm_height
   * classification: paper
   * type: sheet
-  * size: 
+  * size: a6_105_mm_width_148_mm_height
   * color: 
   * description_main: 
   * description_extra: 
   * manufacturer: 
-  * part_number: a6_105_mm_width_148_mm_height
+  * part_number: 
 
 ### other_codes
 * short_code: 
@@ -86,11 +86,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height |  
-| height | 148 mm |  
 | id | paper_sheet_a6_105_mm_width_148_mm_height |  
 | id_no_class | sheet_a6_105_mm_width_148_mm_height |  
 | id_no_color | a6105mmwidth148mmheight |  
-| id_no_size | a6105mmwidth148mmheight |  
+| id_no_size | a6_105_mm_width_148_mm_height |  
 | id_no_type | a6_105_mm_width_148_mm_height |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height |  
 | manufacturer |  |  
@@ -114,54 +113,54 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name | Paper Sheet A6 105 mm Width 148 mm Height |  
 | name_no_class | Sheet A6 105 mm Width 148 mm Height |  
 | name_no_color | A6105mmwidth148mmheight |  
-| name_no_size | A6105mmwidth148mmheight |  
-| name_no_size_short | A6105Mmwidth148Mmheight |  
+| name_no_size | A6 105 mm Width 148 mm Height |  
+| name_no_size_short | A6 105 Mm Width 148 Mm Height |  
 | name_no_type | A6 105 mm Width 148 mm Height |  
 | oomp_key | oomp_paper_sheet_a6_105_mm_width_148_mm_height |  
 | oomp_word | tea snake sunny |  
 | oomp_word_emoji | :tea: :snake: :sunny: |  
 | oomp_word_emoji_list | [':tea:', ':snake:', ':sunny:'] |  
 | oomp_word_list | ['tea', 'snake', 'sunny'] |  
-| part_number | a6_105_mm_width_148_mm_height |  
-| part_number_capital | A6.105 mm Width 148 mm Height |  
-| part_number_first_letter | a |  
-| part_number_first_letter_upper | A |  
-| part_number_length_1 | a |  
-| part_number_length_2 | a6 |  
-| part_number_length_3 | a6_ |  
-| part_number_length_4 | a6_1 |  
-| part_number_length_5 | a6_10 |  
-| part_number_length_6 | a6_105 |  
-| part_number_name | A6 105 mm Width 148 mm Height |  
-| part_number_no_space_length_1 | a |  
-| part_number_no_space_length_2 | a6 |  
-| part_number_no_space_length_3 | a61 |  
-| part_number_no_space_length_4 | a610 |  
-| part_number_no_space_length_5 | a6105 |  
-| part_number_no_space_length_6 | a6105m |  
-| part_number_no_space_upper_length_1 | A |  
-| part_number_no_space_upper_length_2 | A6 |  
-| part_number_no_space_upper_length_3 | A61 |  
-| part_number_no_space_upper_length_4 | A610 |  
-| part_number_no_space_upper_length_5 | A6105 |  
-| part_number_no_space_upper_length_6 | A6105M |  
-| part_number_upper | A6_105_MM_WIDTH_148_MM_HEIGHT |  
-| part_number_upper_length_1 | A |  
-| part_number_upper_length_2 | A6 |  
-| part_number_upper_length_3 | A6_ |  
-| part_number_upper_length_4 | A6_1 |  
-| part_number_upper_length_5 | A6_10 |  
-| part_number_upper_length_6 | A6_105 |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_name |  |  
+| part_number_upper |  |  
 | short_code |  |  
 | short_code_upper |  |  
-| size |  |  
-| size_capital |  |  
-| size_first_letter |  |  
-| size_first_letter_upper |  |  
-| size_name |  |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper |  |  
+| size | a6_105_mm_width_148_mm_height |  
+| size_capital | A6.105 mm Width 148 mm Height |  
+| size_first_letter | a |  
+| size_first_letter_upper | A |  
+| size_length_1 | a |  
+| size_length_2 | a6 |  
+| size_length_3 | a6_ |  
+| size_length_4 | a6_1 |  
+| size_length_5 | a6_10 |  
+| size_length_6 | a6_105 |  
+| size_name | A6 105 mm Width 148 mm Height |  
+| size_no_space_length_1 | a |  
+| size_no_space_length_2 | a6 |  
+| size_no_space_length_3 | a61 |  
+| size_no_space_length_4 | a610 |  
+| size_no_space_length_5 | a6105 |  
+| size_no_space_length_6 | a6105m |  
+| size_no_space_upper_length_1 | A |  
+| size_no_space_upper_length_2 | A6 |  
+| size_no_space_upper_length_3 | A61 |  
+| size_no_space_upper_length_4 | A610 |  
+| size_no_space_upper_length_5 | A6105 |  
+| size_no_space_upper_length_6 | A6105M |  
+| size_only_numbers | 6105148 |  
+| size_only_numbers_no_zeros | 615148 |  
+| size_upper | A6_105_MM_WIDTH_148_MM_HEIGHT |  
+| size_upper_length_1 | A |  
+| size_upper_length_2 | A6 |  
+| size_upper_length_3 | A6_ |  
+| size_upper_length_4 | A6_1 |  
+| size_upper_length_5 | A6_10 |  
+| size_upper_length_6 | A6_105 |  
 | type | sheet |  
 | type_capital | Sheet |  
 | type_first_letter | s |  
@@ -192,4 +191,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
-| width | 105 mm |  

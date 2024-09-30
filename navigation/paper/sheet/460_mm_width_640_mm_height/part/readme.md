@@ -12,12 +12,12 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_id: paper_sheet_460_mm_width_640_mm_height
   * classification: paper
   * type: sheet
-  * size: 
+  * size: 460_mm_width_640_mm_height
   * color: 
   * description_main: 
   * description_extra: 
   * manufacturer: 
-  * part_number: 460_mm_width_640_mm_height
+  * part_number: 
 
 ### other_codes
 * short_code: 
@@ -86,11 +86,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_460_mm_width_640_mm_height |  
-| height | 640 mm |  
 | id | paper_sheet_460_mm_width_640_mm_height |  
 | id_no_class | sheet_460_mm_width_640_mm_height |  
 | id_no_color | 460mmwidth640mmheight |  
-| id_no_size | 460mmwidth640mmheight |  
+| id_no_size | 460_mm_width_640_mm_height |  
 | id_no_type | 460_mm_width_640_mm_height |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_460_mm_width_640_mm_height |  
 | manufacturer |  |  
@@ -114,54 +113,54 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name | Paper Sheet 460 mm Width 640 mm Height |  
 | name_no_class | Sheet 460 mm Width 640 mm Height |  
 | name_no_color | 460mmwidth640mmheight |  
-| name_no_size | 460mmwidth640mmheight |  
-| name_no_size_short | 460Mmwidth640Mmheight |  
+| name_no_size | 460 mm Width 640 mm Height |  
+| name_no_size_short | 460 Mm Width 640 Mm Height |  
 | name_no_type | 460 mm Width 640 mm Height |  
 | oomp_key | oomp_paper_sheet_460_mm_width_640_mm_height |  
 | oomp_word | new_moon car fountain |  
 | oomp_word_emoji | :new_moon: :car: :fountain: |  
 | oomp_word_emoji_list | [':new_moon:', ':car:', ':fountain:'] |  
 | oomp_word_list | ['new_moon', 'car', 'fountain'] |  
-| part_number | 460_mm_width_640_mm_height |  
-| part_number_capital | 460 mm Width 640 mm Height |  
-| part_number_first_letter | 4 |  
-| part_number_first_letter_upper | 4 |  
-| part_number_length_1 | 4 |  
-| part_number_length_2 | 46 |  
-| part_number_length_3 | 460 |  
-| part_number_length_4 | 460_ |  
-| part_number_length_5 | 460_m |  
-| part_number_length_6 | 460_mm |  
-| part_number_name | 460 mm Width 640 mm Height |  
-| part_number_no_space_length_1 | 4 |  
-| part_number_no_space_length_2 | 46 |  
-| part_number_no_space_length_3 | 460 |  
-| part_number_no_space_length_4 | 460m |  
-| part_number_no_space_length_5 | 460mm |  
-| part_number_no_space_length_6 | 460mmw |  
-| part_number_no_space_upper_length_1 | 4 |  
-| part_number_no_space_upper_length_2 | 46 |  
-| part_number_no_space_upper_length_3 | 460 |  
-| part_number_no_space_upper_length_4 | 460M |  
-| part_number_no_space_upper_length_5 | 460MM |  
-| part_number_no_space_upper_length_6 | 460MMW |  
-| part_number_upper | 460_MM_WIDTH_640_MM_HEIGHT |  
-| part_number_upper_length_1 | 4 |  
-| part_number_upper_length_2 | 46 |  
-| part_number_upper_length_3 | 460 |  
-| part_number_upper_length_4 | 460_ |  
-| part_number_upper_length_5 | 460_M |  
-| part_number_upper_length_6 | 460_MM |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_name |  |  
+| part_number_upper |  |  
 | short_code |  |  
 | short_code_upper |  |  
-| size |  |  
-| size_capital |  |  
-| size_first_letter |  |  
-| size_first_letter_upper |  |  
-| size_name |  |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper |  |  
+| size | 460_mm_width_640_mm_height |  
+| size_capital | 460 mm Width 640 mm Height |  
+| size_first_letter | 4 |  
+| size_first_letter_upper | 4 |  
+| size_length_1 | 4 |  
+| size_length_2 | 46 |  
+| size_length_3 | 460 |  
+| size_length_4 | 460_ |  
+| size_length_5 | 460_m |  
+| size_length_6 | 460_mm |  
+| size_name | 460 mm Width 640 mm Height |  
+| size_no_space_length_1 | 4 |  
+| size_no_space_length_2 | 46 |  
+| size_no_space_length_3 | 460 |  
+| size_no_space_length_4 | 460m |  
+| size_no_space_length_5 | 460mm |  
+| size_no_space_length_6 | 460mmw |  
+| size_no_space_upper_length_1 | 4 |  
+| size_no_space_upper_length_2 | 46 |  
+| size_no_space_upper_length_3 | 460 |  
+| size_no_space_upper_length_4 | 460M |  
+| size_no_space_upper_length_5 | 460MM |  
+| size_no_space_upper_length_6 | 460MMW |  
+| size_only_numbers | 460640 |  
+| size_only_numbers_no_zeros | 4664 |  
+| size_upper | 460_MM_WIDTH_640_MM_HEIGHT |  
+| size_upper_length_1 | 4 |  
+| size_upper_length_2 | 46 |  
+| size_upper_length_3 | 460 |  
+| size_upper_length_4 | 460_ |  
+| size_upper_length_5 | 460_M |  
+| size_upper_length_6 | 460_MM |  
 | type | sheet |  
 | type_capital | Sheet |  
 | type_first_letter | s |  
@@ -192,4 +191,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
-| width | 460 mm |  

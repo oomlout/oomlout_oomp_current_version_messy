@@ -12,12 +12,12 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_id: paper_sheet_a4_210_mm_width_297_mm_height
   * classification: paper
   * type: sheet
-  * size: 
+  * size: a4_210_mm_width_297_mm_height
   * color: 
   * description_main: 
   * description_extra: 
   * manufacturer: 
-  * part_number: a4_210_mm_width_297_mm_height
+  * part_number: 
 
 ### other_codes
 * short_code: 
@@ -86,11 +86,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height |  
-| height | 297 mm |  
 | id | paper_sheet_a4_210_mm_width_297_mm_height |  
 | id_no_class | sheet_a4_210_mm_width_297_mm_height |  
 | id_no_color | a4210mmwidth297mmheight |  
-| id_no_size | a4210mmwidth297mmheight |  
+| id_no_size | a4_210_mm_width_297_mm_height |  
 | id_no_type | a4_210_mm_width_297_mm_height |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height |  
 | manufacturer |  |  
@@ -114,54 +113,54 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name | Paper Sheet A4 210 mm Width 297 mm Height |  
 | name_no_class | Sheet A4 210 mm Width 297 mm Height |  
 | name_no_color | A4210mmwidth297mmheight |  
-| name_no_size | A4210mmwidth297mmheight |  
-| name_no_size_short | A4210Mmwidth297Mmheight |  
+| name_no_size | A4 210 mm Width 297 mm Height |  
+| name_no_size_short | A4 210 Mm Width 297 Mm Height |  
 | name_no_type | A4 210 mm Width 297 mm Height |  
 | oomp_key | oomp_paper_sheet_a4_210_mm_width_297_mm_height |  
 | oomp_word | ring school corn |  
 | oomp_word_emoji | :ring: :school: :corn: |  
 | oomp_word_emoji_list | [':ring:', ':school:', ':corn:'] |  
 | oomp_word_list | ['ring', 'school', 'corn'] |  
-| part_number | a4_210_mm_width_297_mm_height |  
-| part_number_capital | A4.210 mm Width 297 mm Height |  
-| part_number_first_letter | a |  
-| part_number_first_letter_upper | A |  
-| part_number_length_1 | a |  
-| part_number_length_2 | a4 |  
-| part_number_length_3 | a4_ |  
-| part_number_length_4 | a4_2 |  
-| part_number_length_5 | a4_21 |  
-| part_number_length_6 | a4_210 |  
-| part_number_name | A4 210 mm Width 297 mm Height |  
-| part_number_no_space_length_1 | a |  
-| part_number_no_space_length_2 | a4 |  
-| part_number_no_space_length_3 | a42 |  
-| part_number_no_space_length_4 | a421 |  
-| part_number_no_space_length_5 | a4210 |  
-| part_number_no_space_length_6 | a4210m |  
-| part_number_no_space_upper_length_1 | A |  
-| part_number_no_space_upper_length_2 | A4 |  
-| part_number_no_space_upper_length_3 | A42 |  
-| part_number_no_space_upper_length_4 | A421 |  
-| part_number_no_space_upper_length_5 | A4210 |  
-| part_number_no_space_upper_length_6 | A4210M |  
-| part_number_upper | A4_210_MM_WIDTH_297_MM_HEIGHT |  
-| part_number_upper_length_1 | A |  
-| part_number_upper_length_2 | A4 |  
-| part_number_upper_length_3 | A4_ |  
-| part_number_upper_length_4 | A4_2 |  
-| part_number_upper_length_5 | A4_21 |  
-| part_number_upper_length_6 | A4_210 |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_name |  |  
+| part_number_upper |  |  
 | short_code |  |  
 | short_code_upper |  |  
-| size |  |  
-| size_capital |  |  
-| size_first_letter |  |  
-| size_first_letter_upper |  |  
-| size_name |  |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper |  |  
+| size | a4_210_mm_width_297_mm_height |  
+| size_capital | A4.210 mm Width 297 mm Height |  
+| size_first_letter | a |  
+| size_first_letter_upper | A |  
+| size_length_1 | a |  
+| size_length_2 | a4 |  
+| size_length_3 | a4_ |  
+| size_length_4 | a4_2 |  
+| size_length_5 | a4_21 |  
+| size_length_6 | a4_210 |  
+| size_name | A4 210 mm Width 297 mm Height |  
+| size_no_space_length_1 | a |  
+| size_no_space_length_2 | a4 |  
+| size_no_space_length_3 | a42 |  
+| size_no_space_length_4 | a421 |  
+| size_no_space_length_5 | a4210 |  
+| size_no_space_length_6 | a4210m |  
+| size_no_space_upper_length_1 | A |  
+| size_no_space_upper_length_2 | A4 |  
+| size_no_space_upper_length_3 | A42 |  
+| size_no_space_upper_length_4 | A421 |  
+| size_no_space_upper_length_5 | A4210 |  
+| size_no_space_upper_length_6 | A4210M |  
+| size_only_numbers | 4210297 |  
+| size_only_numbers_no_zeros | 421297 |  
+| size_upper | A4_210_MM_WIDTH_297_MM_HEIGHT |  
+| size_upper_length_1 | A |  
+| size_upper_length_2 | A4 |  
+| size_upper_length_3 | A4_ |  
+| size_upper_length_4 | A4_2 |  
+| size_upper_length_5 | A4_21 |  
+| size_upper_length_6 | A4_210 |  
 | type | sheet |  
 | type_capital | Sheet |  
 | type_first_letter | s |  
@@ -192,4 +191,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
-| width | 210 mm |  

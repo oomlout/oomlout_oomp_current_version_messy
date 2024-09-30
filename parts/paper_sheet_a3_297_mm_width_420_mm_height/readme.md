@@ -12,12 +12,12 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_id: paper_sheet_a3_297_mm_width_420_mm_height
   * classification: paper
   * type: sheet
-  * size: 
+  * size: a3_297_mm_width_420_mm_height
   * color: 
   * description_main: 
   * description_extra: 
   * manufacturer: 
-  * part_number: a3_297_mm_width_420_mm_height
+  * part_number: 
 
 ### other_codes
 * short_code: 
@@ -86,11 +86,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height |  
-| height | 420 mm |  
 | id | paper_sheet_a3_297_mm_width_420_mm_height |  
 | id_no_class | sheet_a3_297_mm_width_420_mm_height |  
 | id_no_color | a3297mmwidth420mmheight |  
-| id_no_size | a3297mmwidth420mmheight |  
+| id_no_size | a3_297_mm_width_420_mm_height |  
 | id_no_type | a3_297_mm_width_420_mm_height |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height |  
 | manufacturer |  |  
@@ -114,54 +113,54 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name | Paper Sheet A3 297 mm Width 420 mm Height |  
 | name_no_class | Sheet A3 297 mm Width 420 mm Height |  
 | name_no_color | A3297mmwidth420mmheight |  
-| name_no_size | A3297mmwidth420mmheight |  
-| name_no_size_short | A3297Mmwidth420Mmheight |  
+| name_no_size | A3 297 mm Width 420 mm Height |  
+| name_no_size_short | A3 297 Mm Width 420 Mm Height |  
 | name_no_type | A3 297 mm Width 420 mm Height |  
 | oomp_key | oomp_paper_sheet_a3_297_mm_width_420_mm_height |  
 | oomp_word | new_moon hamburger up |  
 | oomp_word_emoji | :new_moon: :hamburger: :up: |  
 | oomp_word_emoji_list | [':new_moon:', ':hamburger:', ':up:'] |  
 | oomp_word_list | ['new_moon', 'hamburger', 'up'] |  
-| part_number | a3_297_mm_width_420_mm_height |  
-| part_number_capital | A3.297 mm Width 420 mm Height |  
-| part_number_first_letter | a |  
-| part_number_first_letter_upper | A |  
-| part_number_length_1 | a |  
-| part_number_length_2 | a3 |  
-| part_number_length_3 | a3_ |  
-| part_number_length_4 | a3_2 |  
-| part_number_length_5 | a3_29 |  
-| part_number_length_6 | a3_297 |  
-| part_number_name | A3 297 mm Width 420 mm Height |  
-| part_number_no_space_length_1 | a |  
-| part_number_no_space_length_2 | a3 |  
-| part_number_no_space_length_3 | a32 |  
-| part_number_no_space_length_4 | a329 |  
-| part_number_no_space_length_5 | a3297 |  
-| part_number_no_space_length_6 | a3297m |  
-| part_number_no_space_upper_length_1 | A |  
-| part_number_no_space_upper_length_2 | A3 |  
-| part_number_no_space_upper_length_3 | A32 |  
-| part_number_no_space_upper_length_4 | A329 |  
-| part_number_no_space_upper_length_5 | A3297 |  
-| part_number_no_space_upper_length_6 | A3297M |  
-| part_number_upper | A3_297_MM_WIDTH_420_MM_HEIGHT |  
-| part_number_upper_length_1 | A |  
-| part_number_upper_length_2 | A3 |  
-| part_number_upper_length_3 | A3_ |  
-| part_number_upper_length_4 | A3_2 |  
-| part_number_upper_length_5 | A3_29 |  
-| part_number_upper_length_6 | A3_297 |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_name |  |  
+| part_number_upper |  |  
 | short_code |  |  
 | short_code_upper |  |  
-| size |  |  
-| size_capital |  |  
-| size_first_letter |  |  
-| size_first_letter_upper |  |  
-| size_name |  |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper |  |  
+| size | a3_297_mm_width_420_mm_height |  
+| size_capital | A3.297 mm Width 420 mm Height |  
+| size_first_letter | a |  
+| size_first_letter_upper | A |  
+| size_length_1 | a |  
+| size_length_2 | a3 |  
+| size_length_3 | a3_ |  
+| size_length_4 | a3_2 |  
+| size_length_5 | a3_29 |  
+| size_length_6 | a3_297 |  
+| size_name | A3 297 mm Width 420 mm Height |  
+| size_no_space_length_1 | a |  
+| size_no_space_length_2 | a3 |  
+| size_no_space_length_3 | a32 |  
+| size_no_space_length_4 | a329 |  
+| size_no_space_length_5 | a3297 |  
+| size_no_space_length_6 | a3297m |  
+| size_no_space_upper_length_1 | A |  
+| size_no_space_upper_length_2 | A3 |  
+| size_no_space_upper_length_3 | A32 |  
+| size_no_space_upper_length_4 | A329 |  
+| size_no_space_upper_length_5 | A3297 |  
+| size_no_space_upper_length_6 | A3297M |  
+| size_only_numbers | 3297420 |  
+| size_only_numbers_no_zeros | 329742 |  
+| size_upper | A3_297_MM_WIDTH_420_MM_HEIGHT |  
+| size_upper_length_1 | A |  
+| size_upper_length_2 | A3 |  
+| size_upper_length_3 | A3_ |  
+| size_upper_length_4 | A3_2 |  
+| size_upper_length_5 | A3_29 |  
+| size_upper_length_6 | A3_297 |  
 | type | sheet |  
 | type_capital | Sheet |  
 | type_first_letter | s |  
@@ -192,4 +191,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
-| width | 297 mm |  

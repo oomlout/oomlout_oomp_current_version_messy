@@ -151,6 +151,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_distributor_amazon | 0.8275 |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  
