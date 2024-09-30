@@ -14,6 +14,7 @@ computer_tablet_microsoft_surface_pro_4_microsoft_model_1724,,Computer Tablet Mi
 computer_tablet_microsoft_surface_pro_5_microsoft_model_1796,,Computer Tablet Microsoft Surface Pro 5 Microsoft Model 1796,computer,tablet,microsoft_surface,,pro_5,,microsoft,model_1796
 computer_tablet_microsoft_surface_pro_7_microsoft_model_1866,,Computer Tablet Microsoft Surface Pro 7 Microsoft Model 1866,computer,tablet,microsoft_surface,,pro_7,,microsoft,model_1866
 computer_webcam_external_microsoft_hd_3000_model_1492,,Computer Webcam External Microsoft Hd 3000 Model 1492,computer,webcam,external,,,,microsoft,hd_3000_model_1492
+electrical_light_fixing_hardware_hook_68_mm_width,,Electrical Light Fixing Hardware Hook 68 mm Width,electrical,light_fixing_hardware_hook,68_mm_width,,,,,
 electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w,,Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W,electrical,light_panel,600_mm_x_600_mm,,,,baumatic,bx_lc6060_36w
 electronic_battery_box_aa_battery_4_cell,,Electronic Battery Box Aa Battery 4 Cell,electronic,battery_box,aa_battery,,4_cell,,,
 electronic_breakout_board_mcu_devkitc_espressif_esp32,dce32,Electronic Breakout Board MCU Devkitc Espressif Esp32,electronic,breakout_board_mcu,devkitc,,espressif_esp32,,,
@@ -98,4 +99,3 @@ electronic_diode_schottky_sod_123_package_marking_b2_mbr0520,dssod123pmb2mbr0520
 electronic_diode_sod_123_package_marking_t4_1n4148w,dsod123pmt44148,Electronic Diode Sod 123 Package Marking T4 1N4148W,electronic,diode,sod_123,,,package_marking_t4,,1n4148w
 electronic_header_1_mm_jst_sh_10_pin_surface_mount,hjsh10psm,Electronic Header 1 mm Jst Sh 10 Pin Surface Mount,electronic,header,1_mm_jst_sh,,10_pin,surface_mount,,
 electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle,hjsh10psmra,Electronic Header 1 mm Jst Sh 10 Pin Surface Mount Right Angle,electronic,header,1_mm_jst_sh,,10_pin,surface_mount_right_angle,,
-electronic_header_1_mm_jst_sh_2_pin_surface_mount,hjsh2psm,Electronic Header 1 mm Jst Sh 2 Pin Surface Mount,electronic,header,1_mm_jst_sh,,2_pin,surface_mount,,
