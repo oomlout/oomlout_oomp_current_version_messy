@@ -1,4 +1,4 @@
-# Three D Printer Filament 1 75 mm Pla Aqua Reel 3Dqf  
+# Three D Printer Filament 1 75 mm Pla Eco Black Reel 3Dqf  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -9,11 +9,11 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 ### id
-* oomp_id: three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf
+* oomp_id: three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf
   * classification: three_d_printer
   * type: filament
   * size: 1_75_mm
-  * color: pla_aqua
+  * color: pla_eco_black
   * description_main: reel
   * description_extra: 
   * manufacturer: 3dqf
@@ -21,10 +21,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### other_codes
 * short_code: 
-* oomp_word: dog pig skull
-* oomp_word_emoji :dog: :pig: :skull:
-* md5_6_alpha: 1zyu8
-* md5_6: 333c20
+* oomp_word: ramen corn office
+* oomp_word_emoji :ramen: :corn: :office:
+* md5_6_alpha: 7g1xz
+* md5_6: bed4d7
 
 ### all codes 
 | key | value |  
@@ -59,36 +59,36 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_4 | THRE |  
 | classification_upper_length_5 | THREE |  
 | classification_upper_length_6 | THREE_ |  
-| color | pla_aqua |  
-| color_capital | Pla Aqua |  
+| color | pla_eco_black |  
+| color_capital | Pla Eco Black |  
 | color_first_letter | p |  
 | color_first_letter_upper | P |  
 | color_length_1 | p |  
 | color_length_2 | pl |  
 | color_length_3 | pla |  
 | color_length_4 | pla_ |  
-| color_length_5 | pla_a |  
-| color_length_6 | pla_aq |  
-| color_name | Pla Aqua |  
+| color_length_5 | pla_e |  
+| color_length_6 | pla_ec |  
+| color_name | Pla Eco Black |  
 | color_no_space_length_1 | p |  
 | color_no_space_length_2 | pl |  
 | color_no_space_length_3 | pla |  
-| color_no_space_length_4 | plaa |  
-| color_no_space_length_5 | plaaq |  
-| color_no_space_length_6 | plaaqu |  
+| color_no_space_length_4 | plae |  
+| color_no_space_length_5 | plaec |  
+| color_no_space_length_6 | plaeco |  
 | color_no_space_upper_length_1 | P |  
 | color_no_space_upper_length_2 | PL |  
 | color_no_space_upper_length_3 | PLA |  
-| color_no_space_upper_length_4 | PLAA |  
-| color_no_space_upper_length_5 | PLAAQ |  
-| color_no_space_upper_length_6 | PLAAQU |  
-| color_upper | PLA_AQUA |  
+| color_no_space_upper_length_4 | PLAE |  
+| color_no_space_upper_length_5 | PLAEC |  
+| color_no_space_upper_length_6 | PLAECO |  
+| color_upper | PLA_ECO_BLACK |  
 | color_upper_length_1 | P |  
 | color_upper_length_2 | PL |  
 | color_upper_length_3 | PLA |  
 | color_upper_length_4 | PLA_ |  
-| color_upper_length_5 | PLA_A |  
-| color_upper_length_6 | PLA_AQ |  
+| color_upper_length_5 | PLA_E |  
+| color_upper_length_6 | PLA_EC |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -129,15 +129,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_only_numbers_short |   |  
 | description_or_color | P  |  
 | description_or_color_upper | P  |  
-| directory | parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf |  
+| directory | parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf |  
 | distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf |  
-| id | three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf |  
-| id_no_class | filament_1_75_mm_pla_aqua_reel_3dqf |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf |  
+| id | three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf |  
+| id_no_class | filament_1_75_mm_pla_eco_black_reel_3dqf |  
 | id_no_color | reel_3dqf |  
-| id_no_size | pla_aqua_reel_3dqf |  
-| id_no_type | 1_75_mm_pla_aqua_reel_3dqf |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf |  
+| id_no_size | pla_eco_black_reel_3dqf |  
+| id_no_type | 1_75_mm_pla_eco_black_reel_3dqf |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf |  
 | manufacturer | 3dqf |  
 | manufacturer_capital | 3Dqf |  
 | manufacturer_first_letter | 3 |  
@@ -169,28 +169,28 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_upper_length_5 | 3DQF |  
 | manufacturer_upper_length_6 | 3DQF |  
 | manufacturers | [] |  
-| markdown_full | [three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf)<br>[Three D Printer Filament 1 75 Mm Pla Aqua Reel 3Dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf)<br><br> |  
-| markdown_short | [three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf)<br><br> |  
-| md5 | 333c200f6b7c57230038119429044fce |  
-| md5_10 | 333c200f6b |  
-| md5_10_upper | 333C200F6B |  
-| md5_5 | 333c2 |  
-| md5_5_upper | 333C2 |  
-| md5_6 | 333c20 |  
-| md5_6_alpha | 1zyu8 |  
-| md5_6_alpha_upper | 1ZYU8 |  
-| md5_6_upper | 333C20 |  
-| name | Three D Printer Filament 1 75 mm Pla Aqua Reel 3Dqf |  
-| name_no_class | Filament 1 75 mm Pla Aqua Reel 3Dqf |  
+| markdown_full | [three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf)<br>[Three D Printer Filament 1 75 Mm Pla Eco Black Reel 3Dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf)<br><br> |  
+| markdown_short | [three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf)<br><br> |  
+| md5 | bed4d7598db3581e9b3cb2d161c299f8 |  
+| md5_10 | bed4d7598d |  
+| md5_10_upper | BED4D7598D |  
+| md5_5 | bed4d |  
+| md5_5_upper | BED4D |  
+| md5_6 | bed4d7 |  
+| md5_6_alpha | 7g1xz |  
+| md5_6_alpha_upper | 7G1XZ |  
+| md5_6_upper | BED4D7 |  
+| name | Three D Printer Filament 1 75 mm Pla Eco Black Reel 3Dqf |  
+| name_no_class | Filament 1 75 mm Pla Eco Black Reel 3Dqf |  
 | name_no_color | Reel 3Dqf |  
-| name_no_size | Pla Aqua Reel 3Dqf |  
-| name_no_size_short | Pla Aqua Reel 3Dqf |  
-| name_no_type | 1 75 mm Pla Aqua Reel 3Dqf |  
-| oomp_key | oomp_three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf |  
-| oomp_word | dog pig skull |  
-| oomp_word_emoji | :dog: :pig: :skull: |  
-| oomp_word_emoji_list | [':dog:', ':pig:', ':skull:'] |  
-| oomp_word_list | ['dog', 'pig', 'skull'] |  
+| name_no_size | Pla Eco Black Reel 3Dqf |  
+| name_no_size_short | Pla Eco Black Reel 3Dqf |  
+| name_no_type | 1 75 mm Pla Eco Black Reel 3Dqf |  
+| oomp_key | oomp_three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf |  
+| oomp_word | ramen corn office |  
+| oomp_word_emoji | :ramen: :corn: :office: |  
+| oomp_word_emoji_list | [':ramen:', ':corn:', ':office:'] |  
+| oomp_word_list | ['ramen', 'corn', 'office'] |  
 | part_number |  |  
 | part_number_capital |  |  
 | part_number_first_letter |  |  

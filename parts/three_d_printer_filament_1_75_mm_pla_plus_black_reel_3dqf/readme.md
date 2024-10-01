@@ -138,7 +138,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | pla_plus_black_reel_3dqf |  
 | id_no_type | 1_75_mm_pla_plus_black_reel_3dqf |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf |  
-| link_purchase | https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament |  
 | manufacturer | 3dqf |  
 | manufacturer_capital | 3Dqf |  
 | manufacturer_first_letter | 3 |  
@@ -198,13 +197,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_current | 0.017491666666666666 |  
-| price_per | 0.017491666666666666 |  
-| price_per_gram | 0.017491666666666666 |  
-| price_per_kilogram | 17.491666666666667 |  
 | short_code |  |  
 | short_code_upper |  |  
-| short_name |  |  
 | size | 1_75_mm |  
 | size_capital | 1.75 mm |  
 | size_first_letter | 1 |  
@@ -267,4 +261,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | FILA |  
 | type_upper_length_5 | FILAM |  
 | type_upper_length_6 | FILAME |  
-| weight | 1 |  
